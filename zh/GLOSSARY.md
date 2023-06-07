@@ -25,6 +25,18 @@
 
 [阿哥拉](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%93%A5%E6%8B%89)是古希腊城市中心的节日、集会和集市所在地。因此，它是一个重要的社会机构，也是希腊城邦的一个特征。
 
+## Tonio Kröger
+
+[《托尼欧·克洛格》](https://book.douban.com/subject/1261882/)是托马斯·曼的中篇小说，写于于1901年初。
+
+## L'Avventura
+
+米开朗基罗·安东尼奥尼的著名电影[《奇遇》](https://movie.douban.com/subject/1389923/)
+
+## Grand Tour
+
+壮游即是前面提到的绅士之旅。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -42,6 +54,14 @@
 ## Walter Benjamin
 
 [瓦尔特·本雅明(1892-1940)](https://zh.wikipedia.org/wiki/%E7%93%A6%E5%B0%94%E7%89%B9%C2%B7%E6%9C%AC%E9%9B%85%E6%98%8E)是出身德国的阿什肯纳兹犹太裔哲学家、文化评论家和散文家。
+
+## Dr. Johnson
+
+即[塞缪尔·约翰逊(1709-1784)](https://zh.wikipedia.org/wiki/%E5%A1%9E%E7%BC%AA%E5%B0%94%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A)常称为约翰逊博士，是英国历史上最有名的文人之一，集文评家、诗人、散文家、传记家于一身。
+
+## Winckelmann
+
+[爱德华·温克尔曼](https://en.wikipedia.org/wiki/Eduard_Winkelmann)(1838-1896)是德国19世纪著名历史学家，挖掘、收集、整理了很多中世纪资料，主要研究领域是霍亨斯陶芬王朝后期的历史。
 
 # 地名
 
@@ -72,3 +92,19 @@
 ## Acireale
 
 [阿奇雷亚莱](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%87%E9%9B%B7%E4%BA%9A%E8%8E%B1)是卡塔尼亚的一个市镇。
+
+## Ortygia
+
+[奥尔蒂基亚岛](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E8%92%82%E8%B4%BE%E5%B2%9B)是锡拉库萨的一个岛屿，又称为老城（Città Vecchia），包括许多历史建筑。
+
+## Thermopylae
+
+[温泉关](https://zh.wikipedia.org/wiki/%E6%BA%AB%E6%B3%89%E9%97%9C)是希腊中部东海岸卡利兹罗蒙(Kallidhromon)山和马利亚科斯(Maliakos)湾之间的一条狭窄通道。[温泉关战役](https://zh.wikipedia.org/wiki/%E6%B8%A9%E6%B3%89%E5%85%B3%E6%88%98%E5%BD%B9)发生在前480年，是波希战争中的一次著名战役，希腊的斯巴达国王列奥尼达一世率领三百名斯巴达精锐战士与部分希腊城邦联军于温泉关抵抗波斯帝国，成功拖延波斯军队进攻，争取到雅典及其他城邦准备战役的宝贵时间，为之后希腊的胜利立下大功。但因寡不敌众，三百名（一说298）斯巴达战士及殿后的志愿军全部阵亡，列奥尼达被斩首。
+
+## Canossa
+
+[卡诺莎](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E)因[卡诺莎城堡](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E%E5%9F%8E%E5%A0%A1 "卡诺莎城堡")而著称。1077年[神圣罗马帝国](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD "神圣罗马帝国")帝国皇帝[亨利四世](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD)，赤脚在雪地里站立了三天，恳求教皇[格里高利七世](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%E4%B8%83%E4%B8%96)饶恕他，史称“[卡诺莎之行](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E%E4%B9%8B%E8%A1%8C)”。
+
+## Arkadien
+
+[阿卡迪亚](https://de.wikipedia.org/wiki/Arkadien)位于希腊半岛，传说这里的人们安居乐业，后引申为“世外桃源”，并不是意大利的[阿卡迪亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E8%BF%AA%E4%BA%9A_(%E7%A6%8F%E8%B4%BE%E7%9C%81))。
