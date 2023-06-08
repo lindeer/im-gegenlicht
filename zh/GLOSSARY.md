@@ -37,6 +37,22 @@
 
 壮游即是前面提到的绅士之旅。
 
+## Baron von Riedesel
+
+[李德塞贵族家族](https://en.wikipedia.org/wiki/Riedesel)是13世纪初开始出现在法律文书中的德国贵族家族，属于骑士阶层。几个世纪以来，都是作为士兵、行政人员和顾问服务各种各样的高级贵族。
+
+## Landolina
+
+[兰多利纳](https://it.wikipedia.org/wiki/Landolina)是一个诺曼底家族，是古代阿尔萨斯伯爵的后裔，可能是哈布斯堡王朝的祖先。
+
+## Magna Graecia
+
+[大希腊](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%B8%8C%E8%85%8A)指公元前8世纪到公元前6世纪，古希腊人在安纳托利亚、北非以及南欧的意大利半岛南部建立一系列殖民城邦的总称。
+
+## Troerinnen
+
+[特洛伊妇女](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%A6%87%E5%A5%B3)是欧里庇得斯的著名悲剧。用特洛伊战争这个真实的故事，映射公元前416年雅典人在墨罗斯岛的大屠杀。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -62,6 +78,38 @@
 ## Winckelmann
 
 [爱德华·温克尔曼](https://en.wikipedia.org/wiki/Eduard_Winkelmann)(1838-1896)是德国19世纪著名历史学家，挖掘、收集、整理了很多中世纪资料，主要研究领域是霍亨斯陶芬王朝后期的历史。
+
+## Lorrain
+
+[克洛德·洛兰](https://zh.wikipedia.org/wiki/%E5%85%8B%E6%B4%9B%E5%BE%B7%C2%B7%E6%B4%9B%E5%85%B0)(1600-1682)，法国风景画家，主要活动在意大利。洛兰以前绘画的主题通常是宗教或神话，洛兰开创了大量风景绘画的风格。
+
+## August von Platen
+
+[奥古斯特·冯·普拉滕(1796-1835)](https://de.wikipedia.org/wiki/August_von_Platen-Hallerm%C3%BCnde)是罕见的语言天才。
+
+## Horaz
+
+[昆图斯·贺拉提乌斯·弗拉库斯(前65-前8)](https://zh.wikipedia.org/wiki/%E8%B4%BA%E6%8B%89%E6%96%AF)是古罗马奥古斯都时期的著名诗人、批评家、翻译家，古罗马文学“黄金时代”的代表人物。
+
+## Felix Mendelssohn
+
+[费利克斯·门德尔松(1809-1847)](https://zh.wikipedia.org/wiki/%E8%B4%B9%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E9%97%A8%E5%BE%B7%E5%B0%94%E6%9D%BE%C2%B7%E5%B7%B4%E6%89%98%E5%B0%94%E8%BF%AA)是德国浪漫派音乐代表人物之一。
+
+## Vergil
+
+[普布利乌斯·维吉利乌斯·马罗(前70-前19)](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%90%89%E5%B0%94)是古罗马奥古斯都时代的国民诗人。
+
+## Ovid
+
+[普布利乌斯·奥维狄乌斯·纳索(前43-17年)](https://zh.wikipedia.org/wiki/%E5%A5%A7%E7%B6%AD%E5%BE%B7)是古罗马奥古斯都时代诗人，与贺拉斯、卡图卢斯和维吉尔齐名。
+
+## Euripides
+
+[欧里庇得斯(前480-前406)](https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%87%8C%E5%BA%87%E5%BE%97%E6%96%AF)古希腊著名悲剧作家。
+
+## Mommsen
+
+[特奥多尔·蒙森(1817-1903)](https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%A4%9A%E5%B0%94%C2%B7%E8%92%99%E6%A3%AE)是德国古典学者、法学家、历史学家、记者、政治家、考古学家、作家，1902年凭借巨著《罗马史》获得诺贝尔文学奖。
 
 # 地名
 
@@ -108,3 +156,11 @@
 ## Arkadien
 
 [阿卡迪亚](https://de.wikipedia.org/wiki/Arkadien)位于希腊半岛，传说这里的人们安居乐业，后引申为“世外桃源”，并不是意大利的[阿卡迪亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E8%BF%AA%E4%BA%9A_(%E7%A6%8F%E8%B4%BE%E7%9C%81))。
+
+## Villa Landolina
+
+[兰多利纳别墅](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%C2%B7%E5%A5%A5%E8%A5%BF%E5%9C%B0%E5%8C%BA%E8%80%83%E5%8F%A4%E5%8D%9A%E7%89%A9%E9%A6%86#%E5%85%B0%E5%A4%9A%E5%88%A9%E7%BA%B3%E5%88%AB%E5%A2%85)花园。
+
+## Metapont
+
+[梅塔蓬特](https://en.wikipedia.org/wiki/Metapontum)是大希腊的一个重要城市，在布拉达努斯河和卡苏恩图斯河（现代巴森托）之间。遗址位于意大利巴西利卡塔地区马泰拉省。
