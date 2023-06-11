@@ -53,6 +53,10 @@
 
 [特洛伊妇女](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%B4%9B%E4%BC%8A%E5%A6%87%E5%A5%B3)是欧里庇得斯的著名悲剧。用特洛伊战争这个真实的故事，映射公元前416年雅典人在墨罗斯岛的大屠杀。
 
+## Sacco di Roma
+
+罗马城历史上发生过多次被攻破后被洗劫的事件，称为[罗马之劫](https://zh.wikipedia.org/zh-hans/%E7%BD%97%E9%A9%AC%E4%B9%8B%E5%8A%AB)。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -111,6 +115,30 @@
 
 [特奥多尔·蒙森(1817-1903)](https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%A4%9A%E5%B0%94%C2%B7%E8%92%99%E6%A3%AE)是德国古典学者、法学家、历史学家、记者、政治家、考古学家、作家，1902年凭借巨著《罗马史》获得诺贝尔文学奖。
 
+## Tyrann Dionysios
+
+叙拉古的[狄奥尼修斯一世](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%8B%84%E5%A5%A5%E5%B0%BC%E8%A5%BF%E5%A5%A5%E6%96%AF)，也叫大狄奥尼修斯。古希腊西西里岛叙拉古的僭主（公元前405年至公元前367年在位）。下文提到的狄奥尼修斯二世就是狄奥尼修斯一世的儿子，即小狄奥尼修斯。
+
+## Pindar
+
+[品达(前518-前438)](https://zh.wikipedia.org/wiki/%E5%93%81%E8%BE%BE)是古希腊抒情诗人
+
+## Theokrit
+
+[忒奥克里托斯(前310-前250)](https://zh.wikipedia.org/wiki/%E5%BF%92%E5%A5%A5%E5%85%8B%E9%87%8C%E6%89%98%E6%96%AF)，一般写作Theocritus，古希腊著名田园诗人，学者。
+
+## 狄奥尼西乌斯
+
+[狄奥尼西乌斯](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A5%A5%E5%B0%BC%E8%A5%BF%E4%B9%8C%E6%96%AF)是公元前5世纪前后古希腊挽歌体诗人。
+
+## Damokles
+
+[达摩克利斯](https://zh.wikipedia.org/wiki/%E8%BE%BE%E6%91%A9%E5%85%8B%E5%88%A9%E6%96%AF)是公元前4世纪叙拉古僭主狄奥尼修斯二世的朝臣，非常喜欢奉承狄奥尼修斯很幸运。
+
+## Marcellus
+
+[马塞拉斯(前268-前208)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E5%8D%A2%E6%96%AF)是罗马共和国时期的军事指挥官，外号“罗马之剑”。
+
 # 地名
 
 ## Syrakus
@@ -164,3 +192,7 @@
 ## Metapont
 
 [梅塔蓬特](https://en.wikipedia.org/wiki/Metapontum)是大希腊的一个重要城市，在布拉达努斯河和卡苏恩图斯河（现代巴森托）之间。遗址位于意大利巴西利卡塔地区马泰拉省。
+
+## Plemmyrion
+
+普莱米里昂
