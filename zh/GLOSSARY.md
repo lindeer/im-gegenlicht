@@ -25,6 +25,10 @@
 
 [阿哥拉](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%93%A5%E6%8B%89)是古希腊城市中心的节日、集会和集市所在地。因此，它是一个重要的社会机构，也是希腊城邦的一个特征。
 
+## Fuimus Troes
+
+意思为”我们以前在特洛伊“，是一部由贾斯珀·费希尔(Jasper Fisher)创作的诗歌剧，讲述了公元前55年尤利乌斯·凯撒入侵不列颠的故事。于1633年在伦敦以四开本出版。介绍了德鲁伊、诗人和竖琴手，并以假面舞和合唱结束。
+
 ## Tonio Kröger
 
 [《托尼欧·克洛格》](https://book.douban.com/subject/1261882/)是托马斯·曼的中篇小说，写于于1901年初。
@@ -37,9 +41,17 @@
 
 壮游即是前面提到的绅士之旅。
 
+## Et in Arcadia ego
+
+原名意为”我就在阿卡迪亚“，法国古典巴洛克风格的主要画家[尼古拉·普桑（1594-1665）](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E6%99%AE%E6%A1%91)于1637-38年创作一幅同名画作，一般叫作[《阿尔卡迪牧羊人》](https://en.wikipedia.org/wiki/Et_in_Arcadia_ego)。画作描绘了一副田园风光，出现有有古典时代理想化的牧羊人，还有一个女人。
+
 ## Baron von Riedesel
 
 [李德塞贵族家族](https://en.wikipedia.org/wiki/Riedesel)是13世纪初开始出现在法律文书中的德国贵族家族，属于骑士阶层。几个世纪以来，都是作为士兵、行政人员和顾问服务各种各样的高级贵族。
+
+## Fuimus Troes
+
+《我们就在特洛伊》是一部由贾斯珀·费希尔(Jasper Fisher)创作的诗歌剧，讲述了公元前55年尤利乌斯·凯撒(Julius Caesar)入侵不列颠的故事。1633年在伦敦出版。
 
 ## Landolina
 
@@ -56,6 +68,26 @@
 ## Sacco di Roma
 
 罗马城历史上发生过多次被攻破后被洗劫的事件，称为[罗马之劫](https://zh.wikipedia.org/zh-hans/%E7%BD%97%E9%A9%AC%E4%B9%8B%E5%8A%AB)。
+
+## Sikuler
+
+[西库尔人](https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%BA%93%E5%B0%94%E4%BA%BA)是铁器时代生活在西西里岛东部的民族，西邻西坎人。“西西里”之名便是源于西库尔人。
+
+## Blut und Boden
+
+[血统和土地](https://zh.wikipedia.org/wiki/%E8%A1%80%E4%B8%8E%E5%9C%9F)是近代德国的种族意识形态之一，指民族的生存需要依靠血统（民族的血统）和土地（农业生产的基础）。
+
+## Hauteville
+
+[欧特维尔家族](https://zh.wikipedia.org/wiki/%E6%AD%90%E7%89%B9%E7%B6%AD%E7%88%BE%E5%AE%B6%E6%97%8F)是一个来自法国科唐坦半岛的诺曼人家族，控制了西西里王国和北非、近东等地，也曾参与对英格兰的诺曼入侵。
+
+## Edda
+
+[埃达](https://zh.wikipedia.org/wiki/%E5%9F%83%E8%BE%BE)是两本古冰岛文学的统称，内容多与北欧神话有关。
+
+## Artemis von Ephesos
+
+[阿耳忒弥斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF)是古希腊神话中象征纯洁的女神，对应罗马神话中的狄安娜，奥林匹斯十二主神之一。最著名的神殿坐落于土耳其以弗所，是被列为古代世界七大奇迹之一的[阿耳忒弥斯神庙](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF%E7%A5%9E%E5%BA%99)。
 
 # 人名
 
@@ -82,6 +114,11 @@
 ## Winckelmann
 
 [爱德华·温克尔曼](https://en.wikipedia.org/wiki/Eduard_Winkelmann)(1838-1896)是德国19世纪著名历史学家，挖掘、收集、整理了很多中世纪资料，主要研究领域是霍亨斯陶芬王朝后期的历史。
+
+## Alexander Mitscherlich
+
+[亚历山大·米奇尔里希(1908-1982)](https://en.wikipedia.org/wiki/Alexander_Mitscherlich_(psychologist))，德国精神分析学家
+。
 
 ## Lorrain
 
@@ -139,6 +176,42 @@
 
 [马塞拉斯(前268-前208)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E5%8D%A2%E6%96%AF)是罗马共和国时期的军事指挥官，外号“罗马之剑”。
 
+## Wolfgang Schadewaldt
+
+[沃尔夫冈·沙德瓦尔特（1900-1974）](https://de.wikipedia.org/wiki/Wolfgang_Schadewaldt)是一位德国古典语言学家，主要在希腊语言学领域工作，也是一位翻译家。
+
+## Martin Heidegger
+
+[马丁·海德格尔(1889-1976)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E4%B8%81%C2%B7%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94)，德国哲学家，在现象学、存在主义、解构主义、诠释学、后现代主义、政治理论、心理学及神学有举足轻重的影响。
+
+## Kolakowski
+
+[莱谢克·科拉科夫斯基(1927-2009)](https://zh.wikipedia.org/wiki/%E8%8E%B1%E8%B0%A2%E5%85%8B%C2%B7%E7%A7%91%E6%8B%89%E7%A7%91%E5%A4%AB%E6%96%AF%E5%9F%BA)是波兰哲学家、思想史家。
+
+## Gerhart Hauptmann
+
+[格哈特·霍普特曼（1862-1946）](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%93%88%E7%89%B9%C2%B7%E9%9C%8D%E6%99%AE%E7%89%B9%E6%9B%BC)是德国剧作家和诗人，自然主义文学在德国的重要代表人，1912年诺贝尔文学奖获得者。
+
+## Ariost
+
+[阿里奥斯托（1474-1533）](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%A5%A5%E6%96%AF%E6%89%98)是意大利文艺复兴时诗人，代表作《疯狂的罗兰》。
+
+## Tasso
+
+[托尔夸托·塔索(1544-1595)](https://zh.wikipedia.org/wiki/%E6%89%98%E5%B0%94%E5%A4%B8%E6%89%98%C2%B7%E5%A1%94%E7%B4%A2)，16世纪意大利著名诗人。
+
+## Leopardi
+
+[贾科莫·莱奥帕尔迪(1798-1837)](https://zh.wikipedia.org/wiki/%E8%B4%BE%E7%A7%91%E8%8E%AB%C2%B7%E8%8E%B1%E5%A5%A5%E5%B8%95%E5%B0%94%E8%BF%AA)是意大利诗人，散文家，哲学家，语言学家。
+
+## James Boswell
+
+[詹姆斯·博斯韦尔（1740-1795）](https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%8D%9A%E6%96%AF%E9%9F%A6%E5%B0%94)，苏格兰传记作家。
+
+## Maximinianus Herculius
+
+[马克西米安努斯·赫库里乌斯(约250-310)](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E8%A5%BF%E7%B1%B3%E5%AE%89)，通称马克西米安（Maximian），西部罗马帝国皇帝。
+
 # 地名
 
 ## Syrakus
@@ -181,6 +254,10 @@
 
 [卡诺莎](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E)因[卡诺莎城堡](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E%E5%9F%8E%E5%A0%A1 "卡诺莎城堡")而著称。1077年[神圣罗马帝国](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD "神圣罗马帝国")帝国皇帝[亨利四世](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD)，赤脚在雪地里站立了三天，恳求教皇[格里高利七世](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%E4%B8%83%E4%B8%96)饶恕他，史称“[卡诺莎之行](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%AF%BA%E8%8E%8E%E4%B9%8B%E8%A1%8C)”。
 
+## Latomia dei Cappuccini
+
+[拉托米亚·戴·卡普奇尼](https://it.wikipedia.org/wiki/Latomia_dei_Cappuccini)是一座古代采石场。Latomia是希腊语采石场的意思，地点名称的意思为卡普奇尼采石场。
+
 ## Arkadien
 
 [阿卡迪亚](https://de.wikipedia.org/wiki/Arkadien)位于希腊半岛，传说这里的人们安居乐业，后引申为“世外桃源”，并不是意大利的[阿卡迪亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E8%BF%AA%E4%BA%9A_(%E7%A6%8F%E8%B4%BE%E7%9C%81))。
@@ -196,3 +273,27 @@
 ## Plemmyrion
 
 普莱米里昂
+
+## Cave d’Ispica
+
+[伊斯皮卡洞穴](https://en.wikipedia.org/wiki/Cava_d%27Ispica)是一个自然保护区和考古遗址，位于意大利西西里岛东南部的莫迪卡镇和伊斯皮卡镇之间。
+
+## Modica
+
+[莫迪卡](https://zh.wikipedia.org/wiki/%E8%8E%AB%E8%BF%AA%E5%8D%A1)是位于意大利南部西西里岛上拉古萨省的一个市镇。
+
+## Piazza Armerina
+
+[皮亚扎·阿尔梅里纳](https://zh.wikipedia.org/wiki/%E7%9A%AE%E4%BA%9A%E6%89%8E-%E9%98%BF%E5%B0%94%E6%A2%85%E9%87%8C%E7%BA%B3)。
+
+## Villa del Casale
+
+[卡萨尔的古罗马别墅](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%96%A9%E7%88%BE%E7%9A%84%E5%8F%A4%E7%BE%85%E9%A6%AC%E5%88%A5%E5%A2%85)始建于4世纪时，在12世纪时完全被废弃。19世纪时重新被发现。
+
+## Mangone
+
+[曼戈内](https://zh.wikipedia.org/wiki/%E6%9B%BC%E6%88%88%E5%86%85)
+
+## Gela
+
+[杰拉](https://zh.wikipedia.org/wiki/%E6%9D%B0%E6%8B%89)建立于公元前688年左右，在锡拉库萨建立45年后，从罗得岛和克里特岛来的殖民者建立了这座城市。城市以杰拉河命名。
