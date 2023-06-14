@@ -89,6 +89,14 @@
 
 [阿耳忒弥斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF)是古希腊神话中象征纯洁的女神，对应罗马神话中的狄安娜，奥林匹斯十二主神之一。最著名的神殿坐落于土耳其以弗所，是被列为古代世界七大奇迹之一的[阿耳忒弥斯神庙](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%80%B3%E5%BF%92%E5%BC%A5%E6%96%AF%E7%A5%9E%E5%BA%99)。
 
+## Carretti
+
+[西西里马车](https://en.wikipedia.org/wiki/Sicilian_cart)是一种华丽、色彩缤纷的马车或驴车，原产于意大利的西西里岛。
+
+## Germania
+
+[日耳曼尼亚](https://zh.wikipedia.org/wiki/%E6%97%A5%E8%80%B3%E6%9B%BC%E5%B0%BC%E4%BA%9A)是古代欧洲的一处地名，位于莱茵河以东、多瑙河以北。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -212,6 +220,18 @@
 
 [马克西米安努斯·赫库里乌斯(约250-310)](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E8%A5%BF%E7%B1%B3%E5%AE%89)，通称马克西米安（Maximian），西部罗马帝国皇帝。
 
+## Luigi Pirandello
+
+[路易吉·皮兰德娄(1867-1936)](https://zh.wikipedia.org/zh-cn/%E8%B7%AF%E4%BC%8A%E5%90%89%C2%B7%E7%9A%AE%E5%85%B0%E5%BE%B7%E5%A8%84)是意大利剧作家、小说家，1934年诺贝尔文学奖获得者。
+
+## Truman Capote
+
+[杜鲁门·卡波特](https://zh.wikipedia.org/wiki/%E6%9D%9C%E9%B2%81%E9%97%A8%C2%B7%E5%8D%A1%E6%B3%A2%E7%89%B9)是美国作家，著有[《蒂凡尼的早餐》](https://book.douban.com/subject/3246904/)、[《冷血》](https://book.douban.com/subject/20428313/)。
+
+## Speer
+
+[阿尔贝特·施佩尔(1905-1981)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E6%96%AF%E4%BD%A9%E5%B0%94)是德国建筑师，纳粹德国时期成为装备部长以及帝国经济领导人。
+
 # 地名
 
 ## Syrakus
@@ -297,3 +317,19 @@
 ## Gela
 
 [杰拉](https://zh.wikipedia.org/wiki/%E6%9D%B0%E6%8B%89)建立于公元前688年左右，在锡拉库萨建立45年后，从罗得岛和克里特岛来的殖民者建立了这座城市。城市以杰拉河命名。
+
+## Via Atenea
+
+[阿特内亚大街](https://it.wikipedia.org/wiki/Via_Atenea)是阿格里真托历史中心的主要道路，被认为是城市的“客厅”。外观是中世纪的，但两边的宫殿和教堂都具有巴洛克风格的特征。
+
+## Tempel der Concordia
+
+[阿格里真托协和神殿](https://en.wikipedia.org/wiki/Temple_of_Concordia,_Agrigento)
+
+## Taormina
+
+[陶尔米纳](https://zh.wikipedia.org/wiki/%E9%99%B6%E5%B0%94%E7%B1%B3%E7%BA%B3)位于墨西拿和卡塔尼亚之间，历史极其悠久。
+
+## Tempel des Olympischen Zeus
+
+[阿格里真托奥林匹亚宙斯神庙](https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Agrigento)是有史以来建造的最大的多立克式神庙。
