@@ -97,6 +97,10 @@
 
 [日耳曼尼亚](https://zh.wikipedia.org/wiki/%E6%97%A5%E8%80%B3%E6%9B%BC%E5%B0%BC%E4%BA%9A)是古代欧洲的一处地名，位于莱茵河以东、多瑙河以北。
 
+## Ozymandias
+
+[奥兹曼迪亚斯](https://en.wikipedia.org/wiki/Ozymandias)是雪莱写的十四行诗，发表于1822年。奥兹曼迪亚斯是古埃及法老[拉美西斯二世](https://zh.wikipedia.org/wiki/%E6%8B%89%E7%BE%8E%E8%A5%BF%E6%96%AF%E4%BA%8C%E4%B8%96)的希腊名。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -232,6 +236,22 @@
 
 [阿尔贝特·施佩尔(1905-1981)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BC%AF%E7%89%B9%C2%B7%E6%96%AF%E4%BD%A9%E5%B0%94)是德国建筑师，纳粹德国时期成为装备部长以及帝国经济领导人。
 
+## Tyrann Phalaris
+
+[法拉里斯](https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89%E9%87%8C%E6%96%AF)是阿克拉伽斯（今西西里阿格里真托）建城（公元前580年）后不久的僭主。
+
+## Mazzino Montinari
+
+[马齐诺·蒙蒂纳里(1928-1986)](https://en.wikipedia.org/wiki/Mazzino_Montinari)是意大利日耳曼学学者。出生于卢卡，被认为是尼采最杰出的研究者之一。
+
+## Giorgio Colli
+
+[乔治·科利(1917-1979)](https://en.wikipedia.org/wiki/Giorgio_Colli)是意大利哲学家、语言学家和历史学家。
+
+## Eva Reichmann
+
+[埃娃·加布里埃莱·赖希曼(1897-1998)](https://en.wikipedia.org/wiki/Eva_Gabriele_Reichmann)是一位杰出的德国历史学家和社会学家，出生于上西里西亚，嫁给了律师汉斯·赖希曼。
+
 # 地名
 
 ## Syrakus
@@ -250,7 +270,7 @@
 
 [阿格里真托](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%A0%BC%E9%87%8C%E7%9C%9F%E6%89%98)是意大利西西里岛南海岸的中央点。
 
-## Selinunte
+## Selinunt
 
 [塞利农特](https://zh.wikipedia.org/wiki/%E5%A1%9E%E5%88%A9%E5%86%9C%E7%89%B9)是一座位于意大利西西里岛南岸的古代城市，该城由希腊人在公元前628年创建。
 
@@ -333,3 +353,7 @@
 ## Tempel des Olympischen Zeus
 
 [阿格里真托奥林匹亚宙斯神庙](https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Agrigento)是有史以来建造的最大的多立克式神庙。
+
+## Sciacca
+
+[夏卡](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%8D%A1_(%E9%98%BF%E6%A0%BC%E9%87%8C%E7%9C%9F%E6%89%98%E7%9C%81))是西西里南岸海滨城市。
