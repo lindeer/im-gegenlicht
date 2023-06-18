@@ -101,6 +101,22 @@
 
 [奥兹曼迪亚斯](https://en.wikipedia.org/wiki/Ozymandias)是雪莱写的十四行诗，发表于1822年。奥兹曼迪亚斯是古埃及法老[拉美西斯二世](https://zh.wikipedia.org/wiki/%E6%8B%89%E7%BE%8E%E8%A5%BF%E6%96%AF%E4%BA%8C%E4%B8%96)的希腊名。
 
+## Tyndariden
+
+[狄奥斯库洛伊兄弟](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%96%AF%E6%89%98%E8%80%B3%E5%92%8C%E6%B3%A2%E9%B2%81%E5%85%8B%E6%96%AF)是斯巴达王后丽达所生一对孪生兄弟。Tyndariden是早期称呼他们的名字。
+
+## Malophoros
+
+[得墨忒耳](https://zh.wikipedia.org/wiki/%E5%BE%97%E5%A2%A8%E5%BF%92%E8%80%B3)是希腊神话中司掌农业、谷物和母性之爱的地母神，也是奥林匹斯十二主神之一。得墨忒耳是大地和丰收的女神，她给予大地生机，教授人类耕种，同时她也是正义女神。Malophoros是她的绰号，意思是苹果种植者。
+
+## Pasikrateia
+
+[帕西克拉泰娅](https://en.wikipedia.org/wiki/Pasikrata)是古典和希腊化时期某些地方崇拜的女神名字。
+
+## Achill
+
+[阿喀琉斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF)是古希腊神话和文学中的英雄人物，参与了特洛伊战争，被称为“希腊第一勇士”。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -252,6 +268,50 @@
 
 [埃娃·加布里埃莱·赖希曼(1897-1998)](https://en.wikipedia.org/wiki/Eva_Gabriele_Reichmann)是一位杰出的德国历史学家和社会学家，出生于上西里西亚，嫁给了律师汉斯·赖希曼。
 
+## Kleist
+
+[贝恩德·海因里希·威廉·冯·克莱斯特(1777-1811)](https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%9B%A0%E9%87%8C%E5%B8%8C%C2%B7%E5%86%AF%C2%B7%E5%85%8B%E8%8E%B1%E6%96%AF%E7%89%B9)是德国诗人、戏剧家、小说家。
+
+## Hittorf
+
+[约翰·威廉·希托夫(1824-1914)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E5%B8%8C%E6%89%98%E5%A4%AB)是一位德国物理学家和化学家。
+
+## Gregorovius
+
+[斐迪南·格雷戈罗维乌斯(Ferdinand Gregorovius)](https://de.wikipedia.org/wiki/Ferdinand_Gregorovius)(1821-1891)是德国历史学家、记者和作家。著有《罗马城中世纪史：五到十六世纪》(Geschichte der Stadt Rom im Mittelalter. Vom V. bis XVI. Jahrhundert)。
+
+## Fiorelli
+
+[朱塞佩·菲奥雷利(1823-1896)](https://en.wikipedia.org/wiki/Giuseppe_Fiorelli)是一位意大利考古学家。主持发掘了庞贝遗址。
+
+## Schliemann
+
+[海因里希·施里曼(1822-1890)](https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%9B%A0%E9%87%8C%E5%B8%8C%C2%B7%E6%96%BD%E5%88%A9%E6%9B%BC)是德国商人和考古业余爱好者，发掘了特洛伊、迈锡尼和梯林斯。
+
+## Lord Byron
+
+第六代拜伦男爵[乔治·戈登·拜伦(1788-1824)](https://zh.wikipedia.org/wiki/%E6%8B%9C%E4%BC%A6%E5%8B%8B%E7%88%B5)是英国诗人、革命家，浪漫主义文学泰斗。
+
+## Polybios
+
+[波利比乌斯(前200-前118)](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%88%A9%E6%AF%94%E7%83%8F%E6%96%AF)是希腊化时代的政治家和历史学家，著有《历史》一书。
+
+## Augustin
+
+[圣奥古斯丁(354-430)](https://zh.wikipedia.org/zh-hans/%E5%B8%8C%E6%B3%A2%E7%9A%84%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81)，原称奥勒留·奥古斯提奴斯，罗马帝国末期北非的柏柏尔人。
+
+## Gibbon
+
+[爱德华·吉本(1737-1794)](https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E5%90%89%E6%9C%AC)是英国历史学家、议员，著有《罗马帝国衰亡史》。
+
+## Wolf Jobst Siedler
+
+[沃尔夫·约布斯特·西德勒(1926-2013)](https://en.wikipedia.org/wiki/Wolf_Jobst_Siedler)是德国发行人和作家。
+
+## Vincenzo Tusa
+
+[温琴佐·图萨(1920-2009)](https://en.wikipedia.org/wiki/Vincenzo_Tusa)是意大利考古学家。
+
 # 地名
 
 ## Syrakus
@@ -357,3 +417,15 @@
 ## Sciacca
 
 [夏卡](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%8D%A1_(%E9%98%BF%E6%A0%BC%E9%87%8C%E7%9C%9F%E6%89%98%E7%9C%81))是西西里南岸海滨城市。
+
+## Segesta
+
+[塞杰斯塔](https://zh.wikipedia.org/wiki/%E5%A1%9E%E5%82%91%E6%96%AF%E5%A1%94)是古希腊城市之一，由伊利米人创建，位于意大利西西里岛西北部。塞杰斯塔在历史上长期和塞利农特对立。
+
+## Rocche di Cusa
+
+[罗切迪库萨](https://en.wikipedia.org/wiki/Cave_di_Cusa)是西西里岛的一个古老采石场。该遗址于公元前 6 世纪上半叶开始开采，其石头被用于建造古希腊城市塞利农特的神庙。公元前409年，塞利农特被迦太基人占领时，被遗弃。
+
+## Serradifalco
+
+[塞拉迪法尔科](https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%8B%89%E8%BF%AA%E6%B3%95%E5%B0%94%E7%A7%91)位于西西里岛南部。
