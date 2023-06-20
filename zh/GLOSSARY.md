@@ -117,6 +117,42 @@
 
 [阿喀琉斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF)是古希腊神话和文学中的英雄人物，参与了特洛伊战争，被称为“希腊第一勇士”。
 
+## Laocoon
+
+[拉奥孔](https://zh.wikipedia.org/wiki/%E6%8B%89%E5%A5%A5%E5%AD%94)是特洛伊人，在特洛伊战争最后阶段的木马计中警告特洛伊人不要接受希腊人留下的木马，但雅典娜派出海蛇绞杀了他和他的儿子。《伊利亚特》记叙了拉奥孔之死；还有著名的大理石雕刻《拉奥孔与儿子们》描绘了这一故事。
+
+## Iphigenie
+
+[伊菲革涅亚](https://zh.wikipedia.org/wiki/%E4%BC%8A%E8%8F%B2%E9%9D%A9%E6%B6%85%E4%BA%9A)是阿伽门农和克吕泰涅斯特拉之长女，其传说多来源于古希腊剧作家欧里庇得斯的悲剧。
+
+## Helena
+
+[海伦](https://zh.wikipedia.org/wiki/%E6%B5%B7%E4%BC%A6_(%E7%A5%9E%E8%AF%9D))是希腊神话中宙斯与[勒达](https://zh.wikipedia.org/wiki/%E5%8B%92%E8%BE%BE)之女，被称为“世上最美的女人”，她和特洛伊王子帕里斯私奔，引发了特洛伊战争。
+
+## Nausikaa
+
+[瑙西卡](https://zh.wikipedia.org/wiki/%E7%91%99%E8%A5%BF%E5%8D%A1)是是希腊神话中法埃亚科安岛（Phaeaceans）的国王阿尔喀诺俄斯的女儿，在荷马的《奥德赛》第六章中出场。
+
+## Polyphem
+
+[波吕斐摩斯](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%90%95%E6%96%90%E6%91%A9%E6%96%AF)是希腊神话中吃人的独眼巨人，为海神波塞冬和海仙女托俄萨之子。
+
+## Odysseus
+
+[奥德修斯](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%BE%B7%E4%BF%AE%E6%96%AF)也叫尤利西斯，参加过特洛伊战争，在战争第十年凭借木马计攻克城池。此后，他又经历了十年漫长的旅程，历尽艰险后终于返回家乡，与亲人团聚。这段故事载于史诗《奥德赛》。
+
+## Die Verdammten
+
+[《纳粹狂魔》](https://movie.douban.com/subject/1296591/)上映于1969年。
+
+## Mafia
+
+[黑手党](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%89%8B%E5%85%9A)是一个比较笼统的术语，可用于指代任何有组织的犯罪集团，而不仅仅是西西里岛的犯罪集团。起源于18世纪的西西里，后来传播到意大利和世界其他地区。
+
+## Cosa Nostra
+
+[西西里黑手党](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E9%87%8C%E5%B3%B6%E9%BB%91%E6%89%8B%E9%BB%A8)成员称之为“Cosa Nostra”意为‘我们自己的东西’，是以意大利西西里岛为基地，带有恐怖主义特色的黑手党类型的有组织犯罪集团。比Mafia更强大也更暴力，更隐秘。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -312,6 +348,70 @@
 
 [温琴佐·图萨(1920-2009)](https://en.wikipedia.org/wiki/Vincenzo_Tusa)是意大利考古学家。
 
+## Eliza Butler
+
+[伊莉莎·玛丽安·巴特勒(1885-1959)](https://en.wikipedia.org/wiki/Eliza_Marian_Butler)是英国的德语学者，著作《希腊对德国的暴政》指出“德国人对古希腊的崇拜鼓舞了纳粹按照他们的形象重塑欧洲”。
+
+## Prinzen Waldeck
+
+瓦尔德克亲王[腓特烈·卡尔·奥古斯特(1743-1812)](https://zh.wikipedia.org/wiki/%E8%85%93%E7%89%B9%E7%83%88%C2%B7%E5%8D%A1%E7%88%BE%C2%B7%E5%A5%A7%E5%8F%A4%E6%96%AF%E7%89%B9)，[瓦尔德克和皮尔蒙特](https://zh.wikipedia.org/wiki/%E7%93%A6%E7%88%BE%E4%BB%A3%E5%85%8B%E5%92%8C%E7%9A%AE%E7%88%BE%E8%92%99%E7%89%B9%E8%A6%AA%E7%8E%8B%E5%9C%8B)亲王，1763年至1812年在位。
+
+## Sulpiz Boisserée
+
+[苏伊皮兹·博伊塞雷(1783-1854)](https://de.wikipedia.org/wiki/Sulpiz_Boisser%C3%A9e)是德国绘画收藏家、艺术和建筑史学家，也是科隆大教堂竣工的发起人之一。
+
+## Marius
+
+[盖乌斯·马略(前157-前86)](https://zh.wikipedia.org/wiki/%E7%9B%96%E4%B9%8C%E6%96%AF%C2%B7%E9%A9%AC%E7%95%A5)是古罗马著名的军事统帅和政治家。
+
+## Scipio
+
+古罗马历史上有[大西庇阿](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E5%BA%87%E9%98%BF)和[小西庇阿](https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%A5%BF%E5%BA%87%E9%98%BF)，大西庇阿是小西庇阿的祖父。大西庇阿在扎马战役中打败迦太基统帅汉尼拔，结束了第二次布匿战争。小西庇阿率军攻陷迦太基城，结束罗马与迦太基的百年争霸。
+
+## Antonius
+
+[马克·安东尼(前83-前30)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89%E4%B8%9C%E5%B0%BC)是古罗马政治家和军事家，凯撒最重要的军队指挥官和管理人员之一。
+
+## Riemer
+
+[弗里德里希·威廉·里默(1774-1845)](https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Riemer)德国学者和历史学家。
+
+## Schotte Adam
+
+即[亚当·斯密(1723-1790)](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%BD%93%C2%B7%E6%96%AF%E5%AF%86)，苏格兰哲学家和经济学家。
+
+## Lady Oxford
+
+[简·伊丽莎白·哈利(1774-1824)](https://en.wikipedia.org/wiki/Jane_Harley,_Countess_of_Oxford_and_Countess_Mortimer)，牛津女爵和莫蒂默女爵。是改革运动的赞助人及拜伦勋爵的情人。
+
+## Edward Wortley Montague
+
+[爱德华·沃特利·蒙塔古(1713-1776)](https://en.wikipedia.org/wiki/Edward_Wortley_Montagu_(traveller))是一位英国作家和旅行家。
+
+## Gerard de Nerval
+
+[热拉尔·德·内瓦尔(1808-1855)](https://zh.wikipedia.org/wiki/%E7%86%B1%E6%8B%89%E7%88%BE%C2%B7%E5%BE%B7%C2%B7%E5%85%A7%E7%93%A6%E7%88%BE)是法国诗人、散文家和翻译家，浪漫主义文学代表人物之一。
+
+## Luchino Visconti
+
+[卢基诺·维斯孔蒂(1906-1976)](https://zh.wikipedia.org/wiki/%E7%9B%A7%E5%A5%87%E8%AB%BE%C2%B7%E7%B6%AD%E6%96%AF%E5%AD%94%E8%92%82)是意大利电影制作人、舞台导演和编剧。作为20世纪中叶意大利艺术和文化的重要人物，维斯康蒂是电影新现实主义之父之一，但后来转向奢华、宏大的史诗题材，主题涉及美、颓废、死亡和欧洲历史，尤其是衰落的贵族和资产阶级。
+
+## Friedrich II
+
+神圣罗马帝国皇帝[腓特烈二世(1194-1250)](https://zh.wikipedia.org/wiki/%E8%85%93%E7%89%B9%E7%83%88%E4%BA%8C%E4%B8%96_%28%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%29)，一生共有三位正式妻子，分别是阿拉贡的康斯坦丝，耶路撒冷女王伊莎贝拉二世，英格兰的伊莎贝拉。此外还有大量情妇，生育有多个私生子
+
+## Vaccarini
+
+[乔瓦尼·巴蒂斯塔·瓦卡里尼(1702-1768)](https://en.wikipedia.org/wiki/Giovanni_Battista_Vaccarini)是一位西西里建筑师，在1693年地震后的大规模重建期间，以家乡西西里的巴洛克风格的作品而闻名。他的许多主要作品可以在卡塔尼亚及其周边地区找到。
+
+## Heiligen Agatha
+
+[西西里的阿加莎(231-251)](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E9%87%8C%E7%9A%84%E9%98%BF%E5%8A%A0%E8%8E%8E)是天主教会最受尊敬的童贞女殉道者之一。出生在卡塔尼亚或西西里岛巴勒莫的一个富有而高贵的家庭。
+
+## Vincenzo Bellini
+
+[温琴佐·贝利尼(1801-1835)](https://zh.wikipedia.org/wiki/%E6%B8%A9%E7%90%B4%E4%BD%90%C2%B7%E8%B4%9D%E5%88%A9%E5%B0%BC)是生于西西里的意大利作曲家。
+
 # 地名
 
 ## Syrakus
@@ -429,3 +529,7 @@
 ## Serradifalco
 
 [塞拉迪法尔科](https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%8B%89%E8%BF%AA%E6%B3%95%E5%B0%94%E7%A7%91)位于西西里岛南部。
+
+## Castello Ursino
+
+[乌尔西诺城堡](https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%B0%94%E8%A5%BF%E8%AF%BA%E5%9F%8E%E5%A0%A1)建于约1239年至1250年，位于意大利西西里卡塔尼亚。
