@@ -153,6 +153,64 @@
 
 [西西里黑手党](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%A5%BF%E9%87%8C%E5%B3%B6%E9%BB%91%E6%89%8B%E9%BB%A8)成员称之为“Cosa Nostra”意为‘我们自己的东西’，是以意大利西西里岛为基地，带有恐怖主义特色的黑手党类型的有组织犯罪集团。比Mafia更强大也更暴力，更隐秘。
 
+## Ehrenwerte Gesellschaft
+
+[光荣会](https://zh.wikipedia.org/wiki/%E5%85%89%E6%A6%AE%E6%9C%83)是活跃于卡拉布里亚的黑手党组织。
+
+## Brionvega
+
+[布里翁维加](https://en.wikipedia.org/wiki/Brionvega)是意大利电子设备厂商。
+
+## Tisch von Saarinen
+
+萨里宁桌子是芬兰裔美国建筑师兼设计师[埃罗·萨里宁](https://zh.wikipedia.org/wiki/%E5%9F%83%E7%BD%97%C2%B7%E8%90%A8%E9%87%8C%E5%AE%81)在1950年代创作的现代主义家具设计。它的特点是时尚、简约的设计和单一的基座。
+
+## Hexenküche
+
+它指的是女巫聚集在一起进行仪式和咒语的地方。
+
+## Wehleidigkeit
+
+[伤感文学（Larmoyanz／Wehleidigkeit）](https://de.wikipedia.org/wiki/Larmoyanz)是一种文体学术语，描述了一种过度感性的语言风格，表达了对自怜或明显自怜的过度敏感。
+
+## Schwarze Romantik
+
+[黑暗浪漫主义](https://zh.wikipedia.org/wiki/%E9%BB%91%E6%9A%97%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89)又称美国浪漫主义，是一种19世纪的文学流派，以爱伦·坡、纳撒尼尔·霍桑为代表。
+
+## Belle Dame sans Merci
+
+[《无情美人》](https://en.wikipedia.org/wiki/La_Belle_Dame_sans_Merci)是[济慈](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B5%8E%E6%85%88)创作的一首歌谣。描写的是一位仙女用眼神和歌声引诱了一位骑士，让他经受了痛苦的命运。
+
+## Gioconda
+
+焦孔达是[蒙娜丽莎](https://zh.wikipedia.org/wiki/%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E)的意大利叫法。
+
+## Ikonographie
+
+[图像学](https://zh.wikipedia.org/wiki/%E5%9C%96%E5%83%8F%E8%AA%8C)是艺术史的一个方法学。一直以“基督图像志”为主，因而叫圣像学。
+
+## Hephaistos
+
+[赫淮斯托斯](https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%B7%AE%E6%96%AF%E6%89%98%E6%96%AF)是古希腊神话中的火神和匠神，对应罗马神话的武尔坎努斯。
+
+## Gorgonen
+
+[戈耳工](https://zh.wikipedia.org/wiki/%E6%88%88%E8%80%B3%E5%B7%A5)或译作蛇发女妖，是一种长有尖牙，头生毒蛇的女性怪物。
+
+## Triëder
+
+## Demeter
+
+[得墨忒耳](https://zh.wikipedia.org/wiki/%E5%BE%97%E5%A2%A8%E5%BF%92%E8%80%B3)是希腊神话中司掌农业、谷物和母性之爱的地母神，也是奥林匹斯十二主神之一。
+
+## Lästrygon
+
+[拉斯忒吕戈涅斯](https://zh.wikipedia.org/wiki/%E6%8B%89%E6%96%AF%E5%BF%92%E5%90%95%E6%88%88%E6%B6%85%E6%96%AF)是古希腊神话人物之一，属于巨食人族部落。
+
+## Carabiniere
+
+[卡宾枪骑兵](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%B3%93%E6%A7%8D%E9%A8%8E%E5%85%B5)是意大利的国家宪兵，主要职责包括管理军队及协同意大利警察维持社会治安。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -412,6 +470,50 @@
 
 [温琴佐·贝利尼(1801-1835)](https://zh.wikipedia.org/wiki/%E6%B8%A9%E7%90%B4%E4%BD%90%C2%B7%E8%B4%9D%E5%88%A9%E5%B0%BC)是生于西西里的意大利作曲家。
 
+## Salvatore Giuliano
+
+[萨尔瓦托雷·朱利亚诺(1922-1950)](https://en.wikipedia.org/wiki/Salvatore_Giuliano)是一名意大利土匪，是一个张扬的、高调的罪犯，1950年7月5日被谋杀。
+
+## Tagliaculo
+
+## Leonardo Sciascia
+
+[列昂纳多·夏夏(1921-1989)](https://zh.wikipedia.org/wiki/%E5%88%97%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E5%A4%8F%E5%A4%8F)意大利作家、政治家。
+
+## Mauro Levi
+
+## Folco Quilici
+
+[福尔科·奎利奇(1930-2018)](https://en.wikipedia.org/wiki/Folco_Quilici)是意大利导演和编剧。
+
+## Empedokles
+
+[恩培多克勒(前490-前430)](https://zh.wikipedia.org/wiki/%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92)公元前5世纪的古希腊哲学家、自然科学家、政治家、演说家、诗人。
+
+## Marquis de Sade
+
+[萨德侯爵(1740-1814)](https://zh.wikipedia.org/wiki/%E8%96%A9%E5%BE%B7%E4%BE%AF%E7%88%B5)法国贵族出身的哲学家、作家和政治人物。
+
+## d’Annunzio
+
+[加布里埃尔·邓南遮(1863-1938)](https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E5%B0%94%C2%B7%E9%82%93%E5%8D%97%E9%81%AE)是意大利诗人、记者、小说家、戏剧家、军人、政治活动家和冒险者。
+
+## Agathokles
+
+[阿加托克利斯(前361/前360-前289年)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8A%A0%E6%89%98%E5%85%8B%E5%88%A9%E6%96%AF)叙拉古僭主。
+
+## Hieronymus Bosch
+
+[耶罗尼米斯·博斯(1450-1516)](https://zh.wikipedia.org/wiki/%E8%80%B6%E7%BD%97%E5%B0%BC%E7%B1%B3%E6%96%AF%C2%B7%E5%8D%9A%E6%96%AF)是荷兰十五至十六世纪作品丰富的画家。
+
+## Swinburne
+
+[阿尔加侬·斯温伯恩(1837-1909)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%8A%A0%E4%BE%AC%C2%B7%E6%96%AF%E6%B8%A9%E4%BC%AF%E6%81%A9)是英国维多利亚时代的著名诗人、戏剧作家、文学评论家，善长写抒情诗。
+
+## Patrick Brydone
+
+[帕特里克·布赖登(1736-1818)](https://en.wikipedia.org/wiki/Patrick_Brydone)是苏格兰旅行家。
+
 # 地名
 
 ## Syrakus
@@ -533,3 +635,35 @@
 ## Castello Ursino
 
 [乌尔西诺城堡](https://zh.wikipedia.org/wiki/%E4%B9%8C%E5%B0%94%E8%A5%BF%E8%AF%BA%E5%9F%8E%E5%A0%A1)建于约1239年至1250年，位于意大利西西里卡塔尼亚。
+
+## Nicolosi
+
+[尼科洛西](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A7%91%E6%B4%9B%E8%A5%BF)位于卡塔尼亚。
+
+## Belpasso
+
+[贝尔帕索](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%B0%94%E5%B8%95%E7%B4%A2)是卡塔尼亚的一个市镇。
+
+## Palagonia
+
+[帕拉戈尼亚](https://zh.wikipedia.org/wiki/%E5%B8%95%E6%8B%89%E6%88%88%E5%B0%BC%E4%BA%9A)
+
+## Aegina
+
+[埃伊纳岛](https://zh.wikipedia.org/wiki/%E5%9F%83%E4%BC%8A%E7%B4%8D%E5%B3%B6)源自于希腊神祇埃癸娜，她与宙斯生下的儿子埃阿科斯在该岛降生，日后为王统治这一岛屿。
+
+## Pamphilien
+
+[潘菲利亚](https://zh.wikipedia.org/wiki/%E6%BD%98%E8%8F%B2%E5%88%A9%E4%BA%9A)，现作Pamphylien，古代安纳托利亚南部的一个地区。
+
+## Pinakothek
+
+[老绘画陈列馆](https://zh.wikipedia.org/wiki/%E8%80%81%E7%BB%98%E7%94%BB%E9%99%88%E5%88%97%E9%A6%86)是德国慕尼黑的一座美术馆。
+
+## Isle of Man
+
+[马恩岛](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%B3%B6)是一个岛国。
+
+## Enna
+
+[恩纳](https://zh.wikipedia.org/wiki/%E6%81%A9%E7%BA%B3)位于西西里岛中央。
