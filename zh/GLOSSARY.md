@@ -211,6 +211,22 @@
 
 [卡宾枪骑兵](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%B3%93%E6%A7%8D%E9%A8%8E%E5%85%B5)是意大利的国家宪兵，主要职责包括管理军队及协同意大利警察维持社会治安。
 
+## Monsignor
+
+意为[蒙席](https://zh.wikipedia.org/wiki/%E8%92%99%E5%B8%AD)，直接称呼为阁下(意大利对天主教主教,修道院院马教官吏的尊称)。
+
+## Tedeum
+
+[赞美颂](https://zh.wikipedia.org/wiki/%E8%AE%9A%E7%BE%8E%E9%A0%8C)是4世纪时写就的一首拉丁文基督教赞美诗。
+
+## Göttin des Überflusses
+
+[阿布恩丹提亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B8%83%E6%81%A9%E4%B8%B9%E6%8F%90%E4%BA%9A)是古罗马具有富裕与繁荣意义的女神。
+
+## Najade
+
+[那伊阿得斯](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BC%8A%E9%98%BF%E5%BE%97%E6%96%AF)是希腊神话中体现自然现象与自然力的女性精灵。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -514,6 +530,14 @@
 
 [帕特里克·布赖登(1736-1818)](https://en.wikipedia.org/wiki/Patrick_Brydone)是苏格兰旅行家。
 
+## Ferdinand II
+
+两西西里王国的[费迪南多二世(1810-1859)](https://zh.wikipedia.org/wiki/%E8%B4%B9%E8%BF%AA%E5%8D%97%E5%A4%9A%E4%BA%8C%E4%B8%96_(%E4%B8%A4%E8%A5%BF%E8%A5%BF%E9%87%8C))1830年至1859年在位。
+
+## Giuseppe Tomasi Caro
+
+朱塞佩·托马西·卡罗就是兰佩杜萨的全名。
+
 # 地名
 
 ## Syrakus
@@ -667,3 +691,27 @@
 ## Enna
 
 [恩纳](https://zh.wikipedia.org/wiki/%E6%81%A9%E7%BA%B3)位于西西里岛中央。
+
+## Calatafimi
+
+卡拉塔菲米全称[卡拉塔菲米塞杰斯塔](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E5%A1%94%E8%8F%B2%E7%B1%B3%E5%A1%9E%E6%9D%B0%E6%96%AF%E5%A1%94)。
+
+## Lago di Pergusa
+
+[佩尔古萨湖](https://it.wikipedia.org/wiki/Lago_Pergusa)是西西里岛恩纳附近的一个湖。
+
+## Mazzarino
+
+[马扎里诺](https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%89%8E%E9%87%8C%E8%AF%BA)是西西里卡尔塔尼塞塔的一个市镇。
+
+## Marsala
+
+[马尔萨拉](https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%88%BE%E8%96%A9%E6%8B%89)位于西西里岛西部海岸。
+
+## Santa Margherita in Belice
+
+[圣玛格丽塔·迪贝利切](https://zh.wikipedia.org/wiki/%E5%9C%A3%E7%8E%9B%E6%A0%BC%E4%B8%BD%E5%A1%94-%E8%BF%AA%E8%B4%9D%E5%88%A9%E5%88%87)
+
+## Bélice
+
+[贝利切河](https://zh.wikipedia.org/wiki/%E8%B2%9D%E5%88%A9%E5%88%87%E6%B2%B3)位于西西里岛西部。
