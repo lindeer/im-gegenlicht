@@ -227,6 +227,48 @@
 
 [那伊阿得斯](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BC%8A%E9%98%BF%E5%BE%97%E6%96%AF)是希腊神话中体现自然现象与自然力的女性精灵。
 
+## Salina
+
+## Elymer
+
+[伊利米人](https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%88%A9%E7%B1%B3%E4%BA%BA)是青铜时代和古典时代居住在西西里岛西部的原住民。
+
+## Entasis
+
+[收分曲线](https://zh.wikipedia.org/wiki/%E5%8D%B7%E6%9D%80)
+
+## Strengen Stil
+
+[严肃风格](https://de.wikipedia.org/wiki/Strenger_Stil)，或早期古典风格，是大约公元前490至公元前450年希腊雕塑的主要风格。
+
+## Dädalos
+
+[代达洛斯](https://zh.wikipedia.org/wiki/%E4%BB%A3%E8%BE%BE%E6%B4%9B%E6%96%AF)是希腊神话中一位技艺精湛的建筑师和工匠，被视为智慧、知识和力量的象征。
+
+## Dionysos
+
+[狄俄尼索斯](https://zh.wikipedia.org/wiki/%E7%8B%84%E4%BF%84%E5%80%AA%E7%B4%A2%E6%96%AF)是古希腊神话中的酒神。
+
+## West-östlichen Diwan
+
+[西东合集](https://book.douban.com/subject/1931055/)是德国诗人歌德的[诗集](https://en.wikipedia.org/wiki/West%E2%80%93%C3%B6stlicher_Divan)，或抒情诗集。它的灵感来自波斯诗人哈菲兹。
+
+## Wagenlenker
+
+[德尔斐战车御者](https://de.wikipedia.org/wiki/Wagenlenker_von_Delphi)是古希腊遗留下来的雕像，也是古代青铜雕塑的典范。1896 年，在德尔斐的阿波罗圣殿发现了真人大小的战车驾驶员雕像。
+
+## Aphrodite
+
+[阿芙洛狄忒](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BD%9B%E6%B4%9B%E7%8B%84%E5%BF%92)是希腊神话中是代表爱情、美丽的女神。
+
+## Kartell
+
+[卡特尔](https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%89%B9%E5%B0%94)是一种垄断集团，通过某些协议或规定，控制该产品的产量和价格。
+
+## Lupara
+
+[卢帕拉枪](https://en.wikipedia.org/wiki/Lupara)是一种破开式的锯短霰弹枪，传统上与黑手党联系在一起。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -538,6 +580,51 @@
 
 朱塞佩·托马西·卡罗就是兰佩杜萨的全名。
 
+## Chateaubriand
+
+[弗朗索瓦·勒内·德·夏多布里昂(1768-1848)]是法国十八至十九世纪的作家，政治家，外交家，法兰西学术院院士。
+
+## Aischylos
+
+[埃斯库罗斯(前525-前456)](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%96%AF%E5%BA%93%E7%BD%97%E6%96%AF)是古希腊悲剧诗人。
+
+## Hugo von Hofmannsthal
+
+[胡戈·冯·霍夫曼斯塔尔(1874-929)](https://zh.wikipedia.org/wiki/%E8%83%A1%E6%88%88%C2%B7%E5%86%AF%C2%B7%E9%9C%8D%E5%A4%AB%E6%9B%BC%E5%8F%B2%E5%A1%94)是奥地利小说家、剧作家、诗人、评论家。
+
+## Cagliostro
+
+卡廖斯特罗
+
+## Indro Montanelli
+
+[因德罗·亚历山德罗·拉斐尔·希佐格·蒙塔内利(1909-2001)](https://en.wikipedia.org/wiki/Indro_Montanelli)是意大利著名记者、历史学家和作家，但是具有种族主义思想。
+
+## Danilo Dolci
+
+[达尼洛·多尔奇(1924-1997)](https://en.wikipedia.org/wiki/Danilo_Dolci)是一位意大利社会活动家、社会学家、通俗教育家和诗人。以反对西西里岛的贫困、社会
+排斥和黑手党闻名，是意大利非暴力运动的主角之一。被称为“西西里岛的甘地”。
+
+## Carlo Levi
+
+[卡洛·莱维(1902-1975)](https://en.wikipedia.org/wiki/Carlo_Levi)是一位意大利画家、作家、活动家、独立左翼政治家和医生。写有非常著名的[《基督不到的地方》](https://book.douban.com/subject/1085914/)。
+
+## Lucky Luciano
+
+[幸运的卢西亚诺](https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%C2%B7%E7%9B%A7%E8%A5%BF%E5%AE%89%E8%AB%BE)，本名萨尔瓦托雷·卢卡尼亚(Salvatore Lucania)，被称为“美国现代有组织犯罪之父”。
+
+## Joe Masseria
+
+[乔·马塞里亚(1886-1931)](https://zh.wikipedia.org/wiki/%E5%96%AC%C2%B7%E9%A6%AC%E5%A1%9E%E9%87%8C%E4%BA%9E)外号“乔老大”，纽约市的早期意大利裔美国黑手党头目。
+
+## Thomas Dewey
+
+[托马斯·爱德蒙·杜威(1902-1971)](https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%9D%9C%E5%A8%81)是一名美国律师、检察官和政治人物，1943年到1954年期间担任第47任纽约州州长。
+
+## Don Calògero Vizzini
+
+[唐·卡洛杰罗·维齐尼(1877-1954)](https://en.wikipedia.org/wiki/Calogero_Vizzini)是西西里岛卡尔塔尼塞塔省比利亚尔巴的西西里黑手党头目。维齐尼一直被认为是二战后西西里岛最具影响力和传奇性的黑手党老大之一，直至1954年去世。
+
 # 地名
 
 ## Syrakus
@@ -715,3 +802,83 @@
 ## Bélice
 
 [贝利切河](https://zh.wikipedia.org/wiki/%E8%B2%9D%E5%88%A9%E5%88%87%E6%B2%B3)位于西西里岛西部。
+
+## Montevago
+
+[蒙特瓦戈](https://en.wikipedia.org/wiki/Salina,_Sicily)
+
+## S. Guido
+
+## Grunewald
+
+[格吕讷瓦尔德](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%90%95%E8%AE%B7%E7%93%A6%E5%B0%94%E5%BE%B7)位于德国勃兰登堡州。
+
+## Babelsberg
+
+[巴伯尔斯贝格](https://zh.wikipedia.org/wiki/%E5%B7%B4%E4%BC%AF%E5%B0%94%E6%96%AF%E8%B4%9D%E6%A0%BC)位于是德国勃兰登堡州首府波茨坦。
+
+## Sakrow
+
+## Müggelsee
+
+[米格尔湖](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%A0%BC%E7%88%BE%E6%B9%96)位于柏林东南角，是柏林最大的湖泊，又叫大米格尔湖。
+
+## Niederfinow
+
+[下菲诺](https://zh.wikipedia.org/wiki/%E4%B8%8B%E8%8F%B2%E8%AF%BA)位于德国勃兰登堡州。
+
+## 利卡塔
+
+[利卡塔](https://zh.wikipedia.org/wiki/%E5%88%A9%E5%8D%A1%E5%A1%94)位于萨尔索河的入海口。
+
+## Caltavuturo
+
+[卡尔塔武图罗](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%E5%A1%94%E6%AD%A6%E5%9B%BE%E7%BD%97)。
+
+## Motya
+
+[莫蒂亚](https://en.wikipedia.org/wiki/Motya)，现作Motya，是西西里岛西海岸圣潘塔莱奥岛(San Pantaleo)上一座古老而强大的城市。
+
+## Partinico
+
+[帕尔蒂尼科](https://zh.wikipedia.org/wiki/%E5%B8%95%E5%B0%94%E8%92%82%E5%B0%BC%E7%A7%91)位于西西里岛西北部地区。
+
+## Trapani
+
+[特拉帕尼](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%8B%89%E5%B8%95%E5%B0%BC)位于西西里岛西部地区。
+
+## Erice
+
+[埃里切](https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%88%87)位于西西里岛西部地区。
+
+## Mount Eryx
+
+[埃里切山](https://zh.wikipedia.org/wiki/%E5%9F%83%E9%87%8C%E5%88%87%E5%B1%B1)是意大利西西里岛西部的一座山。
+
+## Castellammare
+
+卡斯特拉马雷
+
+## Rio Bravo
+
+有多处叫的地点，此处指的是一部叫[《赤胆屠龙》](https://movie.douban.com/subject/1298497/)的电影。
+
+## Schwabilon
+
+[士瓦比隆](https://de.wikipedia.org/wiki/Schwabylon)是70年代慕尼黑的一家购物中心。
+
+## Montelepre
+
+[蒙特莱普雷](https://zh.wikipedia.org/wiki/%E8%92%99%E7%89%B9%E8%8E%B1%E6%99%AE%E9%9B%B7)位于西西里西北。
+
+## San Giuseppe
+
+[圣朱塞佩-亚托](https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%9C%B1%E5%A1%9E%E4%BD%A9-%E4%BA%9A%E6%89%98)位于西西里岛西北部。
+
+## Lercara Friddi
+
+[莱尔卡拉弗里迪](https://zh.wikipedia.org/wiki/%E8%8E%B1%E5%B0%94%E5%8D%A1%E6%8B%89%E5%BC%97%E9%87%8C%E8%BF%AA)位于西西里西部内陆。
+
+## Corleone
+
+[科莱奥内](https://zh.wikipedia.org/wiki/%E7%A7%91%E8%8E%B1%E5%A5%A5%E5%86%85)位于西西里西部内陆。
