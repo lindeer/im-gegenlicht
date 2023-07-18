@@ -269,6 +269,14 @@
 
 [卢帕拉枪](https://en.wikipedia.org/wiki/Lupara)是一种破开式的锯短霰弹枪，传统上与黑手党联系在一起。
 
+## Signori
+
+中世纪表示意大利城邦国家的[威权统治者](https://en.wikipedia.org/wiki/Signoria)。是一种处于市民统治衰落，家族统治兴起的中间阶段。用于市民(commune)与共和对立的语境。
+
+## La Paloma
+
+[《鸽子》](https://en.wikipedia.org/wiki/La_Paloma)是一首流行的[西班牙歌曲](https://www.bilibili.com/video/BV1ss411t7Cs/)，是西班牙巴斯克作曲家[Sebastián Iradier](https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier)（后来的 Yradier于1860年左右访问古巴后创作的。在过去的140年里，在不同的文化、背景、编曲和录音中被制作和重新诠释。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -625,6 +633,22 @@
 
 [唐·卡洛杰罗·维齐尼(1877-1954)](https://en.wikipedia.org/wiki/Calogero_Vizzini)是西西里岛卡尔塔尼塞塔省比利亚尔巴的西西里黑手党头目。维齐尼一直被认为是二战后西西里岛最具影响力和传奇性的黑手党老大之一，直至1954年去世。
 
+## Robert Louis Stevenson
+
+[罗伯特·路易斯·巴尔福·史蒂文森(1850-1894)](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E4%BC%AF%E7%89%B9%C2%B7%E8%B7%AF%E6%98%93%E6%96%AF%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%A3%AE)是英国苏格兰小说家、诗人与旅游作家，也是英国文学新浪漫主义的代表之一。
+
+## Arnim
+
+[路德维希·阿希姆·冯·阿尔尼姆(1781-1831)](https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E9%98%BF%E5%B8%8C%E5%A7%86%C2%B7%E5%86%AF%C2%B7%E9%98%BF%E5%B0%94%E5%B0%BC%E5%A7%86)，德国作家，海德堡浪漫派的代表人物。
+
+## Wieland
+
+[克里斯多夫·马丁·维兰德(1733-1813)](https://zh.wikipedia.org/wiki/%E5%85%8B%E9%87%8C%E6%96%AF%E5%A4%9A%E5%A4%AB%C2%B7%E9%A9%AC%E4%B8%81%C2%B7%E7%BB%B4%E5%85%B0%E5%BE%B7)是德国启蒙时期的诗人，翻译家和主编。
+
+## Adalbert Stifter
+
+[阿达尔贝特·施蒂弗特(1805-1868)](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%BE%BE%E5%B0%94%E8%B4%9D%E7%89%B9%C2%B7%E6%96%BD%E8%92%82%E5%BC%97%E7%89%B9)是一位奥地利作家、诗人、画家、教育家。
+
 # 地名
 
 ## Syrakus
@@ -882,3 +906,37 @@
 ## Corleone
 
 [科莱奥内](https://zh.wikipedia.org/wiki/%E7%A7%91%E8%8E%B1%E5%A5%A5%E5%86%85)位于西西里西部内陆。
+
+## Monte Pellegrino
+
+[佩莱格里诺山](https://it.wikipedia.org/wiki/Monte_Pellegrino)是位于西西里岛首府巴勒莫的意大利山地浮雕。最高点为一个海拔606米的石灰岩海角，伸入第勒尼安海，形成巴勒莫湾。西北坡环绕蒙德罗湾的东南边界，脚下是蒙特佩莱格里诺区。十八世纪，歌德在《意大利之旅》一文中将其定义为“世界上最美丽的海角”。
+
+## Conca d'Oro
+
+[德奥罗盆地](https://it.wikipedia.org/wiki/Conca_d%27Oro)是位于巴勒莫山脉和第勒尼安海之间的平原。
+
+## Bagheria
+
+[巴盖里亚](https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%93%8B%E9%87%8C%E4%BA%9E)最早建于1658年，现在是一个度假胜地。
+
+## La Favorita
+
+[拉法沃利塔](https://en.wikipedia.org/wiki/Parco_della_Favorita)是巴勒莫市一个巨大的城市公园。
+
+## Villa Palagonia
+
+[帕拉戈尼亚别墅](https://en.wikipedia.org/wiki/Villa_Palagonia)是一座位于意大利南部西西里岛巴盖里亚的贵族别墅，建于1715，是西西里巴洛克风格最早的典范之一。
+
+## Monreale
+
+[蒙雷阿莱](https://zh.wikipedia.org/wiki/%E8%92%99%E9%9B%B7%E9%98%BF%E8%8E%B1)位于巴勒莫市以南10公里Caputo山的山坡上，[蒙雷阿莱主教座堂](https://zh.wikipedia.org/wiki/%E8%92%99%E9%9B%B7%E9%98%BF%E8%8E%B1%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82)是世界上现存最大的诺曼式建筑，由古列尔莫二世开始兴建于1174
+年。
+
+## Via Maqueda
+
+[马奎达大街](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%A5%8E%E8%BE%BE%E8%A1%97)是巴勒莫的一条重要街道。与[卡萨罗街](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%90%A8%E7%BD%97%E8%A1%97)同为历史中心的主轴线。
+
+## Vucceria
+
+[乌奇里亚集市](https://en.wikipedia.org/wiki/La_Vucciria_market)是一个古老的大型集市和社区，位于意大利西西里岛巴勒莫中部的卡斯特拉马雷古城区，设有商
+店和桌子，出售产品、农产品和食品。“La Vucciria”这个名字来自西西里语中的[“声音”一词](https://www.viator.com/Palermo-attractions/Vucciria-Market-La-Vucciria/overview/d4815-a12246)，指的是这个繁忙的街头市场的噪音水平。
