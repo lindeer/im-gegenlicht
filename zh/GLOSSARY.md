@@ -277,6 +277,92 @@
 
 [《鸽子》](https://en.wikipedia.org/wiki/La_Paloma)是一首流行的[西班牙歌曲](https://www.bilibili.com/video/BV1ss411t7Cs/)，是西班牙巴斯克作曲家[Sebastián Iradier](https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Iradier)（后来的 Yradier于1860年左右访问古巴后创作的。在过去的140年里，在不同的文化、背景、编曲和录音中被制作和重新诠释。
 
+## Minotaurus
+
+[米诺陶洛斯](https://zh.wikipedia.org/wiki/%E5%BC%A5%E8%AF%BA%E9%99%B6%E6%B4%9B%E6%96%AF)是希腊神话中一个著名的半人半牛怪物。
+
+## Doppelkapelle
+
+[双构教堂](https://de.wikipedia.org/wiki/Doppelkapelle)或双层教堂是一种具有两个共享的宗教房间或教堂的建筑，具有不同的礼拜功能，一个建筑处在另一个之上。一般情况下，上层是一座庆祝教堂，下层是一座墓葬教堂。
+
+## Investiturstreit
+
+[叙任权斗争](https://zh.wikipedia.org/wiki/%E5%8F%99%E4%BB%BB%E6%9D%83%E6%96%97%E4%BA%89)指的是一系列发生在西欧中世纪、世俗君主与教会之间的重大冲突事件。在11和12世纪之际，数位教宗挑战和指责西欧君主所握有对圣职的任命和授予权。这场冲突导致了近50年的神圣罗马帝国内战，最终都会取得胜利。最著名的事件是发生在1075年[亨利四世](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%9B%9B%E4%B8%96_(%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD))与[格里高利七世](https://zh.wikipedia.org/wiki/%E6%95%99%E5%AE%97%E9%A2%9D%E6%88%91%E7%95%A5%E4%B8%83%E4%B8%96)之间争夺任命教会圣职而发生的斗争。
+
+## Gomorra
+
+[蛾摩拉](https://zh.wikipedia.org/zh-hans/%E6%89%80%E5%A4%9A%E7%91%AA%E8%88%87%E8%9B%BE%E6%91%A9%E6%8B%89)是《圣经·旧约·创世纪》中曾提及的一座古城，据圣经记载因为罪恶昭著与索多玛城一起被神毁灭，这两座古城的名字因此在西方文化中有“罪恶之城”的寓意。
+
+## Die innerweltliche Denkrichtung
+
+[世俗思想学派](https://de.wikipedia.org/wiki/Renaissance-Humanismus)不是指一种具体的学派。指的是关注尘世生活和世界的学派，转向人文主义、个人主义和世俗主义。典型的代表人物即马基雅维利。
+
+## Sibylle
+
+[西比拉](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%AF%94%E6%8B%89)，意为“女先知”，指古希腊的神谕者。
+
+## Wotan
+
+沃坦是《尼伯龙根的指环》的众神之王，实际来源于北欧神话中的[奥丁](https://zh.wikipedia.org/wiki/%E5%A5%A5%E4%B8%81)。
+
+## Niflheim
+
+尼夫尔海姆在北欧神话中义为“雾之国”，和尼夫尔海姆隔鸿沟相对的是“火之国”[穆斯贝尔海姆](https://zh.wikipedia.org/wiki/%E7%A9%86%E6%96%AF%E8%B2%9D%E7%88%BE%E6%B5%B7%E5%A7%86)。也被称为海姆冥界（Helheim），意思为“海拉的家”（Home of Hel），也就是“地狱”。
+
+## Proserpina
+
+[普洛塞庇娜](https://zh.wikipedia.org/wiki/%E6%99%AE%E6%B4%9B%E5%A1%9E%E5%BA%87%E5%A8%9C)是罗马神话中普路托的妻子，冥界的女王。对应于希腊神话中冥王哈得斯的妻子珀耳塞福涅。
+
+## Arethusa
+
+[阿瑞图萨](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%91%9E%E5%9B%BE%E8%90%A8)是希腊神话中的一位美丽迷人的海洋女神。
+
+## Herakles
+
+[赫拉克勒斯](https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%8B%89%E5%85%8B%E5%8B%92%E6%96%AF)是希腊神话中的半神英雄，具有非凡的实力、勇气、智慧、技能和技巧。
+
+## Nornen
+
+[诺伦女神](https://zh.wikipedia.org/wiki/%E8%AB%BE%E6%81%A9%E4%B8%89%E5%A5%B3%E7%A5%9E)是北欧神话中的命运女神。
+
+## Rheintöchter
+
+[莱茵少女](https://en.wikipedia.org/wiki/Rhinemaidens)是《尼伯龙根指环》中的三位水仙女。
+
+## Siegfried
+
+[齐格弗里德](https://zh.wikipedia.org/wiki/%E9%BD%8A%E6%A0%BC%E5%BC%97%E9%87%8C%E5%BE%B7)是中世纪德语史诗《尼伯龙根之歌》的屠龙英雄，理查德·华格纳著名歌剧《尼伯龙根的指环》的主角。
+
+## Scylla
+
+[斯库拉](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%BA%93%E6%8B%89)或六妖兽是希腊神话中吞吃水手的女海妖。
+
+## Charybdis
+
+[卡律布狄斯](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%BE%8B%E5%B8%83%E7%8B%84%E6%96%AF)是希腊神话中座落在女妖斯库拉对面像大漩涡的怪物，会吞噬所有经过的东西。
+
+## Klingsor
+
+[克林索尔](https://en.wikipedia.org/wiki/Klingsor)是埃申巴赫的浪漫诗歌[《珀西瓦里》](https://en.wikipedia.org/wiki/Parzival)中魔法师的名字。
+
+## Karolingischer
+
+[加洛林王朝](https://zh.wikipedia.org/wiki/%E5%8A%A0%E6%B4%9B%E6%9E%97%E7%8E%8B%E6%9C%9D)是自751年后统治[法兰克王国](https://zh.wikipedia.org/wiki/%E6%B3%95%E8%98%AD%E5%85%8B%E7%8E%8B%E5%9C%8B)的王朝。
+
+## Rheingold
+
+[《莱茵的黄金》](https://zh.wikipedia.org/wiki/%E8%90%8A%E8%8C%B5%E7%9A%84%E9%BB%83%E9%87%91)是史诗歌剧《尼伯龙根的指环》四部曲系列中的第一部。
+
+## Meistersinger
+
+[《纽伦堡的名歌手》](https://zh.wikipedia.org/wiki/%E7%BA%BD%E4%BC%A6%E5%A0%A1%E7%9A%84%E5%90%8D%E6%AD%8C%E6%89%8B)是理查德·瓦格纳所作的一部三幕歌剧。
+
+## Goldene Mainz
+
+## Parsifal
+
+瓦格纳也创作过一部歌剧关于克林索尔魔法师的歌剧[《帕西法尔》](https://zh.wikipedia.org/wiki/%E5%B8%95%E8%A5%BF%E6%B3%95%E5%B0%94)。帕西法尔与珀西瓦里是不同语言对同一个人的不同叫法。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -649,6 +735,82 @@
 
 [阿达尔贝特·施蒂弗特(1805-1868)](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%BE%BE%E5%B0%94%E8%B4%9D%E7%89%B9%C2%B7%E6%96%BD%E8%92%82%E5%BC%97%E7%89%B9)是一位奥地利作家、诗人、画家、教育家。
 
+## Joachim von Fiore
+
+[菲奥雷的约阿希姆(约1135-1202)](https://en.wikipedia.org/wiki/Joachim_of_Fiore)也称为弗洛拉的约阿希姆，意大利语为焦阿基诺·达菲奥雷，是一位意大利基督教神学家、天主教方丈，也是菲奥雷圣乔瓦尼修道院的创始人。被视作“整个中世纪时期最重要的末世思想家。”
+
+## Petrus von Eboli
+
+[埃博利的佩特鲁斯(约1196-1220)](https://en.wikipedia.org/wiki/Peter_of_Eboli)是一位用拉丁语写作的说教诗人和编年史家。
+
+## Jacob Burckhardt
+
+[雅各·布克哈特(1818-1897)](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84%C2%B7%E5%B8%83%E5%85%8B%E5%93%88%E7%89%B9)生于瑞士巴塞尔，是欧洲艺术史与人文主义杰出的文化历史学家。
+
+## Ernst Kantorowicz
+
+[恩斯特·H·康托洛维茨(1895-1963)](https://book.douban.com/author/4609510/)是20世纪最伟大的中世纪史学家之一，专研中古时代的[政治、思想史](https://en.wikipedia.org/wiki/Ernst_Kantorowicz)。代表作有[《国王的两个身体》](https://book.douban.com/subject/27086102/)。
+
+## Michael Scotus
+
+[迈克尔·斯科特(1175-1232)](https://en.wikipedia.org/wiki/Michael_Scot)是中世纪苏格兰数学家和学者。他的赞助人就是腓特烈二世，他担任腓特烈二世的科学顾问和宫廷占星家。
+
+## Georg III
+
+[乔治三世(1738-1820)](https://zh.wikipedia.org/wiki/%E5%96%AC%E6%B2%BB%E4%B8%89%E4%B8%96)是首位联合王国国王。
+
+## Herzog von Gloucester
+
+[格洛斯特和爱丁堡公爵威廉·亨利(1743-1805)](https://zh.wikipedia.org/wiki/%E6%A0%BC%E6%B4%9B%E6%96%AF%E7%89%B9%E5%92%8C%E6%84%9B%E4%B8%81%E5%A0%A1%E5%85%AC%E7%88%B5%E5%A8%81%E5%BB%89%C2%B7%E4%BA%A8%E5%88%A9%E8%A6%AA%E7%8E%8B)。
+
+## König Enzio
+
+[撒丁岛的恩齐奥(1220-1272)](https://de.wikipedia.org/wiki/Enzio_von_Sardinien)是腓特烈二世与士瓦本贵妇Adelheid的私生子。1238被指派撒丁岛国王，1249年在[福萨尔塔战役](https://it.wikipedia.org/wiki/Battaglia_di_Fossalta)中被博洛尼亚俘虏，并终生囚禁。
+
+## Barbarossa
+
+腓特烈·巴巴罗萨即神圣罗马帝国皇帝[腓特烈一世(1122-1190)](https://zh.wikipedia.org/wiki/%E8%85%93%E7%89%B9%E7%83%88%E4%B8%80%E4%B8%96_(%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD))，腓特烈二世的爷爷。腓特烈一世也十分英武，死后民间流传他会回归的传说。
+
+## Enzolino
+
+[埃泽利诺·达·罗马诺三世(1194-1259)](https://it.wikipedia.org/wiki/Ezzelino_III_da_Romano)，被称为“残暴的”埃泽利诺，是意大利领导人和政治家，马卡·特雷维吉亚纳 (Marca Trevigiana) 的领主，腓特烈二世的亲密盟友。
+
+## Guido di Sessa
+
+[杰拉尔多·达·塞萨(~1160-1211)](https://it.wikipedia.org/wiki/Gerardo_da_Sessa)（Gerardo da Sessa）是一位意大利13世纪的修士、主教和红衣主教。1210年，在皇位争夺中，他支持吉伯林派候选人腓特烈二世与圭尔夫·[奥托四世](https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%89%98%E5%9B%9B%E4%B8%96_(%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD))竞争。
+
+## Umberto Pallavicini
+
+[奥贝托二世·帕拉维奇诺(1197-1269)](https://it.wikipedia.org/wiki/Oberto_II_Pallavicino)曾与埃泽林一起是支持皇帝的吉伯林派，后加入归尔甫与埃泽林反目。在[阿达河畔卡萨诺](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%BE%BE%E6%B2%B3%E7%95%94%E5%8D%A1%E8%90%A8%E8%AF%BA)的[卡萨诺之战](https://it.wikipedia.org/wiki/Battaglia_di_Cassano_d%27Adda_%281259%29)中大胜伦巴底联盟，成为米兰等城市的执政。
+
+## Konrad von Hildesheim
+
+[希尔德斯海姆的康拉德二世(?-1249)](https://de.wikipedia.org/wiki/Konrad_II._von_Hildesheim)于1221年至1246年间担任希尔德斯海姆主教。
+
+## Wolfram von Eschenbach
+
+[沃尔夫拉姆·冯·埃申巴赫(1170-1220)](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%B0%94%E5%A4%AB%E6%8B%89%E5%A7%86%C2%B7%E5%86%AF%C2%B7%E5%9F%83%E7%94%B3%E5%B7%B4%E8%B5%AB)是中世纪最杰出的史诗作家之一，同时也是一位骑士。
+
+## Gervasius von Tilburg
+
+[蒂尔伯里的杰瓦修斯(~1150-~1235)](https://de.wikipedia.org/wiki/Gervasius_von_Tilbury)是英格兰一位法律学者、历史学家和地理学家。曾侍奉过西西里国王罗杰二世。
+
+## Friedrich II von Preußen
+
+普鲁士国王[腓特烈二世(1712-1786)](https://zh.wikipedia.org/wiki/%E8%85%93%E7%89%B9%E7%83%88%E4%BA%8C%E4%B8%96_(%E6%99%AE%E9%B2%81%E5%A3%AB))，又称腓特烈大帝，普鲁士在其统治下成功扩张国土，成为欧洲的军事大国。
+
+## Carlyle
+
+[托马斯·卡莱尔(1795-1881)](https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E5%8D%A1%E8%8E%B1%E5%B0%94)是苏格兰评论、讽刺作家、历史学家。
+
+## Richard Wagner
+
+[理查德·瓦格纳(1813-1883)](https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E7%93%A6%E6%A0%BC%E7%BA%B3)是德国著名作曲家、剧作家。花费26年的时间完成大型歌剧《尼伯龙根的指环》。
+
+## Cosima
+
+科西玛·瓦格纳又叫[弗兰切斯卡·加埃塔纳·科西玛·李斯特(1837-1930)](https://zh.wikipedia.org/wiki/%E7%A7%91%E8%A5%BF%E7%8E%9B%C2%B7%E7%93%A6%E6%A0%BC%E7%BA%B3)是作曲家[李斯特·费伦茨](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%AF%E7%89%B9%C2%B7%E8%B4%B9%E4%BC%A6%E8%8C%A8)的女儿，后嫁给了理查德·瓦格纳。
+
 # 地名
 
 ## Syrakus
@@ -940,3 +1102,47 @@
 
 [乌奇里亚集市](https://en.wikipedia.org/wiki/La_Vucciria_market)是一个古老的大型集市和社区，位于意大利西西里岛巴勒莫中部的卡斯特拉马雷古城区，设有商
 店和桌子，出售产品、农产品和食品。“La Vucciria”这个名字来自西西里语中的[“声音”一词](https://www.viator.com/Palermo-attractions/Vucciria-Market-La-Vucciria/overview/d4815-a12246)，指的是这个繁忙的街头市场的噪音水平。
+
+## Via Vittorio Emanuele
+
+[维托里奥·埃马努埃莱大街](https://en.wikipedia.org/wiki/Cassaro,_Palermo)是巴勒莫最古老的街道。这条街道一直没用卡萨罗街，意大利统一后，被正式更为此名。
+
+## Jesi
+
+[耶西](https://zh.wikipedia.org/zh-cn/%E8%80%B6%E8%A5%BF_(%E6%84%8F%E5%A4%A7%E5%88%A9))位于意大利安科纳。
+
+## Capitanata
+
+福贾的旧称。
+
+## Manfredonia
+
+[曼弗雷多尼亚](https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%BC%97%E9%9B%B7%E5%A4%9A%E5%B0%BC%E4%BA%9E)位于意大利中部普利亚，位于加尔加诺山南面的海岸上，面向东方，历史悠久。
+
+## Montsalvat
+
+[蒙萨尔瓦特](https://en.wikipedia.org/wiki/Montsalvat)是当代澳大利亚维多利亚州的一个艺术家聚居地。
+
+## Caltanisetta
+
+[卡尔塔尼塞塔](https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%E5%A1%94%E5%B0%BC%E5%A1%9E%E5%A1%94)是西西里岛中部内陆的一个城市。
+
+## Villa Tasca
+
+[塔斯卡别墅](https://www.hiddenitaly.com/villas/sicily/villa-tasca/)是一座历史悠久的别墅，位于意大利西西里岛巴勒莫。 它由英国富商[托马斯·利普顿爵士](https://en.wikipedia.org/wiki/Thomas_Lipton)于19世纪末建造。
+
+## La Spezia
+
+[拉斯佩齐亚](https://zh.wikipedia.org/wiki/%E6%8B%89%E6%96%AF%E4%BD%A9%E9%BD%90%E4%BA%9A)位于意大利西北。
+
+## Biebrich
+
+[比布里希](https://zh.wikipedia.org/wiki/%E6%AF%94%E5%B8%83%E9%87%8C%E5%B8%8C)是德国莱茵兰-普法尔茨州的一个市镇。
+
+## Ravello
+
+[拉韦洛](https://zh.wikipedia.org/wiki/%E6%8B%89%E9%9F%A6%E6%B4%9B)位于意大利中部地区。
+
+## Palazzo Rufolo
+
+[卢佛罗宫](https://zh.wikipedia.org/wiki/%E5%8D%A2%E4%BD%9B%E7%BD%97%E5%88%AB%E5%A2%85)位于拉韦洛的历史中心，主教座堂广场前。
