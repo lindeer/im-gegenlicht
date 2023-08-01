@@ -387,6 +387,22 @@
 
 [阿涅利家族](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B6%85%E5%88%A9%E5%AE%B6%E6%97%8F)是一个意大利多产业商业家族，[乔瓦尼·阿涅利](https://zh.wikipedia.org/wiki/%E4%B9%94%E7%93%A6%E5%B0%BC%C2%B7%E9%98%BF%E6%B6%85%E5%88%A9)创立了意大利最大的汽车制造品牌菲亚特。家族的发源地为都灵，位于意大利北部。
 
+## Inferno
+
+意大利电影[《地狱》](https://movie.douban.com/subject/1302006/)。
+
+## Hamm Eggs
+
+[火腿蛋](https://www.manusmenu.com/ham-and-cheese-sicilian-brioches)是一种外形像鸡蛋里面包裹芝士的点心。
+
+## Frika Delle
+
+[肉丸](https://en.wikipedia.org/wiki/Frikadelle)是各国各地区各民族比较普遍的食物。
+
+## Cocktails Lumumba
+
+[卢蒙巴](https://en.wikipedia.org/wiki/Lumumba_(drink))是一种长饮，以刚果政治家[帕特里斯·卢蒙巴](https://en.wikipedia.org/wiki/Patrice_Lumumba)的名字命名。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -883,6 +899,38 @@
 
 [朱利亚诺·埃内阿(?-1848)](https://www.findagrave.com/memorial/200686785/enea-di_giuliano)是一位埋葬在巴勒莫的法国上校，参加过拿破仑战争。
 
+## Stendhal
+
+[司汤达(1783-1842)](https://zh.wikipedia.org/wiki/%E5%8F%B8%E6%B1%A4%E8%BE%BE)是19世纪法国作家。司汤达写过关于意大利的游记[《罗马、那不勒斯和佛罗伦萨》](https://ia803000.us.archive.org/9/items/RomeNaplesAndFlorenceStendhal17831842/Rome%2C%20Naples%2C%20and%20Florence%20-%20Stendhal%2C%201783-1842.pdf)
+
+## Seume
+
+[约翰·戈特弗里德·佐伊梅(1763-1810)](https://en.wikipedia.org/wiki/Johann_Gottfried_Seume)是德国作家，写有游记[《1802年步行前往锡拉库萨》](https://www.deutschestextarchiv.de/book/show/seume_syrakus_1803)。
+
+## Stahr
+
+[阿道夫·威廉·西奥多·施塔尔](https://en.wikipedia.org/wiki/Adolf_Stahr)是一位德国作家和文学史学家。著有意大利游记《意大利一年(Ein Jahr in Italien)》，《意大利的秋天(Herbstmonate in Italien)》，《冬天的罗马(Ein Winter in Rom)》
+
+## Palladio
+
+[安德烈亚·帕拉第奥(1508-1580)](https://zh.wikipedia.org/zh-hans/%E5%AE%89%E5%BE%B7%E7%83%88%E4%BA%9A%C2%B7%E5%B8%95%E6%8B%89%E5%BC%9F%E5%A5%A5)是文艺复兴时期意大利杰出的建筑大师。
+
+## Anatole France
+
+[阿纳托尔·法朗士(1844-1924)](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%BA%B3%E6%89%98%E5%B0%94%C2%B7%E6%B3%95%E6%9C%97%E5%A3%AB)是法国小说家，1921年诺贝尔文学奖获得者。
+
+## Fürst Jussupoff
+
+[费利克斯·费利克苏维奇·尤苏波夫亲王(1887-1967)](https://zh.wikipedia.org/wiki/%E8%B2%BB%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E5%B0%A4%E8%98%87%E6%B3%A2%E5%A4%AB)出身俄罗斯巨富豪门尤苏波夫家族。1916年12月与沙皇堂弟[德米特里·巴甫洛维奇](https://zh.wikipedia.org/wiki/%E5%BE%B7%E7%B1%B3%E7%89%B9%E9%87%8C%C2%B7%E5%B7%B4%E7%94%AB%E6%B4%9B%E7%BB%B4%E5%A5%87)大公刺杀了荒淫国师[拉斯普京](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%87%8C%E6%88%88%E9%87%8C%C2%B7%E6%8B%89%E6%96%AF%E6%99%AE%E4%BA%AC)，后移居法国。
+
+## André Gide
+
+[安德烈·纪德(1869-1951)](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E7%B4%80%E5%BE%B7)是法国作家，1947年诺贝尔文学奖得主。1937年出版过意大利游记《前往那不勒斯——一段意大利之旅(A Naples - Reconnaissance à l'Italie)》
+
+## Wilhelm II
+
+德意志皇帝兼普鲁士国王[威廉二世(1859-1941)](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96_(%E5%BE%B7%E5%9B%BD))，1888年至1918年在位。
+
 # 地名
 
 ## Syrakus
@@ -1298,3 +1346,33 @@
 ## Bargello
 
 [巴杰罗美术馆](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%9D%B0%E7%BD%97%E7%BE%8E%E6%9C%AF%E9%A6%86)又名巴杰罗宫，曾经用作军营和监狱。
+
+## Porticello
+
+## Paestum
+
+[帕埃斯图姆](https://zh.wikipedia.org/wiki/%E5%B8%95%E5%9F%83%E6%96%AF%E5%9B%BE%E5%A7%86)是意大利坎帕尼亚地区的城镇。以古希腊建筑多立克柱式神庙而闻名。
+
+## Acque Dolci
+
+[阿奎多尔奇](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%A5%8E%E5%A4%9A%E5%B0%94%E5%A5%87)，是意大利墨西拿的一个市镇，意为甜水。
+
+## Timeo
+
+[提美欧贝尔蒙德大酒店](https://www.belmond.com/hotels/europe/italy/taormina/belmond-grand-hotel-timeo/)。
+
+## Corso
+
+[科尔索](https://www.traveltaormina.com/en/monuments/corso-umberto-taormina.html)是陶尔米纳一条步行街。
+
+## Largo S. Caterina
+
+[圣卡特琳娜广场](https://www.thatstaormina.com/item/church-of-saint-catherine-taormina/)位于陶尔米纳市中心，其中有著名的圣卡特琳娜教堂。
+
+## Comiso
+
+[科米索](https://zh.wikipedia.org/wiki/%E7%A7%91%E7%B1%B3%E7%B4%A2)位于西西里岛南部。
+
+## Palazzo Adriano
+
+[帕拉佐-阿德里亚诺](https://zh.wikipedia.org/wiki/%E5%B8%95%E6%8B%89%E4%BD%90-%E9%98%BF%E5%BE%B7%E9%87%8C%E4%BA%9A%E8%AF%BA)。
