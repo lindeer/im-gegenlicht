@@ -931,6 +931,22 @@
 
 德意志皇帝兼普鲁士国王[威廉二世(1859-1941)](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%E4%BA%8C%E4%B8%96_(%E5%BE%B7%E5%9B%BD))，1888年至1918年在位。
 
+## Claude Lévi-Strauss
+
+[克洛德·列维-斯特劳斯(1908-2009)](https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8B%9E%E5%BE%B7%C2%B7%E6%9D%8E%E7%B6%AD-%E5%8F%B2%E9%99%80)是著名的法国人类学家，与弗雷泽、鲍亚士被称为“现代人类学之父”。
+
+## Aldous Huxley
+
+[奥尔德斯·赫胥黎(1894-1963)](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%B0%94%E5%BE%B7%E6%96%AF%C2%B7%E8%B5%AB%E8%83%A5%E9%BB%8E)是英格兰作家，著有科幻小说[《美丽新世界》](https://book.douban.com/subject/27002046/)。
+
+## Lord Fullarton
+
+[富拉顿勋爵(1775-1853)](https://en.wikipedia.org/wiki/John_Fullerton,_Lord_Fullerton)是苏格兰一位大法官。
+
+## Heiligen Laurentius
+
+[圣劳伦斯](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E9%A6%AC%E7%9A%84%E8%81%96%E8%80%81%E6%A5%9E%E4%BD%90)是早期罗马教皇[西克斯图斯二世](https://zh.wikipedia.org/zh-cn/%E6%95%99%E5%AE%97%E8%A5%BF%E6%96%AF%E7%AC%83%E4%BA%8C%E4%B8%96)在位期间的七位执事之一，负责管理教会的财产，并用以周济穷人。258年，圣劳伦斯在[罗马皇帝瓦勒良](https://zh.wikipedia.org/zh-cn/%E7%93%A6%E5%8B%92%E8%89%AF)针对基督徒的迫害中殉道，他被放置在烤架上熏烤致死。
+
 # 地名
 
 ## Syrakus
@@ -1376,3 +1392,23 @@
 ## Palazzo Adriano
 
 [帕拉佐-阿德里亚诺](https://zh.wikipedia.org/wiki/%E5%B8%95%E6%8B%89%E4%BD%90-%E9%98%BF%E5%BE%B7%E9%87%8C%E4%BA%9A%E8%AF%BA)。
+
+## Messina
+
+[墨西拿](https://zh.wikipedia.org/wiki/%E5%A2%A8%E8%A5%BF%E6%8B%BF)，古称梅萨纳，位于西西里岛最东北端，与意大利本土半岛隔有墨西拿海峡。
+
+## Acapulco
+
+[阿卡普尔科](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%8D%A1%E6%99%AE%E5%B0%94%E7%A7%91)是墨西哥最大的海滩城市，也是墨西哥最古老，最知名的海滩度假胜地之一。
+
+## Braunschweig
+
+[布伦瑞克](https://zh.wikipedia.org/wiki/%E4%B8%8D%E4%BC%A6%E7%91%9E%E5%85%8B)是德国下萨克森州东部的一个城市。
+
+## Corso Garibaldi
+
+[加里波第大道](https://commons.wikimedia.org/wiki/File:Bruno,_Giuseppe_(1836-1904)_-_Corso_Garibaldi,_Messina_-_Cm_20x25.png)
+
+## Reggio
+
+[雷焦卡拉布里亚](https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%84%A6%E5%8D%A1%E6%8B%89%E5%B8%83%E9%87%8C%E4%BA%9A)位于意大利半岛的“脚趾”，与西西里岛以墨西拿海峡相隔。
