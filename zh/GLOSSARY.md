@@ -403,6 +403,44 @@
 
 [卢蒙巴](https://en.wikipedia.org/wiki/Lumumba_(drink))是一种长饮，以刚果政治家[帕特里斯·卢蒙巴](https://en.wikipedia.org/wiki/Patrice_Lumumba)的名字命名。
 
+## Abimelech
+
+[阿比米勒]是示剑国王，也是圣经法官基甸的儿子。圣经记载，他是一个没有原则、野心勃勃的统治者，经常与自己的臣民发动战争。
+
+## Achille
+
+[阿喀琉斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF)是古希腊神话和文学中的英雄人物，参与了特洛伊战争，被称为“希腊第一勇士”
+。普通人名均译作阿基里斯。
+
+## Gartenzwerg
+
+[花园矮人](https://de.wikipedia.org/wiki/Gartenzwerg)是一种小型人形花园装饰雕像。由大理石、砂岩或烧粘土制成，但现在也由塑料制成，基于文艺复兴时期魔法和炼金术中出现的神话生物和小精灵，也借鉴了德国矮人的民间传说。
+
+## Città del Sole
+
+[《太阳城》](https://book.douban.com/subject/1271758/)是康帕内拉的重要代表作。
+
+## Naphta
+
+“Naphta”是赫尔曼·黑塞小说《荒原狼》中的角色“塔法(Tapha)”的字谜。塔法是一个邪恶人物，他引诱主人公哈利·哈勒（Harry Haller），并将他带入地下黑暗世界。康帕内拉的太阳城实则是一个极权主义、不人道的社会，让人想起塔法的黑暗世界。
+
+## Dämonen des Mittags
+
+在古代和中世纪的民间信仰中，人们普遍认为中午是神灵出现的最佳时刻，这种说法至今仍然存在。[正午的恶魔](https://de.wikipedia.org/wiki/Mittagsd%C3%A4mon)经常被描述为可以在正午的炎热中折磨和杀人的恶魔，用来比喻太阳的破坏力。太阳可以带来生命和生育力，但它也可以引起瘫痪和恐怖。人们连续几个小时暴露在高温下时。
+
+## 'Ndrangheta
+
+[光荣会](https://zh.wikipedia.org/wiki/%E5%85%89%E6%A6%AE%E6%9C%83)是意大利黑手党组织，起源自19世纪两西西里王国时期的卡拉布里亚。
+
+## Wer – wen
+
+“谁——控制——谁”是贝托尔特·布莱希特在他的戏剧[《三毛钱歌剧》](https://book.douban.com/subject/6784966/)中提出的关于加害者和受害者的问题。
+
+## Parischem Marmor
+
+[帕里安大理石](https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%8C%E5%AE%89%E5%A4%A7%E7%90%86%E7%9F%B3)是一种细粒半透明的纯白色无瑕大理石，在古典时代开
+采于爱琴海的希腊帕罗斯岛。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -947,6 +985,39 @@
 
 [圣劳伦斯](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E9%A6%AC%E7%9A%84%E8%81%96%E8%80%81%E6%A5%9E%E4%BD%90)是早期罗马教皇[西克斯图斯二世](https://zh.wikipedia.org/zh-cn/%E6%95%99%E5%AE%97%E8%A5%BF%E6%96%AF%E7%AC%83%E4%BA%8C%E4%B8%96)在位期间的七位执事之一，负责管理教会的财产，并用以周济穷人。258年，圣劳伦斯在[罗马皇帝瓦勒良](https://zh.wikipedia.org/zh-cn/%E7%93%A6%E5%8B%92%E8%89%AF)针对基督徒的迫害中殉道，他被放置在烤架上熏烤致死。
 
+## Reinhard
+
+[弗朗茨·福尔克马尔·莱因哈德(1753-1812)](https://en.wikipedia.org/wiki/Franz_Volkmar_Reinhard)是德国作家、翻译家和外交家，也是歌德亲密的朋友。
+
+## Heilige Lucia
+
+[圣露西亚(283-304)](https://zh.wikipedia.org/wiki/%E8%81%96%E9%9C%B2%E8%A5%BF)也叫锡拉库萨的圣路济亚，是一位年轻富有的基督徒殉道者。
+
+## Tommaso Campanella
+
+[托马索·康帕内拉(1568-1639)](https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E7%B4%A2%C2%B7%E5%BA%B7%E5%B8%95%E5%86%85%E6%8B%89)原名乔瓦尼·多米尼克·康帕内拉，是意大利哲学家、神学家、占星学家和诗人。
+
+## Ernst Bloch
+
+[恩斯特·布洛赫(1885-1977)](https://zh.wikipedia.org/wiki/%E6%81%A9%E6%96%AF%E7%89%B9%C2%B7%E5%B8%83%E6%B4%9B%E8%B5%AB)是德国马克思主义哲学家。
+
+## Brecht
+
+[贝托尔特·布莱希特(1898-1956)](https://zh.wikipedia.org/wiki/%E8%B4%9D%E6%89%98%E5%B0%94%E7%89%B9%C2%B7%E5%B8%83%E8%8E%B1%E5%B8%8C%E7%89%B9)是德国著
+名戏剧家、诗人，出生于民主德国。
+
+## Gnaius Fulvius Flaccus
+
+[格奈乌斯·富尔维乌斯·弗拉库斯(?-前210)](https://en.wikipedia.org/wiki/Gnaeus_Fulvius_Centumalus_Maximus)是公元前211年罗马共和国的执政官。在第二次布匿战争期间对抗汉尼拔，后在[赫多尼亚战役](https://en.wikipedia.org/wiki/Battle_of_Herdonia_(210_BC))中被汉尼拔突然袭击而阵亡。
+
+## Pompey
+
+[格奈乌斯·庞培(前106-前48)](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%88%E4%B9%8C%E6%96%AF%C2%B7%E5%BA%9E%E5%9F%B9)古罗马政治家和军事家。
+
+## Zeuxis
+
+[赫拉克利亚的宙克西斯](https://zh.wikipedia.org/wiki/%E5%AE%99%E5%85%8B%E8%A5%BF%E6%96%AF)，约活动于公元前5世纪前后，多次受托作画。
+
 # 地名
 
 ## Syrakus
@@ -1412,3 +1483,39 @@
 ## Reggio
 
 [雷焦卡拉布里亚](https://zh.wikipedia.org/wiki/%E9%9B%B7%E7%84%A6%E5%8D%A1%E6%8B%89%E5%B8%83%E9%87%8C%E4%BA%9A)位于意大利半岛的“脚趾”，与西西里岛以墨西拿海峡相隔。
+
+## Riace
+
+[里亚切](https://zh.wikipedia.org/wiki/%E9%87%8C%E4%BA%9A%E5%88%87)位于雷焦卡拉布里亚东北约80公里处。
+
+## Catanzaro
+
+[卡坦扎罗](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%9D%A6%E6%89%8E%E7%BD%97)。
+
+## Bova Marina
+
+[博瓦马里纳](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%93%A6%E9%A9%AC%E9%87%8C%E7%BA%B3)。
+
+## Bova
+
+[博瓦](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%93%A6_(%E9%9B%B7%E7%84%A6%E5%8D%A1%E6%8B%89%E5%B8%83%E9%87%8C%E4%BA%9A%E5%B9%BF%E5%9F%9F%E5%B8%82))。
+
+## Locri
+
+[洛克里](https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%85%8B%E9%87%8C)是意大利南部卡拉布里亚省的一个城镇。名字来源于古希腊地区[洛克里斯](https://en.wikipedia.org/wiki/Locris)，是爱奥尼亚海岸及其省内重要的行政和文化中心。
+
+## Kroton
+
+克罗顿即如今的[克罗托内](https://zh.wikipedia.org/wiki/%E5%85%8B%E7%BE%85%E6%89%98%E5%85%A7)。大约公元前710年，亚该亚人创建了这座城市，初名克罗顿，中世纪起改名为克罗托内。
+
+## Stilo
+
+[斯蒂洛](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%92%82%E6%B4%9B)的起源与叙拉古的狄奥尼修斯二世对古希腊殖民地卡洛尼亚的毁灭有关，随后坎帕尼亚人（罗马人的盟友）于公元前277年又毁灭了斯蒂洛。
+
+## Capo Colonna
+
+[卡波科隆纳](https://en.wikipedia.org/wiki/Capo_Colonna)是卡拉布里亚的一个海角，位于克罗托内附近。在古代，这个海角被称为拉齐尼亚海角(Promunturium Lacinium)。现代名称源自朱诺·拉齐尼亚神庙的剩余圆柱。
+
+## Tempel der Hera Lacinia
+
+[赫拉·拉齐尼亚神庙](https://en.wikipedia.org/wiki/Temple_of_Juno_Lacinia_(Crotone))是大希腊时期的一座古希腊神庙废墟，供奉赫拉（朱诺）。推测建造日期为公元前480年至公元前440年，于1886年至1887年被美国考古研究所挖掘。
