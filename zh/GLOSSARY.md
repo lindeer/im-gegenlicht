@@ -441,6 +441,34 @@
 [帕里安大理石](https://zh.wikipedia.org/wiki/%E5%B8%95%E9%87%8C%E5%AE%89%E5%A4%A7%E7%90%86%E7%9F%B3)是一种细粒半透明的纯白色无瑕大理石，在古典时代开
 采于爱琴海的希腊帕罗斯岛。
 
+## Narcissus
+
+[那耳喀索斯](https://zh.wikipedia.org/wiki/%E7%B4%8D%E8%A5%BF%E7%91%9F%E6%96%AF)是希腊神话中一个俊美而自负的少年。他深深地爱上了自己的倒影，结果摔死。
+
+## Omertà
+
+[缄默法则](https://zh.wikipedia.org/wiki/%E7%B7%98%E9%BB%98%E6%B3%95%E5%89%87)是黑手党之间的法则之一。
+
+## Böser Blick
+
+[邪眼](https://zh.wikipedia.org/wiki/%E9%82%AA%E7%9C%BC)是一些民间文化中存在的一种迷信力量。
+
+## Pharsalia
+
+[《法萨利亚》](https://en.wikipedia.org/wiki/Pharsalia)是诗人卢坎写的一首罗马史诗，详细描述了尤利乌斯·凯撒与庞培的罗马军队之间的内战，也叫《内战记》。
+
+## Kanonade von Valmy
+
+[瓦尔密战役](https://zh.wikipedia.org/wiki/%E7%93%A6%E7%88%BE%E5%AF%86%E6%88%B0%E5%BD%B9)，也被称为瓦尔密炮击，是一志战略上确保了法国大革命成果的炮击行动。
+
+## Zabaione
+
+[鸡蛋奶酒](https://en.wikipedia.org/wiki/Zabaione)是一种意大利甜点，有时也是一种饮料，由蛋黄、糖和甜酒配制。
+
+## Brioche
+
+[布里欧面包](https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%89%E6%AD%90)是一种法国面包，既可当做主食也可以当做甜点。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1018,6 +1046,50 @@
 
 [赫拉克利亚的宙克西斯](https://zh.wikipedia.org/wiki/%E5%AE%99%E5%85%8B%E8%A5%BF%E6%96%AF)，约活动于公元前5世纪前后，多次受托作画。
 
+## Pilatus
+
+[马库斯·庞提乌斯·彼拉图斯(?-36)](https://zh.wikipedia.org/wiki/%E6%9C%AC%E4%B8%9F%C2%B7%E5%BD%BC%E6%8B%89%E5%A4%9A)，译作本丢·彼拉多，罗马帝国犹太行省的第五任罗马长官，判处耶稣钉十字架。
+
+## Jean Améry
+
+[让·埃默里(1912-1978)](https://en.wikipedia.org/wiki/Jean_Am%C3%A9ry)原名汉斯·查姆·梅耶（Hanns Chaim Mayer）奥地利犹太裔作家、散文家、哲学家。奥斯维辛集中营幸存者，纳粹大屠杀作家中最受瞩目的人物之一。代表著作有[《罪与罚的彼岸：一个被施暴者的克难尝试》](https://book.douban.com/subject/30126896/)、[《变老的哲学：反抗与放弃》](https://book.douban.com/subject/27204087/)、[《独自迈向生命的尽头》](https://book.douban.com/subject/30237881/)等。
+
+## Paul Getty
+
+此处为[保罗·盖蒂三世](https://en.wikipedia.org/wiki/John_Paul_Getty_III)，格蒂石油公司创始人[保罗·盖蒂](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E8%93%8B%E8%92%82)的孙子。1973年7月10日在罗马被光荣会的黑帮绑架，索要1700万美元，后在支付220万美元后被释放。具体案件可见维基。
+
+## Strabo
+
+[斯特拉波(前64-23)](https://zh.wikipedia.org/zh-cn/%E6%96%AF%E7%89%B9%E6%8B%89%E6%B3%A2)，古希腊历史学家、地理学家，生于现在土耳其的阿马西亚（当时属罗马帝国），著有《地理学》17卷。
+
+## Athenaios
+
+[阿特纳奥斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%89%B9%E7%B4%8D%E5%A5%A7%E6%96%AF)，是活跃于1至2世纪罗马帝国时代的希腊修辞学家和语法学家，生活埃及的瑙克拉提斯，生平不详，用希腊文写作，留下《智者之宴》一书，该书以对话体写成，为后世保留了大量珍贵的风俗和文学资料。
+
+## Herodotus
+
+[希罗多德(约前484-前425)](https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7)是古希腊作家，他记录了旅行中的所闻所见，以及波斯阿契美尼德王朝的历史，著成《历史》一书。
+
+## Karl Reinhardt
+
+[卡尔·路德维希·赖因哈特(1886-1958)](https://en.wikipedia.org/wiki/Karl_Reinhardt_(philologist))是德国古典文学家。
+
+## Lukan
+
+[马库斯·安内乌斯·卢卡努斯（Marcus Annaeus Lucanus）(39-65)](https://zh.wikipedia.org/wiki/%E7%9B%A7%E5%9D%8E)，也叫卢坎，古罗马诗人。
+
+## Ernst Wilhelm Eschmann
+
+[恩斯特·威廉·埃施曼(1904-1987)](https://en.wikipedia.org/wiki/Ernst_Wilhelm_Eschmann)是一位德国作家、社会学家和剧作家。
+
+## Oswald Spengler
+
+[奥斯瓦尔德·阿莫德·哥特弗里德·斯宾格勒(1880-1936)](https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E7%93%A6%E7%88%BE%E5%BE%B7%C2%B7%E6%96%AF%E8%B3%93%E6%A0%BC%E5%8B%92)，德国历史哲学家、文化史学家及历史政治作家。
+
+## Ungaretti
+
+[朱塞佩·翁加雷蒂(1888-1970)](https://zh.wikipedia.org/zh-cn/%E6%9C%B1%E5%A1%9E%E5%9F%B9%C2%B7%E7%BF%81%E5%8A%A0%E9%9B%B7%E8%92%82)是意大利现代主义诗人、新闻记者、散文家、批评家、学者。
+
 # 地名
 
 ## Syrakus
@@ -1519,3 +1591,27 @@
 ## Tempel der Hera Lacinia
 
 [赫拉·拉齐尼亚神庙](https://en.wikipedia.org/wiki/Temple_of_Juno_Lacinia_(Crotone))是大希腊时期的一座古希腊神庙废墟，供奉赫拉（朱诺）。推测建造日期为公元前480年至公元前440年，于1886年至1887年被美国考古研究所挖掘。
+
+## Aspromonte
+
+[阿斯普罗蒙特山](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%96%AF%E6%99%AE%E7%BE%85%E8%92%99%E7%89%B9%E5%B1%B1)位于墨西拿海峡附近，海拔高度1,955米。
+
+## Sybaris
+
+[锡巴里斯](https://zh.wikipedia.org/wiki/%E9%94%A1%E5%B7%B4%E9%87%8C%E6%96%AF)是古希腊在意大利南部大希腊地区的一座重要港口，以其享乐主义而闻名。
+
+## Thurioi
+
+[图利](https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%88%A9)是大希腊时期的一个城市，位于今意大利南部塔兰托湾，距离锡巴里斯很近，于公元前443年由古希腊雅典人建立。
+
+## Milet
+
+[米利都](https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%88%A9%E9%83%BD)是位于安纳托利亚西海岸线上的一座古希腊城邦，在荷马的《伊利亚特》中也出现过。
+
+## Kratis
+
+[克拉蒂河](https://zh.wikipedia.org/wiki/%E5%85%8B%E6%8B%89%E8%92%82%E6%B2%B3)注入塔兰托湾。
+
+## Thasos
+
+[萨索斯岛](https://zh.wikipedia.org/wiki/%E8%90%A8%E7%B4%A2%E6%96%AF%E5%B2%9B)是希腊第十二大岛屿，有着悠久的历史。
