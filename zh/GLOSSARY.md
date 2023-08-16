@@ -469,6 +469,18 @@
 
 [布里欧面包](https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%89%E6%AD%90)是一种法国面包，既可当做主食也可以当做甜点。
 
+## Lettres Persanes
+
+[《波斯人信札》](https://book.douban.com/subject/5352619/)是一部书信体小说，是孟德斯鸠唯一的一部文学作品。
+
+## Mammon
+
+[玛门](https://zh.wikipedia.org/wiki/%E7%8E%9B%E9%97%A8)在新约圣经中用来描绘物质财富或贪婪 ，在基督教中代表七宗罪中的贪婪。
+
+## Sarazenenturm
+
+[萨拉森塔](https://de.wikipedia.org/wiki/Sarazenenturm)因北非萨拉森人得名，公元9世纪左右，他们的船只开始在基督教地中海沿岸掠夺和摧毁沿海城镇，屠杀当地居民或将他们绑架到奴隶市场贩卖。于是建起了这些瞭望塔，通过炮声或火力信号发出警报。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1090,6 +1102,14 @@
 
 [朱塞佩·翁加雷蒂(1888-1970)](https://zh.wikipedia.org/zh-cn/%E6%9C%B1%E5%A1%9E%E5%9F%B9%C2%B7%E7%BF%81%E5%8A%A0%E9%9B%B7%E8%92%82)是意大利现代主义诗人、新闻记者、散文家、批评家、学者。
 
+## Paul Valéry
+
+[保罗·瓦莱里](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E7%93%A6%E5%8B%92%E9%87%8C)是法国著名作家、诗人，法兰西学术院院士。著有[《文艺杂谈》](https://book.douban.com/subject/26746873/)
+
+## Norman Douglas
+
+[乔治·诺曼·道格拉斯(1868-1952)](https://en.wikipedia.org/wiki/Norman_Douglas)是英国作家，以1917年的小说《南风》而闻名。意大利游记[《老卡拉布里亚游记》](https://book.douban.com/subject/27004296/)（1915）也非常著名。
+
 # 地名
 
 ## Syrakus
@@ -1615,3 +1635,28 @@
 ## Thasos
 
 [萨索斯岛](https://zh.wikipedia.org/wiki/%E8%90%A8%E7%B4%A2%E6%96%AF%E5%B2%9B)是希腊第十二大岛屿，有着悠久的历史。
+
+## Tarent
+
+[塔兰托](https://zh.wikipedia.org/wiki/%E5%A1%94%E5%85%B0%E6%89%98)位于意大利南部伊奥尼亚海塔兰托湾畔，是意大利重要的商港和海军基地。
+
+## San Giovanni in Fiore
+
+[圣乔瓦尼·因菲奥雷](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%B9%94%E7%93%A6%E5%B0%BC-%E5%9B%A0%E8%8F%B2%E5%A5%A5%E9%9B%B7)位于意大利科森扎。
+
+## Eraclea
+
+意大利有多处埃拉克莱阿，此处应为[赫拉克莱阿(Heraclea)](https://it.wikipedia.org/wiki/Eraclea_(Magna_Grecia))，是大希腊卢卡尼亚的一座古城，位于现在的[波利科罗](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%88%A9%E7%A7%91%E7%BD%97)附近。
+
+## Rocca Imperiale
+
+[罗卡因佩里亚莱](https://zh.wikipedia.org/wiki/%E7%BD%97%E5%8D%A1%E5%9B%A0%E4%BD%A9%E9%87%8C%E4%BA%9A%E8%8E%B1)是意大利南部卡拉布里亚地区的一个城镇，意为“帝国岩石”。位于环绕塔兰托湾的弧线中部，坐落在亚平宁山脉山麓的一座小山上。
+
+## Sibari
+
+[锡巴里](https://en.wikipedia.org/wiki/Sibari)即锡巴里斯遗址之上的现代小镇。
+
+## Sila Grande
+
+西拉格兰德是卡拉布里亚亚平宁山脉中的[拉西拉高原](https://it.wikipedia.org/wiki/Sila)的一部分，拉西拉高原占地15万公顷，从北到南分为西拉格雷卡、西拉格
+兰德和西拉皮科拉，有各种山峰，茂密的森林和人工湖。
