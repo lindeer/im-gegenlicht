@@ -481,6 +481,39 @@
 
 [萨拉森塔](https://de.wikipedia.org/wiki/Sarazenenturm)因北非萨拉森人得名，公元9世纪左右，他们的船只开始在基督教地中海沿岸掠夺和摧毁沿海城镇，屠杀当地居民或将他们绑架到奴隶市场贩卖。于是建起了这些瞭望塔，通过炮声或火力信号发出警报。
 
+## Brutti
+
+[布鲁特人](https://en.wikipedia.org/wiki/Bruttians)是一个古老的意大利民族。他们居住在意大利最南端，从卢卡尼亚边境到西西里海峡，这大致相当于现代的卡拉布里亚地区。
+
+## Anjou
+
+[西西里的安茹王朝](https://zh.wikipedia.org/wiki/%E5%AE%89%E8%8C%B9-%E8%A5%BF%E8%A5%BF%E9%87%8C%E7%8E%8B%E6%9C%9D)是继德意志的斯陶芬王朝覆灭后，来自法兰西的西西里统治者。从1268年开始，1435年结束。
+
+## Bourbonen
+
+[西西里的波旁王朝](https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E6%97%81-%E5%85%A9%E8%A5%BF%E8%A5%BF%E9%87%8C%E7%8E%8B%E6%9C%9D)是法国波旁王朝的分支。此时，西西里地区合并为[两西西西里王国](https://zh.wikipedia.org/zh-hans/%E6%B3%A2%E6%97%81-%E5%85%A9%E8%A5%BF%E8%A5%BF%E9%87%8C%E7%8E%8B%E6%9C%9D)。从1816年开始，1861年结束。
+
+## Wotanseiche
+
+沃坦橡树是日耳曼神沃坦的神圣橡树。橡树是力量、权力和不朽的象征。柏树是死亡和复活的象征。
+
+## Grab im Busento
+
+[《布森托墓志铭》](https://www.lieder.net/lieder/get_text.html?TextId=58328)写于1820年，是一首诗歌。
+
+## Riserva
+
+这个词一般表示[优质葡萄酒](https://www.eataly.ca/news/riserva-wine/)，最常出现在谈论著名的托斯卡纳葡萄酒。
+
+## De civitate Dei
+
+[《上帝之城》](https://book.douban.com/subject/30271885/)是奥古斯丁代表作之一，他花了十四年时间（413-427年）完成了这部经典名作，集中介绍了基督教的历
+史发展和思想演变。
+
+## Siebenarmigen Leuchter
+
+七盾烛台是犹太教的象征，也象征着创造的七日和七个安息日。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -584,6 +617,10 @@
 
 [格哈特·霍普特曼（1862-1946）](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%93%88%E7%89%B9%C2%B7%E9%9C%8D%E6%99%AE%E7%89%B9%E6%9B%BC)是德国剧作家和诗人，自然主义文学在德国的重要代表人，1912年诺贝尔文学奖获得者。
 
+## John Julius Norwich
+
+[约翰·朱利叶斯·诺里奇(1929-2018)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E6%9C%B1%E5%88%A9%E5%8F%B6%E6%96%AF%C2%B7%E8%AF%BA%E5%A8%81%E5%A5%87)是英国著名历史学家、旅行作家，写作了很多西西里的畅销历史书。如[《征服，1016—1130：西西里的诺曼王朝Ⅰ》](https://book.douban.com/subject/35613818/)，[《王国，1130—1194：西西里的诺曼王朝Ⅱ》](https://book.douban.com/subject/35613815/)，[《西西里史》](https://book.douban.com/subject/30402349/)。
+
 ## Ariost
 
 [阿里奥斯托（1474-1533）](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E5%A5%A5%E6%96%AF%E6%89%98)是意大利文艺复兴时诗人，代表作《疯狂的罗兰》。
@@ -598,7 +635,7 @@
 
 ## James Boswell
 
-[詹姆斯·博斯韦尔（1740-1795）](https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%8D%9A%E6%96%AF%E9%9F%A6%E5%B0%94)，苏格兰传记作家。
+[詹姆斯·博斯韦尔(1740-1795)](https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%8D%9A%E6%96%AF%E9%9F%A6%E5%B0%94)，苏格兰传记作家。
 
 ## Maximinianus Herculius
 
@@ -1109,6 +1146,39 @@
 ## Norman Douglas
 
 [乔治·诺曼·道格拉斯(1868-1952)](https://en.wikipedia.org/wiki/Norman_Douglas)是英国作家，以1917年的小说《南风》而闻名。意大利游记[《老卡拉布里亚游记》](https://book.douban.com/subject/27004296/)（1915）也非常著名。
+
+## Caprivi
+
+[列奥·冯·卡普里维(1831-1899)](https://zh.wikipedia.org/zh-cn/%E5%88%97%E5%A5%A7%C2%B7%E9%A6%AE%C2%B7%E5%8D%A1%E6%99%AE%E9%87%8C%E7%B6%AD)接替俾斯麦成为德意志第二帝国第二任的首相。
+
+## Bismarck
+
+[俾斯麦(1815-1898)](https://zh.wikipedia.org/zh-cn/%E5%A5%A5%E6%89%98%C2%B7%E5%86%AF%C2%B7%E4%BF%BE%E6%96%AF%E9%BA%A6)是德意志帝国银行家。
+
+## Carducci
+
+[焦苏埃·卡尔杜奇(1835-1907)](https://zh.wikipedia.org/wiki/%E7%84%A6%E8%8B%8F%E5%9F%83%C2%B7%E5%8D%A1%E5%B0%94%E6%9D%9C%E5%A5%87)是意大利诗人、教师。
+
+## Alarich
+
+阿拉里克是日耳曼语族的一个名字，意思为“所有人的统治者”。此处指西哥特王国的缔造者[阿拉里克一世(约370-约410)](https://zh.wikipedia.org/wiki/%E4%BA%9A%E6%8B%89%E9%87%8C%E5%85%8B%E4%B8%80%E4%B8%96)。410年病逝于科森扎。
+
+## Geiserich
+
+[盖萨里克(约389-477)](https://zh.wikipedia.org/wiki/%E8%93%8B%E8%96%A9%E9%87%8C%E5%85%8B)是汪达尔人的领袖，北非征服者，名字的意思为“矛之王”。
+
+## Konradin
+
+[康拉丁(1252-1268)](https://zh.wikipedia.org/wiki/%E5%BA%B7%E6%8B%89%E4%B8%81)是士瓦本公爵和耶路撒冷国王，腓特烈二世的孙子，斯陶芬王朝最后一个男性继
+承人。为继承西西里王国出生意大利，但于1268年在塔利亚科佐战役中被[安茹的查理](https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E4%B8%80%E4%B8%96_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))击败，后被查理斩首于那不勒斯，死时不到17岁，西西里王国的安茹王朝取代斯陶芬王朝，家族所有的士瓦本公国也被权贵瓜分。
+
+## Ranke
+
+[利奥波德·冯·兰克(1795-1886)](https://zh.wikipedia.org/wiki/%E5%88%A9%E5%A5%A7%E6%B3%A2%E5%BE%B7%C2%B7%E9%A6%AE%C2%B7%E8%98%AD%E5%85%8B)是十九世纪德国最重要的历史学家，也是西方近代史学的重要奠基者之一，被誉为“近代史学之父”。
+
+## Totila
+
+[托提拉(?-552)](https://zh.wikipedia.org/wiki/%E6%89%98%E6%8F%90%E6%8B%89)是东哥特王国的国王，出色的军事和政治领导人。
 
 # 地名
 
@@ -1660,3 +1730,23 @@
 
 西拉格兰德是卡拉布里亚亚平宁山脉中的[拉西拉高原](https://it.wikipedia.org/wiki/Sila)的一部分，拉西拉高原占地15万公顷，从北到南分为西拉格雷卡、西拉格
 兰德和西拉皮科拉，有各种山峰，茂密的森林和人工湖。
+
+## Cosenza
+
+[科森扎](https://zh.wikipedia.org/zh-cn/%E7%A7%91%E6%A3%AE%E6%89%8E)位于意大利南部卡拉布里亚区。
+
+## Camigliatello
+
+[卡米利亚特罗](https://it.wikipedia.org/wiki/Camigliatello_Silano)是位于西拉格兰德的一个山区度假胜地。
+
+## Doorn
+
+[多伦](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%80%AB_(%E8%8D%B7%E8%98%AD))是德国末代皇帝威廉二世1918年退位后定居的地方。
+
+## Busento
+
+[布森托河](https://en.wikipedia.org/wiki/Busento)是克拉蒂河的左支流，流经意大利南部卡拉布里亚，全长约95公里。
+
+## Celico
+
+[切利科](https://zh.wikipedia.org/wiki/%E5%88%87%E5%88%A9%E7%A7%91)。
