@@ -514,6 +514,40 @@
 
 七盾烛台是犹太教的象征，也象征着创造的七日和七个安息日。
 
+## Reichstag
+
+神圣罗马帝国和一些从罗马帝国分离的欧洲国家，[帝国议会](https://de.wikipedia.org/wiki/Reichstag)是一个商讨一些决定的机构，大多时候旨在制衡皇帝。
+
+## Bourgeois
+
+布尔乔亚一般指的是资产阶级的成员，通常是拥有财产和企业的人。一般指某人物质至上和自私，偏贬义。
+
+## Citoyen
+
+Citoyen一般指公民，一个政治共同体的成员，偏褒义，表明某人积极参与公民生活并致力于共同利益。卢梭在他的著作《社会契约论》(1762) 中首次区分了市民和公民。市民(资产阶级)只关心自己的私人利益，而公民则关心公共利益。他相信，只有公民愿意放下个人利益并为所有人的利益行事，才能实现真正的共和国。
+
+## Toga
+
+[罗马长袍](https://zh.wikipedia.org/wiki/%E6%89%98%E5%8A%A0)也叫托加长袍是最能体现古罗马男子服饰特点的服装。
+
+## Astarte
+
+## Magna Mater
+
+该词的意译为“伟大的母亲”，一般指的是[库柏勒](https://zh.wikipedia.org/wiki/%E5%BA%93%E6%9F%8F%E5%8B%92)。是希腊神话中的大地之母盖亚的，这古希腊形象的罗马化转变。
+
+## Mondgöttin
+
+[月亮女神](https://de.wikipedia.org/wiki/Mondgottheit)
+
+## Bergpredigt
+
+[山上宝训](https://zh.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E5%AF%B6%E8%A8%93)指的是《圣经·马太福音》第五章到第七章里，由耶稣基督在山上所说的话。
+
+## Perseus
+
+[珀耳修斯](https://zh.wikipedia.org/wiki/%E7%8F%80%E8%80%B3%E4%BF%AE%E6%96%AF)是希腊神话中宙斯和[达那厄](https://zh.wikipedia.org/wiki/%E8%BE%BE%E9%82%A3%E5%8E%84)的儿子。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1180,6 +1214,45 @@
 
 [托提拉(?-552)](https://zh.wikipedia.org/wiki/%E6%89%98%E6%8F%90%E6%8B%89)是东哥特王国的国王，出色的军事和政治领导人。
 
+## Heinrich VII
+
+德意志国王[亨利七世(1211-1242)](https://en.wikipedia.org/wiki/Henry_%28VII%29_of_Germany)，也叫[士瓦本的亨利二世](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%BA%8C%E4%B8%96_%28%E5%A3%AB%E7%93%A6%E6%9C%AC%29)。腓特烈二世的长子，1234年举兵叛乱，腓特烈二世亲赴平乱，亨利与其二子被都剥夺继承权。异母弟弟康拉德四世由此继承的德意志国王。海因里希是英语亨利(Henry)的德语写法。此亨利七世并非神圣罗马帝国皇帝[亨利七世(1278-1313)](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E4%B8%83%E4%B8%96_%28%E7%A5%9E%E5%9C%A3%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD%29)。
+
+## Rodin
+
+[奥古斯特·罗丹(1840-1917)](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E7%BD%97%E4%B8%B9)是法国著名雕塑家，现代雕塑的奠
+基者。
+
+## Joachim Murat
+
+[若阿尚·缪拉(1767-1815)](https://zh.wikipedia.org/wiki/%E8%8B%A5%E9%98%BF%E5%B0%9A%C2%B7%E7%BC%AA%E6%8B%89)，是法兰西第一帝国军事家、元帅。曾任贝格和克莱沃公爵（1806年起），后成为那不勒斯国王（1808年－1815年在位）。是杰出的骑兵指挥官和勇武绝伦的战士。
+
+## Ney
+
+[米歇尔·内伊(1769-1815)](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%AD%87%E5%B0%94%C2%B7%E5%86%85%E4%BC%8A)法国大革命和拿破仑战争期间的军事指挥官。
+
+## Bernadotte
+
+[让·巴蒂斯特·贝尔纳多特(1763-1844)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%E5%8D%81%E5%9B%9B%E4%B8%96%C2%B7%E7%BA%A6%E7%BF%B0)生于法国，后
+成为拿破仑战争时的法国元帅。1818年即位为瑞典国王卡尔十四世·约翰，是贝尔纳多特王朝开国君主。
+
+## Beauharnais
+
+[欧仁·德·博阿尔内(1781-1824)](https://zh.wikipedia.org/wiki/%E6%AC%A7%E4%BB%81%C2%B7%E5%BE%B7%C2%B7%E5%8D%9A%E9%98%BF%E5%B0%94%E5%86%85)是法国军事家
+，拿破仑的继子和随身少将副官。其母[约瑟芬·德·博阿尔内](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E8%8A%AC%C2%B7%E5%BE%B7%C2%B7%E5%8D%9A%E9%98%BF%E5%B0%94%E5%86%85)是拿破仑的第一任妻子。
+
+## Martial
+
+[马提亚尔(41-102)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%8F%90%E4%BA%9A%E5%B0%94)是古罗马文学家，凭借诗歌而闻名于世。
+
+## Robert Guiscard
+
+[罗贝尔·吉斯卡尔(约1015-1085)](https://zh.wikipedia.org/wiki/%E7%BE%85%E8%B2%9D%E7%88%BE%C2%B7%E5%90%89%E6%96%AF%E5%8D%A1%E7%88%BE)是一位诺曼冒险家，奠定了西西里王国的开创事业，是事实上的开国英雄和始祖。
+
+## Capaccio Vecchio
+
+[卡帕奇奥维奇奥](https://it.wikipedia.org/wiki/Capaccio_Vecchio)是一个重要的主教区。
+
 # 地名
 
 ## Syrakus
@@ -1750,3 +1823,23 @@
 ## Celico
 
 [切利科](https://zh.wikipedia.org/wiki/%E5%88%87%E5%88%A9%E7%A7%91)。
+
+## Ponte Martiri
+
+[烈士桥](https://www.nuove-strade.it/calabria/cosenza/ponte-martire)
+
+## Corso Telesio
+
+[特莱西奥大街](https://www.offertevacanzeinitalia.com/destinazione-cosenza/corso-telesio-cosenza/)是科森扎的一条主干道，横跨整个历史中心。
+
+## Worms
+
+[沃尔姆斯](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%B0%94%E5%A7%86%E6%96%AF)位于莱茵河西岸，是查理大帝的冬宫。沃尔姆斯一般都神圣罗马帝国举办帝国议会的地方。
+
+## Nicastro
+
+[尼卡斯特罗](https://en.wikipedia.org/wiki/Nicastro)是卡拉布里亚地区的一个小镇。
+
+## Whitehall
+
+[白厅](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%BB%B3)是英国伦敦威斯敏斯特市内的一条大道，是英国政府中枢的所在地。
