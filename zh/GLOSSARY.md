@@ -548,6 +548,27 @@ Citoyen一般指公民，一个政治共同体的成员，偏褒义，表明某�
 
 [珀耳修斯](https://zh.wikipedia.org/wiki/%E7%8F%80%E8%80%B3%E4%BF%AE%E6%96%AF)是希腊神话中宙斯和[达那厄](https://zh.wikipedia.org/wiki/%E8%BE%BE%E9%82%A3%E5%8E%84)的儿子。
 
+## Verbotsträumen
+
+资本主义后期就是理查德·瓦格纳生活的19世纪末期。当时的道德非常拘谨和清教徒，有很多禁令和禁忌。然而，瓦格纳的幻想更加自由、更加不受束缚。他梦想着一个充满爱、美丽和救赎的世界。在《帕西法尔》中，他将这两个世界结合在一起。《帕西法尔》讲述了一个年轻人寻找圣杯的故事，圣杯即是救赎的象征。
+
+## Magdalena-Parodie
+
+Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B9%E5%A4%A7%E6%8B%89%E7%9A%84%E9%A6%AC%E5%88%A9%E4%BA%9E)，Parodie指的是[戏剧影
+射](https://en.wikipedia.org/wiki/Parody)。抹大拉的马利亚是耶稣忠实的女性信徒。
+
+## Kundry
+
+库恩德丽是《帕西法尔》剧作中的一个角色，是圣杯的信使。
+
+## Tristan
+
+《特里斯坦》指的是瓦格纳的一部三幕剧[《特里斯坦与伊索尔德》](https://zh.wikipedia.org/wiki/%E7%89%B9%E9%87%8C%E6%96%AF%E5%9D%A6%E4%B8%8E%E4%BC%8A%E7%B4%A2%E5%B0%94%E5%BE%B7)。
+
+## Settembrini
+
+《魔山》中的的人物，是意大利自由派人文主义者。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1253,6 +1274,32 @@ Citoyen一般指公民，一个政治共同体的成员，偏褒义，表明某�
 
 [卡帕奇奥维奇奥](https://it.wikipedia.org/wiki/Capaccio_Vecchio)是一个重要的主教区。
 
+## Walther Hirsch
+
+## Hans Scholz
+
+[汉斯·舒尔茨(1911-1988)](https://de.wikipedia.org/wiki/Hans_Scholz)是一位德国作家、记者和画家。
+
+## Heini Heuser
+
+似乎是[海因里希·霍瑟(1887-1967)](https://de.wikipedia.org/wiki/Heinrich_Heuser)是一位德国艺术家。
+
+## Fontane
+
+[特奥多尔·冯塔内(1819-1898)](https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%A4%9A%E5%B0%94%C2%B7%E5%86%AF%E5%A1%94%E5%86%85)是德国批判现实主义小说家、诗人。
+
+## Adriano Celentano
+
+[阿德里安诺·塞兰特诺(1938-)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BE%B7%E9%87%8C%E5%AE%89%E8%AF%BA%C2%B7%E5%A1%9E%E5%85%B0%E7%89%B9%E8%AF%BA)是一个意大利歌手、作曲家、喜剧演员、演员、电影导演和电视主持人。
+
+## Adolf Stahr
+
+[阿道夫·威廉·西奥多·施塔尔(1805-1876)](https://de.wikipedia.org/wiki/Adolf_Stahr)是一位德国作家和文学史学家。
+
+## General dalla Chiesa
+
+[卡洛·阿尔贝托·达拉·基耶萨(1920-1982)](https://en.wikipedia.org/wiki/Carlo_Alberto_dalla_Chiesa)是一位意大利将军，因在任职期间开展反恐运动而闻名。1982年9月3日在巴勒莫的[卡里尼大街大屠杀](https://en.wikipedia.org/wiki/Via_Carini_massacre)中被西西里黑手党暗杀。
+
 # 地名
 
 ## Syrakus
@@ -1843,3 +1890,19 @@ Citoyen一般指公民，一个政治共同体的成员，偏褒义，表明某�
 ## Whitehall
 
 [白厅](https://zh.wikipedia.org/wiki/%E7%99%BD%E5%BB%B3)是英国伦敦威斯敏斯特市内的一条大道，是英国政府中枢的所在地。
+
+## Grünewald
+
+[格鲁讷瓦尔德](https://zh.wikipedia.org/wiki/%E6%A0%BC%E9%B2%81%E8%AE%B7%E7%93%A6%E5%B0%94%E5%BE%B7)是柏林高等研究院的所在地，这里还拥有众多大使馆。
+
+## Sorrent
+
+[索伦托](https://zh.wikipedia.org/wiki/%E7%B4%A2%E4%BC%A6%E6%89%98)位于索伦托半岛北岸，濒那不勒斯湾，北距那不勒斯27公里，是一个旅游胜地。
+
+## Minori
+
+[米诺利](https://zh.wikipedia.org/wiki/%E7%B1%B3%E8%AF%BA%E5%88%A9)地处阿马尔菲海岸。
+
+## Dragone
+
+[德拉贡河](https://it.wikipedia.org/wiki/Dragone_(Campania))是坎帕尼亚的一条小河，流经阿马尔菲海岸地区。
