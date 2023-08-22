@@ -569,6 +569,22 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 《魔山》中的的人物，是意大利自由派人文主义者。
 
+## Walpurgiswelt
+
+即沃普尔吉斯之夜。
+
+## Göttinnen
+
+海因里希·曼的[《女神》](https://www.fischerverlage.de/buch/heinrich-mann-die-goettinnen-9783100478191)讲述了阿西公爵夫人将一生奉献给自由、美丽和爱情的故事。
+
+## Der Tod in Venedig
+
+[《威尼斯之死》](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E4%B9%8B%E6%AD%BB)是托马斯·曼的中篇小说，发表于1912年，是托马斯·曼最优秀的[作品之一](https://book.douban.com/subject/4621099/)。
+
+## Silvae
+
+[《森林》](https://en.wikipedia.org/wiki/Silvae)是普布利乌斯·帕皮尼乌斯·斯塔提乌斯创作的六音步、十音节和抒情诗的拉丁诗集。诗歌的主题多种多样，为学者们提供了有关图密善的罗马和斯塔提乌斯生活的丰富信息。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1300,6 +1316,39 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [卡洛·阿尔贝托·达拉·基耶萨(1920-1982)](https://en.wikipedia.org/wiki/Carlo_Alberto_dalla_Chiesa)是一位意大利将军，因在任职期间开展反恐运动而闻名。1982年9月3日在巴勒莫的[卡里尼大街大屠杀](https://en.wikipedia.org/wiki/Via_Carini_massacre)中被西西里黑手党暗杀。
 
+## Heinrich Mann
+
+[海因里希·曼](https://zh.wikipedia.org/wiki/%E4%BA%A8%E5%88%A9%E5%B8%8C%C2%B7%E6%9B%BC)是托马斯·曼的哥哥，也是重要的德国作家之一。
+
+## Robert Musil
+
+[罗伯特·穆齐尔(1880-1942)](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%A9%86%E9%BD%90%E5%B0%94)是一名奥地利小说家，散文家，剧作家与工程师。
+
+## Arnold Zweig
+
+[阿诺尔德·茨威格(1887-1968)](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%AF%BA%E5%B0%94%E5%BE%B7%C2%B7%E8%8C%A8%E5%A8%81%E6%A0%BC)是德国犹太人小说家。
+
+## Stefan Zweig
+
+[斯蒂芬·茨威格(1881-1942)](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%E8%8C%A8%E5%A8%81%E6%A0%BC)，奥地利犹太裔作家，也著有多篇名人传记。1935年，因纳粹上台流亡南美。
+
+## Elisabeth Förster
+
+[特蕾莎·伊丽莎白·亚历山德拉·福斯特-尼采(1846-1935)](https://en.wikipedia.org/wiki/Elisabeth_F%C3%B6rster-Nietzsche)哲学家弗里德里希·尼采的妹妹，搜集整理了尼采死后的著作。
+
+## Pollius Felix
+
+[波利乌斯·菲利克斯](https://villa-di-pollio.com/pollio-felix/)是1世纪晚期一个富商，出身于普特奥利的一个显赫家族。
+
+## P. Papinius Statius
+
+[普布利乌斯·帕皮尼乌斯·斯塔提乌斯(45-96)](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%A1%94%E6%8F%90%E4%B9%8C%E6%96%AF)是古罗马著名的诗人之一，出生于
+那不勒斯，创作了大量反映古希腊神话的相关史诗。
+
+## Barzini
+
+[路易吉·巴尔齐尼(1908-1984)](https://en.wikipedia.org/wiki/Luigi_Barzini_Jr.)，意大利著名记者、作家，被誉为“哲学家兼语言大师”。著有表现意大利人的个性的[《意大利人》](https://book.douban.com/subject/2439932/)。
+
 # 地名
 
 ## Syrakus
@@ -1906,3 +1955,23 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Dragone
 
 [德拉贡河](https://it.wikipedia.org/wiki/Dragone_(Campania))是坎帕尼亚的一条小河，流经阿马尔菲海岸地区。
+
+## Positano
+
+[波西塔诺](https://zh.wikipedia.org/wiki/%E6%B3%A2%E8%A5%BF%E5%A1%94%E8%AB%BE)是意大利阿马尔菲海岸沿岸的一个小镇。
+
+## Palestrina
+
+[帕莱斯特里纳](https://zh.wikipedia.org/wiki/%E5%B8%95%E8%8E%B1%E6%96%AF%E7%89%B9%E9%87%8C%E7%BA%B3_%28%E7%BD%97%E9%A9%AC%E9%A6%96%E9%83%BD%E5%B9%BF%E5%9F%9F%E5%B8%82%29)毗邻罗马，古代起源可能与尤利西斯有关。
+
+## Via Torre Argentina
+
+[银塔广场(Largo di Torre Argentina)](https://zh.wikipedia.org/wiki/%E9%8A%80%E5%A1%94%E5%BB%A3%E5%A0%B4)旁边的一条大街。
+
+## Villa Rubinacci
+
+尼采居住的鲁比纳奇别墅如今已变成一家[披萨店](https://www.yelp.com/biz/villa-rubinacci-sorrento)。
+
+## Pozzuoli
+
+[波佐利](https://zh.wikipedia.org/wiki/%E6%B3%A2%E4%BD%90%E5%88%A9)位于[坎皮佛莱格瑞半岛](https://zh.wikipedia.org/wiki/%E5%9D%8E%E7%9A%AE%E4%BD%9B%E8%8E%B1%E6%A0%BC%E7%91%9E)，有非常多的观光景点。
