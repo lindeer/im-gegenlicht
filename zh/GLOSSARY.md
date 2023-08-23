@@ -1133,6 +1133,14 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [圣劳伦斯](https://zh.wikipedia.org/zh-cn/%E7%BE%85%E9%A6%AC%E7%9A%84%E8%81%96%E8%80%81%E6%A5%9E%E4%BD%90)是早期罗马教皇[西克斯图斯二世](https://zh.wikipedia.org/zh-cn/%E6%95%99%E5%AE%97%E8%A5%BF%E6%96%AF%E7%AC%83%E4%BA%8C%E4%B8%96)在位期间的七位执事之一，负责管理教会的财产，并用以周济穷人。258年，圣劳伦斯在[罗马皇帝瓦勒良](https://zh.wikipedia.org/zh-cn/%E7%93%A6%E5%8B%92%E8%89%AF)针对基督徒的迫害中殉道，他被放置在烤架上熏烤致死。
 
+## Maillol
+
+[阿里斯蒂德·马约尔(1861-1944)](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%96%AF%E8%92%82%E5%BE%B7%C2%B7%E9%A9%AC%E7%BA%A6%E5%B0%94)是法国雕塑家和画家。
+
+## Marek
+
+[马雷克·斯瓦克(1892-1958)](https://en.wikipedia.org/wiki/Marek_Szwarc)是一位生于波兰的画家和雕塑家。
+
 ## Reinhard
 
 [弗朗茨·福尔克马尔·莱因哈德(1753-1812)](https://en.wikipedia.org/wiki/Franz_Volkmar_Reinhard)是德国作家、翻译家和外交家，也是歌德亲密的朋友。
@@ -1140,6 +1148,10 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Heilige Lucia
 
 [圣露西亚(283-304)](https://zh.wikipedia.org/wiki/%E8%81%96%E9%9C%B2%E8%A5%BF)也叫锡拉库萨的圣路济亚，是一位年轻富有的基督徒殉道者。
+
+## Niebuhr
+
+[卡斯滕·尼布尔(1733-1815)](https://en.wikipedia.org/wiki/Carsten_Niebuhr)是18世纪德国数学家、制图家和探险家。
 
 ## Tommaso Campanella
 
@@ -1151,8 +1163,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 ## Brecht
 
-[贝托尔特·布莱希特(1898-1956)](https://zh.wikipedia.org/wiki/%E8%B4%9D%E6%89%98%E5%B0%94%E7%89%B9%C2%B7%E5%B8%83%E8%8E%B1%E5%B8%8C%E7%89%B9)是德国著
-名戏剧家、诗人，出生于民主德国。
+[贝托尔特·布莱希特(1898-1956)](https://zh.wikipedia.org/wiki/%E8%B4%9D%E6%89%98%E5%B0%94%E7%89%B9%C2%B7%E5%B8%83%E8%8E%B1%E5%B8%8C%E7%89%B9)是德国著名戏剧家、诗人，出生于民主德国。
 
 ## Gnaius Fulvius Flaccus
 
@@ -1819,6 +1830,18 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [里亚切](https://zh.wikipedia.org/wiki/%E9%87%8C%E4%BA%9A%E5%88%87)位于雷焦卡拉布里亚东北约80公里处。
 
+## Lokris
+
+[洛克里斯](https://en.wikipedia.org/wiki/Locris)是古希腊的一个地区，洛克人的故乡，由三个区域组成。
+
+## Kroton
+
+克罗顿即如今的[克罗托内](https://zh.wikipedia.org/wiki/%E5%85%8B%E7%BE%85%E6%89%98%E5%85%A7)。大约公元前710年，亚该亚人创建了这座城市，初名克罗顿，中世纪起改名为克罗托内。
+
+## Sybaris
+
+[锡巴里斯](https://zh.wikipedia.org/wiki/%E9%94%A1%E5%B7%B4%E9%87%8C%E6%96%AF)是古希腊在意大利南部大希腊地区的一座重要港口，以其享乐主义而闻名。
+
 ## Catanzaro
 
 [卡坦扎罗](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%9D%A6%E6%89%8E%E7%BD%97)。
@@ -1835,10 +1858,6 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [洛克里](https://zh.wikipedia.org/wiki/%E6%B4%9B%E5%85%8B%E9%87%8C)是意大利南部卡拉布里亚省的一个城镇。名字来源于古希腊地区[洛克里斯](https://en.wikipedia.org/wiki/Locris)，是爱奥尼亚海岸及其省内重要的行政和文化中心。
 
-## Kroton
-
-克罗顿即如今的[克罗托内](https://zh.wikipedia.org/wiki/%E5%85%8B%E7%BE%85%E6%89%98%E5%85%A7)。大约公元前710年，亚该亚人创建了这座城市，初名克罗顿，中世纪起改名为克罗托内。
-
 ## Stilo
 
 [斯蒂洛](https://zh.wikipedia.org/wiki/%E6%96%AF%E8%92%82%E6%B4%9B)的起源与叙拉古的狄奥尼修斯二世对古希腊殖民地卡洛尼亚的毁灭有关，随后坎帕尼亚人（罗马人的盟友）于公元前277年又毁灭了斯蒂洛。
@@ -1854,10 +1873,6 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Aspromonte
 
 [阿斯普罗蒙特山](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%96%AF%E6%99%AE%E7%BE%85%E8%92%99%E7%89%B9%E5%B1%B1)位于墨西拿海峡附近，海拔高度1,955米。
-
-## Sybaris
-
-[锡巴里斯](https://zh.wikipedia.org/wiki/%E9%94%A1%E5%B7%B4%E9%87%8C%E6%96%AF)是古希腊在意大利南部大希腊地区的一座重要港口，以其享乐主义而闻名。
 
 ## Thurioi
 
