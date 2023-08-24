@@ -1197,7 +1197,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [阿特纳奥斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%89%B9%E7%B4%8D%E5%A5%A7%E6%96%AF)，是活跃于1至2世纪罗马帝国时代的希腊修辞学家和语法学家，生活埃及的瑙克拉提斯，生平不详，用希腊文写作，留下《智者之宴》一书，该书以对话体写成，为后世保留了大量珍贵的风俗和文学资料。
 
-## Herodotus
+## Herodot
 
 [希罗多德(约前484-前425)](https://zh.wikipedia.org/wiki/%E5%B8%8C%E7%BE%85%E5%A4%9A%E5%BE%B7)是古希腊作家，他记录了旅行中的所闻所见，以及波斯阿契美尼德王朝的历史，著成《历史》一书。
 
@@ -1353,8 +1353,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 ## P. Papinius Statius
 
-[普布利乌斯·帕皮尼乌斯·斯塔提乌斯(45-96)](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%A1%94%E6%8F%90%E4%B9%8C%E6%96%AF)是古罗马著名的诗人之一，出生于
-那不勒斯，创作了大量反映古希腊神话的相关史诗。
+[普布利乌斯·帕皮尼乌斯·斯塔提乌斯(45-96)](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%A1%94%E6%8F%90%E4%B9%8C%E6%96%AF)是古罗马著名的诗人之一，出生于那不勒斯，创作了大量反映古希腊神话的相关史诗。
 
 ## Barzini
 
