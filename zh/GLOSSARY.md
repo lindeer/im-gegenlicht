@@ -591,6 +591,50 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [《森林》](https://en.wikipedia.org/wiki/Silvae)是普布利乌斯·帕皮尼乌斯·斯塔提乌斯创作的六音步、十音节和抒情诗的拉丁诗集。诗歌的主题多种多样，为学者们提供了有关图密善的罗马和斯塔提乌斯生活的丰富信息。
 
+## Meßdiener
+
+[辅祭](https://zh.wikipedia.org/wiki/%E8%BC%94%E7%A5%AD)，即Ministrant，又称圣坛侍从、圣坛司事、司事，在弥撒、圣礼、圣餐、早祷、晚祷等崇拜礼仪中，协助主礼的司铎、司祭、主教或牧师举行圣祭，帮助其他信友投入礼仪中。
+
+## Feminielli
+
+[费米尼里人](https://en.wikipedia.org/wiki/Femminiello)也拼作Femminielli或femmenielli，是那不勒斯传统文化中体现第三性别角色的人群。这个词没有贬义，也不带有污名；相反，传统上认为他们会带来好运。
+
+## Lernäische Hydra
+
+[勒拿九头蛇](https://zh.wikipedia.org/wiki/%E5%8B%92%E6%8B%BF%E4%B9%9D%E5%A4%B4%E8%9B%87)又称海卓拉、海德拉，是古希腊神话里一种有九个头的大蛇，存在于印欧地区的许多文化当中。因传说中其所栖身的沼泽位在勒拿湖附近而得名。
+
+## Penelope
+
+[珀涅罗珀](https://zh.wikipedia.org/wiki/%E4%BD%A9%E6%B6%85%E6%B4%9B%E4%BD%A9)是古希腊神话女性人物之一，英雄奥德修斯的妻子。
+
+## Kalypso
+
+[卡吕普索](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%90%95%E6%99%AE%E7%B4%A2)是希腊神话中的大海女神，[阿特拉斯](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%89%B9%E6%8B%89%E6%96%AF)之女，她曾将奥德修斯困在她的[奥吉吉亚岛](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%90%89%E5%90%89%E4%BA%9E%E5%B2%9B)上七年。
+
+## Madonna del Carmine
+
+“加尔默罗圣母”是圣母玛利亚的[一个头衔](https://en.wikipedia.org/wiki/Our_Lady_of_Mount_Carmel)，以纪念她在[迦密山(Carmine)或加尔默罗山](https://zh.wikipedia.org/wiki/%E8%BF%A6%E5%AF%86%E5%B1%B1)上将“圣母圣衣”赠给[圣西蒙](https://en.wikipedia.org/wiki/Simon_Stock)。[圣母圣衣节](https://www.comune.napoli.it/flex/cm/pages/ServeBLOB.php/L/EN/IDPagina/18765)在7月16日庆祝。
+
+## Vizekönig
+
+[总督](https://zh.wikipedia.org/wiki/%E7%B8%BD%E7%9D%A3_(%E6%AE%96%E6%B0%91%E5%9C%B0%E5%AE%98%E8%81%B7))又译副王是西方国家君主在殖民地或行省代理人的官职或称号。
+
+## Sakristei
+
+[圣器室](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%99%A8%E5%AE%A4)用来存放祭衣、各种圣器以及堂区登记簿。是司铎和辅祭在仪式前后穿脱礼服的地方。
+
+## Erzbischof
+
+[总主教](https://zh.wikipedia.org/wiki/%E7%B8%BD%E4%B8%BB%E6%95%99)是基督教传统教会的一种高阶圣职人员，总教区的正权主教称为总主教；
+
+## Exequien
+
+[教堂葬礼](https://de.wikipedia.org/wiki/Kirchliche_Begr%C3%A4bnisfeier)是罗马天主教基督徒告别和埋葬的礼仪庆祝活动。教堂葬礼是圣礼之一。
+
+## Camorra
+
+[克莫拉](https://zh.wikipedia.org/wiki/%E5%85%8B%E8%8E%AB%E6%8B%89)是类似黑手党的秘密社团，起源于意大利坎帕尼亚地区和那不勒斯市。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1365,6 +1409,50 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [路易吉·巴尔齐尼(1908-1984)](https://en.wikipedia.org/wiki/Luigi_Barzini_Jr.)，意大利著名记者、作家，被誉为“哲学家兼语言大师”。著有表现意大利人的个性的[《意大利人》](https://book.douban.com/subject/2439932/)。
 
+## Mimmo Jodice
+
+[多梅尼科·“米莫”·约迪切(1934-)](https://en.wikipedia.org/wiki/Mimmo_Jodice)是一位意大利摄影师。曾任那不勒斯美术学院教授。
+
+## Goya
+
+[弗朗西斯科·戈雅(1746-1828)](https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E7%A7%91%C2%B7%E6%88%88%E9%9B%85)是西班牙浪漫主义画派画家。戈雅画风奇异多变，对后世的各种流派都有很大的影响，是一位承前启后的人物。
+
+## heilige Georg
+
+[圣乔治(280?-303)](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%B9%94%E6%B2%BB)为罗马骑兵军官，因试图阻止戴克里先皇帝对基督徒的迫害，于303年被杀。民间故事传说他是屠杀邪恶巨龙的勇士，常以屠龙英雄的形象出现在西方文学、雕塑、绘画等领域。乔治对应的德语名为“吉奥格”，偶尔也叫做“齐格弗里德”。
+
+## Karl von Anjou
+
+[安茹的查理(1227-1285)](https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E4%B8%80%E4%B8%96_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))是那不勒斯和西西里国王，其父为法国国王路易八世，其兄为路易九世。安茹的查理先后打败了斯陶芬王朝的曼弗雷德和康拉丁，彻底结束了德意志在意大利南部的统治。
+
+## Tommaso Aniello
+
+[托马索·阿涅洛(1620-1647)](https://en.wikipedia.org/wiki/Masaniello)是一名意大利渔民，1647年成为那不勒斯王国反抗西班牙哈布斯堡王朝统治的起义领袖。历史记载名也叫马萨涅洛(Masaniello)。
+
+## Don Rodrigo
+
+[罗德里戈·庞塞·德莱昂(1602-1658)](https://en.wikipedia.org/wiki/Rodrigo_Ponce_de_Le%C3%B3n,_4th_Duke_of_Arcos)，第四代阿科斯公爵，瓦伦西亚与那不勒斯总督。
+
+## Fürsten Carafa
+
+[朱塞佩·卡拉法(?-1647)](https://en.wikipedia.org/wiki/House_of_Carafa)，于1647年的那不勒斯起义中被杀。
+
+## Januarius
+
+[圣亚努阿里乌斯](https://zh.wikipedia.org/wiki/%E8%81%96%E9%9B%85%E7%B4%8D%E7%95%A5)是四世纪时的那不勒斯主教，死于305年结束的戴克里先迫害中。是那不勒斯的主保圣人。
+
+## Hackert
+
+[雅各布·菲利普·哈克特(1737-1807)](https://en.wikipedia.org/wiki/Jacob_Philipp_Hackert)是一位勃兰登堡的风景画家。
+
+## Lusieri
+
+[乔瓦尼·巴蒂斯塔·卢西埃里(1755–1821)](https://en.wikipedia.org/wiki/Giovanni_Battista_Lusieri)是一位来自那不勒斯的意大利风景画家。
+
+## Edward Lear
+
+[爱德华·利尔(1812-1888)](https://zh.wikipedia.org/wiki/%E6%84%9B%E5%BE%B7%E8%8F%AF%C2%B7%E5%88%A9%E7%88%BE)是19世纪英国著名的打油诗人、漫画家、风景画家，一生周游于欧洲各国。
+
 # 地名
 
 ## Syrakus
@@ -1825,7 +1913,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 ## Corso Garibaldi
 
-[加里波第大道](https://commons.wikimedia.org/wiki/File:Bruno,_Giuseppe_(1836-1904)_-_Corso_Garibaldi,_Messina_-_Cm_20x25.png)
+[加里波第大道](https://commons.wikimedia.org/wiki/File:Bruno,_Giuseppe_%281836-1904%29_-_Corso_Garibaldi,_Messina_-_Cm_20x25.png)。
 
 ## Reggio
 
@@ -2007,3 +2095,71 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Pozzuoli
 
 [波佐利](https://zh.wikipedia.org/wiki/%E6%B3%A2%E4%BD%90%E5%88%A9)位于[坎皮佛莱格瑞半岛](https://zh.wikipedia.org/wiki/%E5%9D%8E%E7%9A%AE%E4%BD%9B%E8%8E%B1%E6%A0%BC%E7%91%9E)，有非常多的观光景点。
+
+## Castellamare
+
+[斯塔比亚海堡](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%A1%94%E6%AF%94%E4%BA%9E%E6%B5%B7%E5%A0%A1)坐落在那不勒斯湾岸，距那不勒斯约20公里远。
+
+## Torre del Greco
+
+[托雷德尔格雷](https://zh.wikipedia.org/wiki/%E6%89%98%E9%9B%B7-%E5%BE%B7%E7%88%BE%E6%A0%BC%E9%9B%B7%E7%A7%91)科坐落在那不勒斯湾岸，名称意思是“希腊塔”。
+
+## Portici
+
+[波蒂奇](https://zh.wikipedia.org/wiki/%E6%B3%A2%E8%92%82%E5%A5%87)是位于那不勒斯的一个市镇。
+
+## Via Tasso
+
+[塔索街](http://www.naplesldm.com/viaTasso.php)于1886年通车，是意大利统一后在那不勒斯奇亚和沃梅罗地区修建的第一条主干道。
+
+## Spaccanapoli
+
+[斯帕卡那波利街](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%B8%95%E5%8D%A1%E9%82%A3%E6%B3%A2%E5%88%A9%E8%A1%97)是一条笔直穿过意大利那不勒斯古老城区的狭窄主干道，名称意为“那不勒斯划分者”。
+
+## Via Toledo
+
+[托莱多大街](https://zh.wikipedia.org/wiki/%E6%89%98%E8%8E%B1%E5%A4%9A%E8%A1%97)是意大利那不勒斯的一条主干道，由1536年西班牙总督下令修建。
+
+## Piazza del Plebiscito
+
+[平民表决广场](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%B0%91%E8%A1%A8%E5%86%B3%E5%B9%BF%E5%9C%BA)是意大利南部城市那不勒斯最大的城市广场，得名于1860年公民投票。
+
+## San Francesco di Paola
+
+[保罗圣芳济圣殿](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BD%97%E5%9C%A3%E8%8A%B3%E6%B5%8E%E5%9C%A3%E6%AE%BF)是意大利南部城市那不勒斯的一座天主教堂，位于该市最大的广场，平民表决广场西侧。
+
+## Piazza Garibaldi
+
+[加里波第广场](https://www.napolike.com/turismo/place/piazza-garibaldi-napoli/)是那不勒斯市最重要、最繁华的广场之一，这里有[加里波第地铁站](https://zh.wikipedia.org/wiki/%E5%8A%A0%E9%87%8C%E6%B3%A2%E7%AC%AC%E7%AB%99_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))。
+
+## Piazza del Mercato
+
+[集市广场](https://it.wikipedia.org/wiki/Piazza_del_Mercato_%28Napoli%29)位于那不勒斯东端[集市区](https://zh.wikipedia.org/wiki/%E9%9B%86%E5%B8%82%E5%8C%BA_%28%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%29)，离大海很近。自康拉丁后，广场上执行过很多次行刑。
+
+## Santa Maria del Carmine
+
+[圣母圣衣圣殿](https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%AF%8D%E5%9C%A3%E8%A1%A3%E5%9C%A3%E6%AE%BF_%28%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%29)是罗马天主教的一座宗座圣殿，位于意大利那不勒斯的集市广场。
+
+## Palazzo Carafa
+
+[卡拉法宫](https://en.wikipedia.org/wiki/Palazzo_Carafa_della_Spina)位于新耶稣广场和圣多梅尼科马焦雷广场之间。
+
+## Piazza Dante
+
+[但丁广场](https://zh.wikipedia.org/wiki/%E4%BD%86%E4%B8%81%E5%B9%BF%E5%9C%BA_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))是意大利南部城市那不勒斯市中心区的一座广场，毗邻旧城区的阿尔巴门。
+
+## Avellino
+
+[阿韦利诺](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%9F%8B%E5%88%A9%E8%AB%BE)。
+
+## Potenza
+
+[波坦察](https://zh.wikipedia.org/wiki/%E6%B3%A2%E5%9D%A6%E5%AF%9F)坐落在俯看巴森托河河谷的亚平宁山脉中。
+
+## Certosa di San Martino
+
+[圣马蒂诺修道院](https://zh.wikipedia.org/wiki/%E5%9C%A3%E7%8E%9B%E8%92%82%E8%AF%BA%E4%BF%AE%E9%81%93%E9%99%A2)是那不勒斯显著的地标之一。
+
+## Maschio Angioino
+
+[安茹城堡](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A0%A1_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))也叫新堡(Castel Nuovo)，由安茹的查理下令建造。
