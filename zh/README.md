@@ -16,4 +16,6 @@
 
 文中的`Carmelo G.`即第二章中出现的卡尔梅洛·古比奥(Carmelo Gubbio)。
 
-第二章中出现的`M.`即作者在克罗托内遇到的医生朋友西乔·M(Ciccio M.)
+第二章中出现的`M.`即作者在克罗托内遇到的医生朋友西乔·M(Ciccio M.)。
+
+第三章中出现的`J.`即摄影师米莫·约迪切(Mimmo Jodice)，`C.`即萨维里奥·德·科莫(Saverio de Cuomo)，`P.`即帕斯夸莱。

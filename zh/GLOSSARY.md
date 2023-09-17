@@ -635,6 +635,42 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [克莫拉](https://zh.wikipedia.org/wiki/%E5%85%8B%E8%8E%AB%E6%8B%89)是类似黑手党的秘密社团，起源于意大利坎帕尼亚地区和那不勒斯市。
 
+## Juno Farnese
+
+[朱诺·法尔内塞](https://en.wikipedia.org/wiki/Juno_Ludovisi)也称为赫拉·法尔内塞，是公元前5世纪下半叶希腊原件在公元1世纪的罗马大理石复制品，有63厘米高，现藏在那不勒斯国家考古博物馆。朱诺·法尔内塞雕像呈现严肃的风格和不苟言笑的表情。
+
+## Sammlung Ludovisi
+
+[朱诺·卢多维西](https://en.wikipedia.org/wiki/Juno_Ludovisi)也称为赫拉·卢多维西，是公元1世纪的巨型罗马大理石头像，源自理想化和年轻的安东尼娅·米诺的古代石器雕像。
+
+## Eliza Doolittle
+
+伊莱莎·杜立德是萧伯纳的戏剧[《卖花女》](https://zh.wikipedia.org/wiki/%E8%B3%A3%E8%8A%B1%E5%A5%B3_(%E6%88%B2%E5%8A%87))中的女主角。
+
+## Candia
+
+[坎迪亚家族](https://en.wikipedia.org/wiki/House_of_Candia)是萨沃伊家族的分支。
+
+## Bassi
+
+[巴斯房](https://it.wikipedia.org/wiki/Basso_(Napoli))是一种一楼有一两个房间的小房子，可直接通往街道。
+
+## Friedenskaiser
+
+[和平皇帝](https://de.wikipedia.org/wiki/Friedenskaiser)是一种称号，类似弥赛亚的救世主统治者，是末世情结的一种体现。
+
+## Proskription
+
+这个术语指代[“判处死刑或放逐的法令”](https://en.wikipedia.org/wiki/Proscription)，起源于古罗马。
+
+## Anchises
+
+[安喀塞斯](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%96%80%E5%A1%9E%E6%96%AF)在希腊神话中是一位特洛伊王室旁支成员，一次在伊得山牧羊时，被女神阿佛洛狄忒看到，阿佛洛狄忒迷恋他的美貌，与他生下埃涅阿斯。
+
+## Patroklos
+
+[帕特罗克洛斯](https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%E7%BE%85%E5%85%8B%E6%B4%9B%E6%96%AF)取意“父亲的荣耀”。在希腊神话中，是墨诺提俄斯之子，阿基里斯的好友。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1453,6 +1489,46 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [爱德华·利尔(1812-1888)](https://zh.wikipedia.org/wiki/%E6%84%9B%E5%BE%B7%E8%8F%AF%C2%B7%E5%88%A9%E7%88%BE)是19世纪英国著名的打油诗人、漫画家、风景画家，一生周游于欧洲各国。
 
+## William Hamilton
+
+[威廉·汉密尔顿爵士(1730-1803)](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%BB%89%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF_(%E5%A4%96%E4%BA%A4%E5%AE%98))是一位英国外交官、考古学家、收藏家和火山学家，著有四卷本的《伊特鲁里亚、希腊和罗马古物藏品目录》。
+
+## Emma Hart
+
+[埃玛·哈特(1765-1815)](https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E5%A4%AB%E4%BA%BA%E5%9F%83%E7%8E%9B)是一名英国女仆、模特、舞者和演员，是很多富有男人的情妇。
+
+## Verdi
+
+[朱塞佩·威尔第(1813-1901)](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%A1%9E%E4%BD%A9%C2%B7%E5%A8%81%E5%B0%94%E7%AC%AC)是意大利著名作曲家，和理查德·瓦格纳一起被认为是19世纪最有影响力的歌剧创作者。
+
+## John Dryden
+
+[约翰·德莱顿(1631-1700)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BE%B7%E8%8E%B1%E9%A1%BF)是英国著名诗人、文学家、文学评论家、翻译家。是1668年英国桂冠诗人。
+
+## Catull
+
+[盖乌斯·瓦列利乌斯·卡图卢斯(约前87年-约前54)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%9B%BE%E5%8D%A2%E6%96%AF)，古罗马诗人，在奥古斯都时期享有盛名。
+
+## Augustus
+
+[奥古斯都(前63-14)](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD)，本名盖乌斯·屋大维·图里努斯，是罗马帝国的开国君主。“奥古斯都”（神圣、至尊的意思）是称呼他的头衔。
+
+## Milton
+
+[约翰·弥尔顿(1608-1674)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%A5%E5%B0%94%E9%A1%BF)，英国诗人，思想家。1667年发表史诗[《失乐园》](https://book.douban.com/subject/30459964/)。
+
+## Dido
+
+[狄多](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A4%9A)据古希腊和古罗马史料记载，曾是古迦太基女王，迦太基城的建立者。最使她出名的当属古罗马诗人维吉尔在《埃涅阿斯纪》中的记载。
+
+## Hermann Broch
+
+[赫尔曼·布洛赫(1886-1951)](https://zh.wikipedia.org/wiki/%E8%B5%AB%E5%B0%94%E6%9B%BC%C2%B7%E5%B8%83%E6%B4%9B%E8%B5%AB)是奥地利作家，将长年钻研的群体心理学和政治理论应用于文学创作。
+
+## Properz
+
+[普罗佩提乌斯(前50年-?)](https://zh.wikipedia.org/zh-cn/%E6%99%AE%E7%BD%97%E4%BD%A9%E6%8F%90%E4%B9%8C%E6%96%AF)是古罗马屋大维统治时期的挽歌诗人。
+
 # 地名
 
 ## Syrakus
@@ -2163,3 +2239,47 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Maschio Angioino
 
 [安茹城堡](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%A0%A1_(%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF))也叫新堡(Castel Nuovo)，由安茹的查理下令建造。
+
+## Castel Sant’Elmo
+
+[圣埃莫堡](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%9F%83%E8%8E%AB%E5%A0%A1)是意大利南部城市那不勒斯的一座要塞。
+
+## Pizzafalcone
+
+[皮扎法尔科内](https://life-globe.com/en/pizzofalcone-naples/)是那不勒斯的一座小丘，位于历史悠久的市中心，靠近海滨长廊和卡斯特德尔奥沃。
+
+## Palazzo Sessa
+
+[塞萨宫](https://it.wikipedia.org/wiki/Palazzo_Sessa)始建于1506年，1746年扩建，波旁王朝时期，是英国驻那不勒斯国王大使馆的官方所在地。
+
+## Forcella
+
+[福尔切拉](https://www.visitnaples.eu/en/neapolitanity/discover-naples/the-forcella-district-the-heart-of-the-historic-center-of-naples)是那不勒斯最具特色的街区之一。有着丰富的历史、文化和传统，自古希腊时代以来一直是一个非常重要的地方。
+
+## Capodimonte
+
+[卡波迪蒙特](https://it.wikipedia.org/wiki/Capodimonte_(Napoli))是那不勒斯的一个丘陵地区。
+
+## Gradoni di Chiaia
+
+[基艾亚步行街](https://eventinapoli.com/cosa-fare/passeggiate/277-i-gradoni-di-chiaia)是一条攀援步行街。
+
+## Piazza Miraglia
+
+[米拉格利亚广场](https://www.google.com/maps/place/Piazza+Luigi+Miraglia,+Napoli+NA,+%E6%84%8F%E5%A4%A7%E5%88%A9/@40.8498219,14.2537234,17z/data=!3m1!4b1!4m6!3m5!1s0x133b0843022c28f5:0x52165884cb941681!8m2!3d40.8498219!4d14.2537234!16s%2Fg%2F119whpjdx?entry=ttu)。
+
+## Mantua
+
+[曼托瓦](https://zh.wikipedia.org/wiki/%E6%9B%BC%E6%89%98%E7%93%A6)位于意大利北部。公元前70年，古罗马诗人维吉尔出生于曼托瓦附近。
+
+## Parthenope
+
+现今那不勒斯部分地区是古希腊时代的一个聚居地[帕特诺普](https://en.wikipedia.org/wiki/History_of_Naples#Parthenope)。
+
+## Perusia
+
+古代的[佩鲁西亚](https://en.wikipedia.org/wiki/Perusia)，即现在的佩鲁贾，最早出现在历史上，是伊特鲁里亚12个邦联城市之一。
+
+## Latium
+
+[拉丁姆](https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E5%A7%86)是意大利中西部的一个古代区域，对应今天的拉齐奥。
