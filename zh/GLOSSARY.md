@@ -671,6 +671,18 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [帕特罗克洛斯](https://zh.wikipedia.org/wiki/%E5%B8%95%E7%89%B9%E7%BE%85%E5%85%8B%E6%B4%9B%E6%96%AF)取意“父亲的荣耀”。在希腊神话中，是墨诺提俄斯之子，阿基里斯的好友。
 
+## Gelegenheitsgedicht
+
+德语中通常作[Gelegenheitsdichtung](https://de.wikipedia.org/wiki/Gelegenheitsdichtung)，应景诗通常从商业角度为特殊场合（场合写作）而写的诗歌。
+
+## Konzil von Nicaea
+
+[第一次尼西亚公会议](https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%BC%E8%A5%BF%E4%BA%9E%E5%85%AC%E6%9C%83%E8%AD%B0)是公元325年，君士坦丁大帝号召在拜占庭尼西亚召开的基督教大公会议。
+
+## Jungfrauengeburt
+
+[圣灵感孕](https://zh.wikipedia.org/wiki/%E5%9C%A3%E7%81%B5%E6%84%9F%E5%AD%95)是天主教及基督教的教义，照《圣经》的记载，是指耶稣的母亲马利亚因为圣灵的能力而怀孕，并不是因为性行为。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1529,6 +1541,46 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [普罗佩提乌斯(前50年-?)](https://zh.wikipedia.org/zh-cn/%E6%99%AE%E7%BD%97%E4%BD%A9%E6%8F%90%E4%B9%8C%E6%96%AF)是古罗马屋大维统治时期的挽歌诗人。
 
+## C. Asinius Pollio
+
+[盖乌斯·阿西尼乌斯·波利奥(前75-4)](https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio)是一位古罗马士兵、政治家、演说家、诗人、剧作家、文学评论家和历史学家，也是维吉尔的赞助人和贺拉斯的朋友。
+
+## C. Asinius Gallus
+
+[盖乌斯·阿西尼乌斯·加卢斯(前38-33)](https://en.wikipedia.org/wiki/Gaius_Asinius_Gallus)曾担任罗马元老。
+
+## M. Vipsanius Agrippa
+
+[玛尔库斯·维普撒尼乌斯·阿格里帕(前63-前12)](https://zh.wikipedia.org/wiki/%E7%91%AA%E7%88%BE%E5%BA%AB%E6%96%AF%C2%B7%E7%B6%AD%E6%99%AE%E6%92%92%E5%B0%BC%E7%83%8F%E6%96%AF%C2%B7%E9%98%BF%E6%A0%BC%E9%87%8C%E5%B8%95)是古罗马政治家与军人，奥古斯都的密友、女婿与大臣。
+
+## Tiberius
+
+[提贝里乌斯·尤利乌斯·凯撒·奥古斯都(前42-37)](https://zh.wikipedia.org/wiki/%E6%8F%90%E8%B4%9D%E9%87%8C%E4%B9%8C%E6%96%AF)，又译提比略，罗马帝国的第二任皇帝。
+
+## Tochter Julia
+
+[大茱莉亚(前39-14)](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%8C%B1%E8%8E%89%E4%BA%9A)是奥古斯都唯一的女儿。配偶先后为马塞卢斯、阿格里帕及提贝里乌斯。
+
+## Mönch Notker
+
+[诺特克尔(840-912)](https://en.wikipedia.org/wiki/Notker_the_Stammerer)也叫口吃者诺特克尔，是圣加尔修道院的本笃会修道士，活跃的作曲家、诗人和学者。
+
+## Don Bosco
+
+[若望·鲍思高(1815-1888)](https://zh.wikipedia.org/wiki/%E8%8B%A5%E6%9C%9B%C2%B7%E9%AE%91%E6%80%9D%E9%AB%98)被天主教会册封为青少年的主保圣人。
+
+## San Gennaro
+
+[圣亚努阿里乌斯(?-305)](https://zh.wikipedia.org/wiki/%E8%81%96%E9%9B%85%E7%B4%8D%E7%95%A5)是那不勒斯主教，是四世纪时的天主教殉道者，同为罗马天主教会和东方正教会尊为圣人。
+
+## heilige Martin
+
+[图尔的圣马丁(316-197)](https://zh.wikipedia.org/wiki/%E9%83%BD%E7%88%BE%E7%9A%84%E7%91%AA%E7%88%BE%E5%AE%9A)是4世纪基督教著名圣人。关于他的一个传说是割袍赠予化身为乞丐的耶稣。
+
+## Husain von Bischangarh
+
+作者朋友信口胡谄的东方魔术师
+
 # 地名
 
 ## Syrakus
@@ -2283,3 +2335,19 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Latium
 
 [拉丁姆](https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E5%A7%86)是意大利中西部的一个古代区域，对应今天的拉齐奥。
+
+## Santa Brigida
+
+[圣布里吉达教堂](https://en.wikipedia.org/wiki/Santa_Brigida,_Naples)是一座位于那不勒斯市中心圣布里吉达大街的教堂。
+
+## San Domenico Maggiore
+
+[圣多梅尼科马焦雷教堂](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9C%A3%E5%A4%9A%E6%98%8E%E6%88%91%E5%A0%82)是意大利南部城市那不勒斯古城区的一座教堂，位于同名的[圣多梅尼科马焦雷广场](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%A4%9A%E6%A2%85%E5%B0%BC%E7%A7%91%E9%A9%AC%E7%84%A6%E9%9B%B7%E5%B9%BF%E5%9C%BA)。
+
+## San Gregorio Armeno
+
+[亚美尼亚圣格里高利教堂](https://zh.wikipedia.org/wiki/%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%E7%9A%84%E5%9C%A3%E9%A2%9D%E6%88%91%E7%95%A5%E5%A0%82)是一座罗马天主教教堂，位于意大利那不勒斯亚美尼亚圣格里高利街（Via San Gregorio Armeno），是那不勒斯最重要的巴洛克建筑之一。
+
+## San Giovanni a Carbonara
+
+[卡巴拉圣若望教堂](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B7%B4%E6%8B%89%E5%9C%A3%E8%8B%A5%E6%9C%9B%E5%A0%82)是一座哥特式风格的罗马天主教教堂，位那不勒斯卡巴拉街（via Carbonara）北端。
