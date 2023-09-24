@@ -683,6 +683,18 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [圣灵感孕](https://zh.wikipedia.org/wiki/%E5%9C%A3%E7%81%B5%E6%84%9F%E5%AD%95)是天主教及基督教的教义，照《圣经》的记载，是指耶稣的母亲马利亚因为圣灵的能力而怀孕，并不是因为性行为。
 
+## Dreigroschenoper
+
+[《三毛钱歌剧》](https://book.douban.com/subject/6784966/)是布莱希特早期戏剧代表作。
+
+## La sfida
+
+[《挑战》](https://movie.douban.com/subject/2296671/)拍摄于1958年，讲述一个叫维托的年轻人在意大利拿波里地区不与当地的黑手党徒合作，并试图打破黑手党对该地区蔬菜水果方面的控制和支配，与他们斗争到底，但赤手空拳的他最后被黑手党残忍杀害。
+
+## Filangieri
+
+[菲兰杰里家族](https://en.wikipedia.org/wiki/Filangieri)是意大利诺曼贵族家族，起源于西西里王国诺切拉附近，但在那不勒斯影响力最大。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1581,6 +1593,50 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 作者朋友信口胡谄的东方魔术师
 
+## Raffaele Cutolo
+
+[拉斐尔·库托洛(1941-2021)]是一名意大利犯罪头目，新卡莫拉组织（NCO）的领导人，该组织是他为改造卡莫拉而建立。库托洛有很多绰号，包括“o Vangelo”（“福音”）、“o Princepe”（“王子”）、“o Profree”（“教授”）和“o Monaco”（“僧侣”）。1963年之后，除了18个月的逃亡之外，库托洛完全生活在戒备森严的监狱或精神病院中。
+
+## Modigliani
+
+[阿梅代奥·莫迪利亚尼(1884-1920)](https://zh.wikipedia.org/zh-cn/%E9%98%BF%E6%A2%85%E4%BB%A3%E5%A5%A5%C2%B7%E8%8E%AB%E8%BF%AA%E5%88%A9%E4%BA%9A%E5%B0%BC)是意大利艺术家、画家和雕塑家，为表现主义画派的代表艺术家之一。
+
+## Pupetta Maresca
+
+[阿桑塔·“普佩塔”·马雷斯卡(1935-2021)](https://en.wikipedia.org/wiki/Pupetta_Maresca)是一名意大利罪犯，在卡莫拉是一位知名人物。20世纪50年代中期，她为丈夫报仇，杀死了凶手，成为了国际报纸的头条新闻。
+
+## Francesco Rosi
+
+[弗朗西斯科·罗西(1922-2015)](https://en.wikipedia.org/wiki/Francesco_Rosi)是一位意大利电影导演。以60年代的政治题材影片著称，[勇于揭露黑幕](https://movie.douban.com/celebrity/1041546/)。
+
+## Lucullus
+
+[卢基乌斯·李锡尼·卢库鲁斯(前110-前57/56)](https://zh.wikipedia.org/wiki/%E5%8D%A2%E5%BA%93%E9%B2%81%E6%96%AF)，罗马共和国末期著名将领、执政官。
+
+## Romulus Augustulus
+
+[罗慕路斯·奥古斯图卢斯(约463-511)](https://zh.wikipedia.org/wiki/%E7%BD%97%E6%85%95%E8%B7%AF%E6%96%AF%C2%B7%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD)是西罗马帝国的最后一位皇帝。
+
+## Odoaker
+
+[奥多亚塞(435-493)](https://zh.wikipedia.org/wiki/%E5%A5%A7%E5%A4%9A%E4%BA%9E%E5%A1%9E)是意大利的第一个日耳曼蛮族国王。
+
+## Syberberg
+
+[汉斯·于尔根·西贝尔贝格(1935-)](https://en.wikipedia.org/wiki/Hans-J%C3%BCrgen_Syberberg)，德国电影导演，拍摄有传记电影[《德国视角下的希特勒》](https://book.douban.com/subject/11878360/)。
+
+## Susan Sontag
+
+[苏珊·桑塔格(1933-2004)](https://zh.wikipedia.org/wiki/%E8%8B%8F%E7%8F%8A%C2%B7%E6%A1%91%E5%A1%94%E6%A0%BC)是一名美国作家、评论家和女权主义者。
+
+## Winifred Wagner
+
+[威妮弗蕾德·马乔里·瓦格纳(1897-1980)](https://en.wikipedia.org/wiki/Winifred_Wagner)是理查德·瓦格纳的儿子齐格弗里德·瓦格纳的英国妻子。她是阿道夫·希特勒的朋友和支持者。
+
+## Evelyn Waugh
+
+[亚瑟·伊夫林·圣约翰·沃(1903-1966)](https://zh.wikipedia.org/zh-cn/%E4%BC%8A%E5%A4%AB%E6%9E%97%C2%B7%E6%B2%83)，笔名伊夫林·沃（Evelyn Waugh），英国小说家、传记及旅行书写作家，也是一名多产的记者和书评人。
+
 # 地名
 
 ## Syrakus
@@ -2351,3 +2407,23 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## San Giovanni a Carbonara
 
 [卡巴拉圣若望教堂](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B7%B4%E6%8B%89%E5%9C%A3%E8%8B%A5%E6%9C%9B%E5%A0%82)是一座哥特式风格的罗马天主教教堂，位那不勒斯卡巴拉街（via Carbonara）北端。
+
+## Ottaviano
+
+[奥塔维亚诺](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%A1%94%E7%BB%B4%E4%BA%9A%E8%AF%BA)是那不勒斯的一个市镇。
+
+## Corso Novara
+
+[诺瓦拉大街](https://www.google.com.hk/maps/place/Corso+Novara,+Napoli+NA,+%E6%84%8F%E5%A4%A7%E5%88%A9/@40.8553815,14.27125,17z/data=!3m1!4b1!4m6!3m5!1s0x133b0816d494891d:0xba89c449ac5c911f!8m2!3d40.8553815!4d14.27125!16s%2Fg%2F1v202_sm?entry=ttu)。
+
+## Castel dell'Ovo
+
+[蛋堡](https://zh.wikipedia.org/wiki/%E8%9B%8B%E5%A0%A1)是意大利那不勒斯的一座城堡，位于一座小岛上。曼弗雷迪败亡后，他的子女被囚禁在此。康拉丁也曾被囚禁于此。
+
+## Via Verdi
+
+[威尔第大街](https://www.dreamstime.com/street-view-via-verdi-city-center-naples-italy-december-image232862405)与市政广场街交叉的一条南北向街道。
+
+## Largo del Castello
+
+[城堡广场](https://it.wikipedia.org/wiki/Piazza_del_Municipio_(Napoli))即现在的市政广场，是欧洲最大的广场之一，靠近新堡和港口。
