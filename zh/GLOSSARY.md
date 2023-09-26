@@ -695,6 +695,22 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [菲兰杰里家族](https://en.wikipedia.org/wiki/Filangieri)是意大利诺曼贵族家族，起源于西西里王国诺切拉附近，但在那不勒斯影响力最大。
 
+## Hesperiden
+
+[赫斯珀里得斯](https://zh.wikipedia.org/wiki/%E8%B5%AB%E6%96%AF%E7%8F%80%E9%87%8C%E5%BE%97%E6%96%AF)是希腊神话中看守极赫拉金苹果圣园的三位仙女姐妹。
+
+## Bauhaus
+
+[包豪斯](https://zh.wikipedia.org/wiki/%E5%8C%85%E8%B1%AA%E6%96%AF)全称为国立包豪斯学校，是一所位于德国魏玛的艺术和建筑学校，讲授并发 展设计教育。
+
+## kimmerische Strand
+
+辛梅里亚海滩是《埃涅阿斯纪》中的一个地方，埃涅阿斯在进入地下世界之前曾在这里停泊他的船。《埃涅阿斯纪》中[辛梅里亚人](https://zh.wikipedia.org/wiki/%E8%BE%9B%E6%A2%85%E9%87%8C%E4%BA%9A%E4%BA%BA)是一个神秘的民族，居住在世界遥远边缘的一个阴暗、雾气缭绕的地区。
+
+## Achaier
+
+[亚该亚人](https://zh.wikipedia.org/wiki/%E4%BA%9A%E8%AF%A5%E4%BA%9A%E4%BA%BA)和爱奥尼亚人、伊奥利亚人和多利安人是古希腊大陆上四个主要的部族，也是荷马史诗《伊利亚特》中对希腊军队的集体称谓。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1637,6 +1653,94 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [亚瑟·伊夫林·圣约翰·沃(1903-1966)](https://zh.wikipedia.org/zh-cn/%E4%BC%8A%E5%A4%AB%E6%9E%97%C2%B7%E6%B2%83)，笔名伊夫林·沃（Evelyn Waugh），英国小说家、传记及旅行书写作家，也是一名多产的记者和书评人。
 
+## Domenico Scarlatti
+
+[多梅尼科·斯卡拉蒂(1685-1757)](https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%A2%85%E5%B0%BC%E7%A7%91%C2%B7%E6%96%AF%E5%8D%A1%E6%8B%89%E8%92%82)，意大利那不勒斯王国作曲家、羽管键琴演奏家。
+
+## Alessandro S.
+
+[亚历山德罗·斯卡拉蒂(1660-1725)](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E7%BD%97%C2%B7%E6%96%AF%E5%8D%A1%E6%8B%89%E8%92%82)，意大利巴洛克风格作曲家，以歌剧和室内[康塔塔](https://zh.wikipedia.org/wiki/%E5%BA%B7%E5%A1%94%E5%A1%94)闻名。
+
+## Hans von Marées
+
+[汉斯·冯·马里斯(1837-1887)](https://en.wikipedia.org/wiki/Hans_von_Mar%C3%A9es)是一位德国画家。 最初专注于肖像画，后来转向神话题材。他在意大利度过了生命的最后几年。
+
+## Manet
+
+[爱德华·马奈(1832-1883)](https://zh.wikipedia.org/wiki/%E6%84%9B%E5%BE%B7%E8%8F%AF%C2%B7%E9%A6%AC%E5%A5%88)，出生在法国巴黎的写实派与印象派绘画之父。
+
+## Meissonier
+
+[让-路易·埃内斯特·梅索尼埃(1815-1891)](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%86%85%E6%96%AF%E7%89%B9%C2%B7%E6%A2%85%E7%B4%A2%E5%B0%BC%E5%9F%83)是法国古典主义画家和雕塑家，以刻画拿破仑及他的军队，包括与其相关的军事主题作品而闻名。他的画作记录了大量战场中围攻和演习的场面，是画家爱德华·德耶塔的老师。
+
+## Mörike
+
+[爱德华·弗里德里希·莫里克(1804-1875)](https://en.wikipedia.org/wiki/Eduard_M%C3%B6rike)是一位德国路德教会牧师，也是一位浪漫主义诗人和中篇小说作家。他的许多诗歌被改编成音乐并成为著名的民歌，而其他诗歌则被作曲家[胡戈·沃尔夫](https://zh.wikipedia.org/wiki/%E8%83%A1%E6%88%88%C2%B7%E6%B2%83%E5%B0%94%E5%A4%AB)和[伊格纳兹·拉赫纳](https://en.wikipedia.org/wiki/Ignaz_Lachner)用于他们的交响乐作品中。
+
+## Keller
+
+[戈特弗里德·凯勒(1819-1890)](https://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E5%87%AF%E5%8B%92)，瑞士诗人、小说家，19世纪德语文学“诗意现实主义”最重要的代表之一。
+
+## Storm
+
+[汉斯·特奥多尔·沃尔德森·施托姆(1817-1888)](https://zh.wikipedia.org/wiki/%E7%8B%84%E5%A5%A7%E5%A4%9A%C2%B7%E6%96%BD%E7%AF%A4%E5%A7%86)是是德国现实主义作家最重要的人物之一。
+
+## Seldwyla
+
+塞尔德维拉是瑞士诗人戈特弗里德·凯勒的中篇小说[《塞尔德维拉的人民》](https://de.wikipedia.org/wiki/Die_Leute_von_Seldwyla)中虚构的小镇。
+
+## Immensee
+
+[《茵梦湖》](https://book.douban.com/subject/26603182/)是特奥多尔·施托姆的小说。
+
+## Feuerbach
+
+[路德维希·安德列斯·费尔巴哈(1804-1872)](https://zh.wikipedia.org/zh-cn/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E5%AE%89%E5%BE%B7%E5%88%97%E6%96%AF%C2%B7%E8%B4%B9%E5%B0%94%E5%B7%B4%E5%93%88)，德国哲学家，人类学家。
+
+## Cézanne
+
+[保罗·塞尚(1839-1906)](https://zh.wikipedia.org/zh-cn/%E4%BF%9D%E7%BD%97%C2%B7%E5%A1%9E%E5%B0%9A)是一位著名法国画家，风格介于印象派到立体主义画派之间。
+
+## Menzel
+
+[阿道夫·冯·门采尔(1815-1905)](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E5%86%AF%C2%B7%E9%97%A8%E9%87%87%E5%B0%94)是德国油画家和版画家。他与[卡斯帕·大卫·弗里德里希](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%96%AF%E5%B8%95%C2%B7%E5%A4%A7%E8%A1%9B%C2%B7%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%B8%8C)一起被认为是19世纪最杰出的两位德国画家，也是他那个时代德国最成功的艺术家之一。
+
+## Franz Marc
+
+[弗兰茨·马尔克(1880-1916)](https://zh.wikipedia.org/wiki/%E5%BC%97%E5%85%B0%E8%8C%A8%C2%B7%E9%A9%AC%E5%B0%94%E5%85%8B)，德国画家，艺术团体“蓝骑士”的成员。他是二十世纪最伟大的画家之一和德国表现主义的创始人之一。
+
+## Karl Hofer
+
+[卡尔·霍费尔(1878－1955)](https://en.wikipedia.org/wiki/Karl_Hofer)是一位德国表现主义画家，曾任柏林美术学院院长。
+
+## Schlemmer
+
+[奥斯卡·施莱默(1888-1943)](https://en.wikipedia.org/wiki/Oskar_Schlemmer)是一位与包豪斯学校有联系的德国画家、雕塑家、设计师和编舞家。
+
+## Touaillon
+
+[克里斯汀·图阿永(1878-1928)](https://de.wikipedia.org/wiki/Christine_Touaillon)，原名克里斯汀·奥斯皮茨，奥地利文学史学家、作家和女权主义者。
+
+## Scheibe
+
+[理查德·沙伊贝(1879-1964)](https://en.wikipedia.org/wiki/Richard_Scheibe)是一位德国艺术家，主要以雕塑家的身份被人们铭记。他同时接受过画家培训，于1906年开始自学雕塑。
+
+## Stadler
+
+[托尼·斯塔德勒(1888-1982)](https://de.wikipedia.org/wiki/Toni_Stadler_junior)是一位德国雕塑家和绘图员。
+
+## Vanvitelli
+
+[路易吉·万维泰利(1700-1773)](https://en.wikipedia.org/wiki/Luigi_Vanvitelli)，是一位18世纪意大利建筑师和画家。他实践了一种古典主义学院派晚期的巴洛克风格。
+
+## Agrippina
+
+[朱莉娅·阿格里皮娜(15-59)](https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%98%BF%E6%A0%BC%E9%87%8C%E7%9A%AE%E5%A8%9C)也叫小阿格里皮娜，
+
+## Nero
+
+[尼禄·克劳狄乌斯·凯撒·奥古斯都·日耳曼尼库斯(37-68)](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A6%84)，公元54年10月13日成为罗马皇帝，他的统治通常与暴政和奢侈联系在一起。
+
 # 地名
 
 ## Syrakus
@@ -2427,3 +2531,27 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Largo del Castello
 
 [城堡广场](https://it.wikipedia.org/wiki/Piazza_del_Municipio_(Napoli))即现在的市政广场，是欧洲最大的广场之一，靠近新堡和港口。
+
+## Phlegräische Felder
+
+[坎皮佛莱格瑞](https://zh.wikipedia.org/wiki/%E5%9D%8E%E7%9A%AE%E4%BD%9B%E8%8E%B1%E6%A0%BC%E7%91%9E)是位于意大利那不勒斯以西的大型火山区。
+
+## Averno
+
+[阿韦尔诺](https://en.wikipedia.org/wiki/Avernus)是意大利库迈附近一座火山口的古称，位于那不勒斯以西的坎帕尼亚地区。传说是冥界的入口。
+
+## Camaldoli
+
+[卡马尔多利](https://en.wikipedia.org/wiki/Camaldoli_hill)是那不勒斯市的一座山丘，海拔457米。
+
+## Solfatara
+
+[索尔法塔拉](https://en.wikipedia.org/wiki/Solfatara_(volcano))是那不勒斯附近波佐利的一个浅火山口，坎皮佛莱格瑞火山区的一部分。火山口底部一直有蒸汽和泥浆，自罗马时代就被用于医疗。
+
+## Averner See
+
+[阿韦尔诺湖](https://en.wikipedia.org/wiki/Lake_Avernus)是一个火山口湖，同样位于坎皮佛莱格瑞火山区。
+
+## Baiae
+
+[巴亚](https://zh.wikipedia.org/wiki/%E5%B7%B4%E4%BA%9E_(%E5%9F%8E%E9%8E%AE))是古罗马时期的一座城镇，位于那不勒斯湾的西北沿岸，在古代一直是一个度假胜地。
