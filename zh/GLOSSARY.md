@@ -994,6 +994,22 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [恩培多克勒(前490-前430)](https://zh.wikipedia.org/wiki/%E6%81%A9%E5%9F%B9%E5%A4%9A%E5%85%8B%E5%8B%92)公元前5世纪的古希腊哲学家、自然科学家、政治家、演说家、诗人。
 
+## Hesiod
+
+[赫西俄德](https://zh.wikipedia.org/zh-hans/%E8%B5%AB%E8%A5%BF%E4%BF%84%E5%BE%B7)是古希腊诗人，可能生活在公元前8世纪。
+
+## Jakob Böhme
+
+[雅各·波墨(1575-1624)](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84%C2%B7%E6%B3%A2%E5%A2%A8)，德国哲学家，基督教神秘主义者，路德宗新教神学家，被黑格尔称为“第一个德国哲学家”。
+
+## Stefan George
+
+[斯特凡·格奥尔格(1868-1933)](https://zh.wikipedia.org/wiki/%E6%96%AF%E7%89%B9%E5%87%A1%C2%B7%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC)是德国诗人，翻译家。
+
+## Büchner
+
+[格奥尔格·毕希纳(1813-1837)](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%A5%A5%E5%B0%94%E6%A0%BC%C2%B7%E6%AF%95%E5%B8%8C%E7%BA%B3)是德国作家、革命家。
+
 ## Marquis de Sade
 
 [萨德侯爵(1740-1814)](https://zh.wikipedia.org/wiki/%E8%96%A9%E5%BE%B7%E4%BE%AF%E7%88%B5)法国贵族出身的哲学家、作家和政治人物。
