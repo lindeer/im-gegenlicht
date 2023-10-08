@@ -711,6 +711,30 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [亚该亚人](https://zh.wikipedia.org/wiki/%E4%BA%9A%E8%AF%A5%E4%BA%9A%E4%BA%BA)和爱奥尼亚人、伊奥利亚人和多利安人是古希腊大陆上四个主要的部族，也是荷马史诗《伊利亚特》中对希腊军队的集体称谓。
 
+## Parzen
+
+[帕耳开](https://zh.wikipedia.org/wiki/%E5%B8%95%E8%80%B3%E5%BC%80)即命运三女神的通称。
+
+## Siren
+
+[塞壬](https://zh.wikipedia.org/wiki/%E5%A1%9E%E5%A3%AC)是希腊神话中，用迷人的音乐和歌声引诱水手在岩石海岸上触礁的危险生物。
+
+## Circe
+
+[喀耳刻](https://zh.wikipedia.org/wiki/%E5%96%80%E8%80%B3%E5%88%BB)（又译作瑟茜或瑟西），是希腊神话中住在艾尤岛上的一位令人生畏的女神。《奥德赛》中，在特洛伊战争结束之后，奥德修斯的船员吃下她给的食物后全都变成了猪。
+
+## Eddaferne
+
+[埃达](https://zh.wikipedia.org/wiki/%E5%9F%83%E8%BE%BE)是古冰岛文学的统称，内容多与北欧神话有关。两本埃达分别为[《老埃达》](https://zh.wikipedia.org/wiki/%E8%A9%A9%E9%AB%94%E5%9F%83%E9%81%94)与[《新埃达》](https://zh.wikipedia.org/wiki/%E6%95%A3%E6%96%87%E5%9F%83%E9%81%94)。《老埃达》也叫《诗体埃达》。
+
+## Triumvir
+
+[三头同盟](https://zh.wikipedia.org/wiki/%E4%B8%89%E5%A4%B4%E5%90%8C%E7%9B%9F)指由三个有权之人占主导地位的政治体制，三位都是其中一名“三执政”。
+
+## Skylla-Gruppe
+
+[斯库拉雕塑群](https://en.wikipedia.org/wiki/Sperlonga_sculptures)也叫斯佩尔隆加雕塑群，于1957年在斯佩尔隆加的提贝里乌斯皇帝别墅庭院中发现。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1757,6 +1781,38 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [尼禄·克劳狄乌斯·凯撒·奥古斯都·日耳曼尼库斯(37-68)](https://zh.wikipedia.org/wiki/%E5%B0%BC%E7%A6%84)，公元54年10月13日成为罗马皇帝，他的统治通常与暴政和奢侈联系在一起。
 
+## Joseph Breitbach
+
+[约瑟夫·布赖特巴赫(1903–1980)](https://en.wikipedia.org/wiki/Joseph_Breitbach)是一位法国出生的德语剧作家、小说家和记者。
+
+## Pietro Aretino
+
+[皮埃特罗·阿雷蒂诺(1492-1556)](https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%9F%83%E7%89%B9%E7%BE%85%C2%B7%E9%98%BF%E9%9B%B7%E8%92%82%E8%AB%BE)是文艺复兴时期欧洲意大利作家。
+
+## Marc Anton
+
+[马克·安东尼(前83-前30)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%C2%B7%E5%AE%89%E4%B8%9C%E5%B0%BC)是凯撒最重要的军队指挥官和管理人员之一。凯撒被刺后，他与屋大维和雷必达一起组成了[后三头同盟](https://zh.wikipedia.org/wiki/%E5%90%8E%E4%B8%89%E5%A4%B4%E5%90%8C%E7%9B%9F)。
+
+## Bernard Andreae
+
+[贝尔纳德·安德烈埃(1930-)](https://de.wikipedia.org/wiki/Bernard_Andreae)是一位德国古典考古学家。
+
+## Plinius
+
+[老普林尼(23-79)](https://zh.wikipedia.org/wiki/%E8%80%81%E6%99%AE%E6%9E%97%E5%B0%BC)全名盖乌斯·普林尼·塞孔杜斯，古罗马作家、博物学者、军人、政治家，以《自然史》一书留名后世。
+
+## Suetonius
+
+[苏埃托尼乌斯(69/75—130)](https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%9F%83%E6%89%98%E5%B0%BC%E4%B9%8C%E6%96%AF)是罗马帝国时期历史学家，著有[《罗马十二帝王传》](https://book.douban.com/subject/1039585/)。
+
+## Robert von Ranke-Graves
+
+[罗伯特·冯兰克·格雷夫斯(1895-1985)](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%A0%BC%E9%9B%B7%E5%A4%AB%E6%96%AF)是英国诗人，学者，小说家暨翻译家。专门从事古希腊和罗马作品的研究。著有非常流行的历史小说[《我，克劳迪亚斯》](https://book.douban.com/subject/2267345/)。
+
+## Casanova
+
+[贾科莫·卡萨诺瓦(1725-1798)](https://zh.wikipedia.org/wiki/%E8%B4%BE%E7%A7%91%E8%8E%AB%C2%B7%E5%8D%A1%E8%90%A8%E8%AF%BA%E7%93%A6)是一位极富传奇色彩的意大利冒险家、作家，一生风流倜傥，著有[《卡萨诺瓦回忆录》](https://book.douban.com/subject/30164652/)。
+
 # 地名
 
 ## Syrakus
@@ -2571,3 +2627,63 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Baiae
 
 [巴亚](https://zh.wikipedia.org/wiki/%E5%B7%B4%E4%BA%9E_(%E5%9F%8E%E9%8E%AE))是古罗马时期的一座城镇，位于那不勒斯湾的西北沿岸，在古代一直是一个度假胜地。
+
+## Cumae
+
+[库迈](https://zh.wikipedia.org/wiki/%E5%BA%AB%E9%82%81)位于那不勒斯西北，曾经是古希腊的屯垦区，是古希腊在意大利本土的第一个殖民地。
+
+## Teutoburger Wald
+
+[条顿堡林山](https://zh.wikipedia.org/wiki/%E6%9D%A1%E9%A1%BF%E5%A0%A1%E6%9E%97%E5%B1%B1)又称条顿堡森林，是位于德国北莱茵-威斯特法伦州和下萨克森州的一片低矮、丛林覆盖的山脉。长期以来一直被认为发生罗马人和日耳曼人之间[条顿堡森林战役](https://zh.wikipedia.org/wiki/%E6%9D%A1%E9%A1%BF%E5%A0%A1%E6%A3%AE%E6%9E%97%E6%88%98%E5%BD%B9)的地方，实际为其它地方。
+
+## Hermannsdenkmal
+
+[赫尔曼纪念碑](https://de.wikipedia.org/wiki/Hermannsdenkmal)是一座巨大的雕像，建于1838年至1875年间，由恩斯特·冯·班德尔(Ernst von Bandel)设计。
+
+## Wittenberg
+
+[路德城维滕贝格](https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E5%9F%8E%E7%BB%B4%E6%BB%95%E8%B4%9D%E6%A0%BC)曾是德国最重要的政治、文化历史和艺术中心之一，是德意志宗教改革，也是欧洲宗教改革的起点。
+
+## Mondragone
+
+[蒙德拉戈内](https://zh.wikipedia.org/wiki/%E8%92%99%E5%BE%B7%E6%8B%89%E6%88%88%E5%86%85)是意大利卡塞塔的一个市镇。
+
+## Formia
+
+[福尔米亚](https://zh.wikipedia.org/wiki/%E7%A6%8F%E5%B0%94%E7%B1%B3%E4%BA%9A)是意大利拉蒂纳的一个市镇。
+
+## Forum Romanum
+
+[古罗马广场](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%BE%85%E9%A6%AC%E5%BB%A3%E5%A0%B4)位于罗马帕拉蒂尼山与卡比托利欧山之间，是古罗马时代的城市中心。
+
+## Sperlonga
+
+[斯佩尔隆加](https://zh.wikipedia.org/zh-cn/%E6%96%AF%E4%BD%A9%E5%B0%94%E9%9A%86%E5%8A%A0)是意大利拉蒂纳的一个市镇。
+
+## Rhodisch
+
+[罗得岛](https://zh.wikipedia.org/wiki/%E7%BD%97%E5%BE%97%E5%B2%9B)，又名罗得斯岛，是爱琴海上的一个岛屿，是爱琴地区文明的起源地之一，有相当古老的关于[忒尔喀涅斯](https://zh.wikipedia.org/wiki/%E5%BF%92%E5%B0%94%E5%96%80%E6%B6%85%E6%96%AF)的神话。
+
+## Terracina
+
+[泰拉奇纳](https://zh.wikipedia.org/wiki/%E6%B3%B0%E6%8B%89%E5%A5%87%E7%BA%B3)位于罗马东南76千米（47英里）处。
+
+## Via Appia
+
+[阿庇亚大道](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BA%87%E4%BA%9E%E9%81%93)连接位于今日意大利的罗马与布林迪西，是罗马共和国时期最古老、战略地位最重要的道路之一。
+
+## Capo Circeo
+
+[奇尔切奥海角](https://www.google.com/maps/place/Capo+Circeo/@41.2166661,13.0448502,16z/data=!4m14!1m7!3m6!1s0x13251c4d1dc1bc05:0xfa3d6e33af1dfef4!2sCapo+Circeo!8m2!3d41.2166667!4d13.05!16s%2Fg%2F1tfply9t!3m5!1s0x13251c4d1dc1bc05:0xfa3d6e33af1dfef4!8m2!3d41.2166667!4d13.05!16s%2Fg%2F1tfply9t)位于泰拉奇纳以西。
+
+## Hotels am Capo Circeo
+
+[奇尔切奥海角酒店](https://www.google.com/maps/place/Hotel+Capo+Circeo/@41.2416967,13.1031427,17z/data=!4m20!1m10!3m9!1s0x13251ec992a96b7b:0x7560bdf6204a4746!2sHotel+Capo+Circeo!5m2!4m1!1i2!8m2!3d41.2433586!4d13.1061468!16s%2Fg%2F12vqnrlgq!3m8!1s0x13251ec992a96b7b:0x7560bdf6204a4746!5m2!4m1!1i2!8m2!3d41.2433586!4d13.1061468!16s%2Fg%2F12vqnrlgq)位于海角所在的海滩旁。
+
+## Solothurn
+
+[索洛图恩](https://zh.wikipedia.org/wiki/%E7%B4%A2%E6%B4%9B%E5%9B%BE%E6%81%A9)位于瑞士西北部。
+
+## Pontinia
+
+[蓬蒂尼亚](https://zh.wikipedia.org/wiki/%E8%93%AC%E8%92%82%E5%B0%BC%E4%BA%9A)位于罗马东南70公里。
