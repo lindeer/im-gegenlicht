@@ -735,6 +735,46 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [斯库拉雕塑群](https://en.wikipedia.org/wiki/Sperlonga_sculptures)也叫斯佩尔隆加雕塑群，于1957年在斯佩尔隆加的提贝里乌斯皇帝别墅庭院中发现。
 
+## Caetani
+
+[卡埃塔尼家族](https://en.wikipedia.org/wiki/Caetani)是意大利一个贵族家庭的名称，源自[加埃塔公国](https://en.wikipedia.org/wiki/Duchy_of_Gaeta)。
+
+## Pentamerone
+
+[《五日谈》](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%97%A5%E8%B0%88)字面意思是“五天故事”，比夏尔·佩罗《鹅妈妈的故事》早了近半个世纪，比格林兄弟的童话集早近两世纪，是欧洲第一部由童话构成的文学集。
+
+## Legenda Aurea
+
+[《黄金传说》](https://zh.wikipedia.org/wiki/%E9%BB%83%E9%87%91%E5%82%B3%E8%AA%AA_(%E6%9B%B8))即原名为《圣人传说》，是意大利[雅各·德·佛拉金](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%90%84%C2%B7%E5%BE%B7%C2%B7%E4%BD%9B%E6%8B%89%E9%87%91)所著的基督教圣人传记集。
+
+## Daphne
+
+[达佛涅](https://zh.wikipedia.org/wiki/%E8%BE%BE%E4%BD%9B%E6%B6%85)字面意思为“月桂树”，是希腊神话中的一种精灵。
+
+## Deutsch-Römer
+
+18世纪末和19世纪居住在罗马的德国视觉艺术家和作家圈子，被称为[德意志罗马人](https://de.wikipedia.org/wiki/Deutschr%C3%B6mer)。
+
+## Rigoletto
+
+[《弄臣》](https://zh.wikipedia.org/wiki/%E5%BC%84%E8%87%A3_(%E6%AD%8C%E5%8A%87))是[朱塞佩·威尔第](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%A1%9E%E4%BD%A9%C2%B7%E5%A8%81%E5%B0%94%E7%AC%AC "朱塞佩·威尔第")作曲的著名三幕歌剧，与《[茶花女](https://zh.wikipedia.org/wiki/%E8%8C%B6%E8%8A%B1%E5%A5%B3_(%E6%AD%8C%E5%8A%87) )》《[游唱诗人](https://zh.wikipedia.org/wiki/%E9%81%8A%E5%94%B1%E8%A9%A9%E4%BA%BA_(%E6%AD%8C%E5%8A%87)")》并称为威尔第中期的三大杰作。
+
+## Buddenbrooks
+
+[《布登勃洛克一家》](https://book.douban.com/subject/21267640/)是托马斯·曼的小说，描写吕贝克望族布登勃洛克家族四代人从1835年到1877年间的兴衰史。
+
+## Doktor Faustus
+
+[《浮士德博士》](https://book.douban.com/subject/10473352/)是德国大文豪托马斯·曼晚年最令人揪心和震撼的鸿篇巨制。讲述的是阿德里安·莱韦屈恩为了追求“真正伟大的成功”而与魔鬼交易，最终堕落败坏的直至疯癫的经历。
+
+## Adrian Leverkühn
+
+阿德里安·莱韦屈恩是《浮士德博士》的主人公。
+
+## Jenseits von Gut und Böse
+
+[《善恶的彼岸》](https://book.douban.com/subject/26663535/)是尼采晚期的重要著作，作者力图界定“善”与“恶”这两个相对的词，以图区分道德与非道德。从而确立道德与需要之间的关系，为人类行为构建一个可操作的基础。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1813,6 +1853,90 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [贾科莫·卡萨诺瓦(1725-1798)](https://zh.wikipedia.org/wiki/%E8%B4%BE%E7%A7%91%E8%8E%AB%C2%B7%E5%8D%A1%E8%90%A8%E8%AF%BA%E7%93%A6)是一位极富传奇色彩的意大利冒险家、作家，一生风流倜傥，著有[《卡萨诺瓦回忆录》](https://book.douban.com/subject/30164652/)。
 
+## Bonifaz VIII
+
+[卜尼法斯八世(1235-1303)](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%BE%A9%E5%85%AB%E4%B8%96)本名本笃·卡埃塔尼，1294年12月24日当选教皇。1303年与法兰西国王[腓力四世](https://zh.wikipedia.org/wiki/%E8%85%93%E5%8A%9B%E5%9B%9B%E4%B8%96_(%E6%B3%95%E5%85%B0%E8%A5%BF))发生冲突，被俘死亡。
+
+## Perrault
+
+[夏尔·佩罗(1628-1703)](https://zh.wikipedia.org/wiki/%E5%A4%8F%E5%B0%94%C2%B7%E4%BD%A9%E7%BD%97)是十七世纪法国诗人、作家，以其作品《[鹅妈妈的故事](https://zh.wikipedia.org/wiki/%E9%B9%85%E5%A6%88%E5%A6%88%E7%9A%84%E6%95%85%E4%BA%8B)》而闻名。
+
+## Giambattista Basile
+
+[吉姆巴地斯达·巴西耳(1575-1632)](https://zh.wikipedia.org/wiki/%E5%90%89%E5%A7%86%E5%B7%B4%E5%9C%B0%E6%96%AF%E8%BE%BE%C2%B7%E5%B7%B4%E8%A5%BF%E8%80%B3)是意大利诗人、朝臣及童话搜集者。
+
+## Cesare Borgia
+
+[切萨雷·波吉亚(1475-1507)](https://zh.wikipedia.org/wiki/%E5%88%87%E8%90%A8%E9%9B%B7%C2%B7%E6%B3%A2%E5%90%89%E4%BA%9A)即瓦伦提诺公爵，是意大利文艺复兴时期极富传奇色彩的军官、贵族、政治人物和红衣主教。
+
+## Beatrice Cenci
+
+[贝亚特丽切·倩契(1577-1599)](https://zh.wikipedia.org/wiki/%E8%B2%9D%E4%BA%9E%E7%89%B9%E9%BA%97%E5%88%87%C2%B7%E5%80%A9%E5%A5%91)是一名罗马的年轻贵族女性，其因谋杀虐待自己的父亲而闻名，最后被判斩首。
+
+## Alexander VI
+
+教皇[亚历山大六世(1431-1503)](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%AD%B7%E5%B1%B1%E5%A4%A7%E5%85%AD%E4%B8%96)原名罗德里哥·利安索尔·迪·波吉亚，1492年8月11日当选为教皇。切萨雷·波吉亚是他的儿子。
+
+## Horny
+
+[弗朗茨·霍尔尼(1798-1824)](https://en.wikipedia.org/wiki/Franz_Horny)是浪漫主义时期的一位德国画家。
+
+## Reinhart
+
+[约翰·克里斯蒂安·赖因哈特(1761-1847)](https://en.wikipedia.org/wiki/Johann_Christian_Reinhart)是一位德国画家、绘图员和蚀刻师。作品介于古典主义和浪漫主义之间，以其英雄理想的风景画闻名。
+
+## Schwind
+
+[莫里兹·冯·施温德(1804-1871)](https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E5%85%B9%C2%B7%E5%86%AF%C2%B7%E6%96%BD%E6%B8%A9%E5%BE%B7)，奥地利画家。
+
+## Ludwig Richter
+
+[路德维希·里希特(1803-1884)](https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%C2%B7%E9%87%8C%E5%B8%8C%E7%89%B9)是德国画家和蚀刻版画家。
+
+## Schirmer
+
+[约翰·威廉·席尔默(1807-1863)](https://en.wikipedia.org/wiki/Johann_Wilhelm_Schirmer)是一位德国风景画家，出生于普鲁士。
+
+## Anselm Feuerbach
+
+[安塞尔姆·费尔巴哈(1829-1880)](https://en.wikipedia.org/wiki/Anselm_Feuerbach)是德国19世纪新古典主义画派的主要画家。
+
+## Plinius d.J.
+
+[盖尤斯·普林尼·采西利尤斯·塞孔都斯(61-113)](https://zh.wikipedia.org/wiki/%E5%B0%8F%E6%99%AE%E6%9E%97%E5%B0%BC)也被称为小普林尼，是一位罗马帝国律师、作家和议员。他的很多信件流传了下来， 成为研究当时历史的珍贵资料。
+
+## Livius
+
+[蒂托·李维(前64/前59-17)](https://zh.wikipedia.org/wiki/%E8%92%82%E6%89%98%C2%B7%E6%9D%8E%E7%BB%B4)是古罗马著名的历史学家，著有[《罗马史》](https://book.douban.com/subject/4117506/)。
+
+## Pasolini
+
+[皮耶尔·保罗·帕索利尼(1922-1975)](https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%9F%83%E5%B0%94%C2%B7%E4%BF%9D%E7%BD%97%C2%B7%E5%B8%95%E7%B4%A2%E9%87%8C%E5%B0%BC)，意大利作家、诗人、后新现实主义时代导演，曾参加意大利共产党。1977年在罗马被殴打致死。
+
+## Christoph Heinrich Kniep
+
+[克里斯托夫·海因里希·克尼普(1755-1825)](https://en.wikipedia.org/wiki/Christoph_Heinrich_Kniep)，德国画家。 因陪伴歌德前往那不勒斯、帕埃斯图姆和西西里的意大利之旅而闻名，并在那里创作了几幅绘画。
+
+## Schinkel
+
+[卡尔·弗里德里希·申克尔(1781-1841)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E7%88%BE%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E7%94%B3%E5%85%8B%E7%88%BE)是普鲁士建筑师，都市规划师与画家，被誉为普鲁士古典主义者，是[弗里德里希·基利](https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%9F%BA%E5%88%A9)的学生。
+
+## Manzoni
+
+[亚历山德罗·曼佐尼(1785-1873)](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E8%BE%BE%E7%BD%97%C2%B7%E5%AD%9F%E4%BD%90%E5%B0%BC)是[意大利诗人、小说家](https://book.douban.com/author/4618449/)。长篇历史小说[《约婚夫妇》](https://book.douban.com/subject/26594115/)被公认为意大利文学史上的一座丰碑，为意大利语的统一及意大利文学的革新做出了杰出贡献。
+
+## E.T.A. Hoffmann
+
+[恩斯特·特奥多尔·威廉·霍夫曼(1776-1822)](https://zh.wikipedia.org/wiki/E%C2%B7T%C2%B7A%C2%B7%E9%9C%8D%E5%A4%AB%E6%9B%BC)，是德国浪漫主义作家、法学家、作曲家、音乐评论人。
+
+## Eckermann
+
+[约翰·彼得·爱克曼(1792-1854)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BD%BC%E5%BE%97%C2%B7%E7%88%B1%E5%85%8B%E6%9B%BC)德国诗人和作家，因作品《歌德谈话录》而闻名于世，是歌德晚年生活的见证者。
+
+## Peter de Mendelssohn
+
+[彼得·德·门德尔松(1908-1982)](https://en.wikipedia.org/wiki/Peter_von_Mendelssohn)是一位德国作家和历史学家。纳粹上台后被迫离开德国。与托马斯·曼等人物一起成为流亡团体的重要成员。
+
 # 地名
 
 ## Syrakus
@@ -2687,3 +2811,105 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Pontinia
 
 [蓬蒂尼亚](https://zh.wikipedia.org/wiki/%E8%93%AC%E8%92%82%E5%B0%BC%E4%BA%9A)位于罗马东南70公里。
+
+## Ninfa
+
+中世纪小镇（12-13世纪）宁芙的废墟位于[诺尔巴悬崖脚下](https://en.wikipedia.org/wiki/Norba#Archaeology)，该镇因疟疾而被遗弃。附近也有位于[诺尔马](https://zh.wikipedia.org/wiki/%E8%AF%BA%E5%B0%94%E9%A9%AC)的[宁芙花园](https://zh.wikipedia.org/wiki/%E5%AF%A7%E8%8A%99%E8%8A%B1%E5%9C%92)。
+
+## Sissinghurst
+
+即[西辛赫斯特城堡花园](https://zh.wikipedia.org/wiki/%E8%A5%BF%E8%BE%9B%E8%B5%AB%E6%96%AF%E7%89%B9%E5%9F%8E%E5%A0%A1%E8%8A%B1%E5%9B%AD)。
+
+## Hidcote
+
+即[希德科特山庄花园](https://en.wikipedia.org/wiki/Hidcote_Manor_Garden)，是英国最著名、最具影响力的艺术和手工艺花园之一。
+
+## Norba
+
+[诺尔巴](https://en.wikipedia.org/wiki/Norba)。
+
+## Sermoneta
+
+[塞尔莫内塔](https://zh.wikipedia.org/wiki/%E5%A1%9E%E5%B0%94%E8%8E%AB%E5%86%85%E5%A1%94)。
+
+## Monti Lepini
+
+[莱皮尼山](https://en.wikipedia.org/wiki/Monti_Lepini)是意大利中部拉齐奥地区的山脉，位于拉文纳和罗马两个省之间。
+
+## San Donato
+
+## Montalto
+
+## Castellina
+
+## Sant Angelo
+
+[圣安杰洛](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%AE%89%E6%9D%B0%E6%B4%9B)现在是罗马的第十一区。
+
+## Grottaferrata
+
+[格罗塔费拉塔](https://zh.wikipedia.org/wiki/%E6%A0%BC%E7%BD%97%E5%A1%94%E8%B4%B9%E6%8B%89%E5%A1%94)。
+
+## Albaner Berge
+
+指阿尔巴尼亚人在意大利的[聚居区](https://en.wikipedia.org/wiki/Albanians_in_Italy)。
+
+## Ariccia
+
+[阿里奇亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E9%87%8C%E6%81%B0)也译作阿里恰，位于罗马东南25公里处。
+
+## Kratersee von Nemi
+
+[内米湖](https://zh.wikipedia.org/wiki/%E5%86%85%E7%B1%B3%E6%B9%96)是意大利中部拉齐奥的一个火山口湖。
+
+## Anzio
+
+[安齐奥](https://zh.wikipedia.org/wiki/%E5%AE%89%E6%BF%9F%E5%A5%A7)位于罗马以南33英里，以海艇港湾知名，也是著名观光海钓场、渔港。
+
+## Antium
+
+[安提乌姆](https://en.wikipedia.org/wiki/Antium)是罗马南部[拉丁姆(Latium)](https://zh.wikipedia.org/wiki/%E6%8B%89%E4%B8%81%E5%A7%86)的一个古老的沿海城镇。公元前11世纪初建立，后被罗马人征服。
+
+## Marino
+
+[马里诺](https://zh.wikipedia.org/wiki/%E9%A9%AC%E9%87%8C%E8%AF%BA)是意大利中部的一座城市，位于罗马东南21公里意大利阿尔班山附近。罗马共和国时期，这里是罗马贵族的避暑胜地。
+
+## Tusculum
+
+[塔斯库勒姆](https://zh.wikipedia.org/wiki/%E5%A1%94%E6%96%AF%E5%BA%AB%E5%8B%92%E5%A7%86)是一个古罗马时期的城市遗迹，拥有众多古罗马豪华别墅遗迹。
+
+## Mezzogiorno
+
+[梅佐乔诺](https://zh.wikipedia.org/wiki/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%97%E9%83%A8)是南意大利的专称，这一地区更倾向中央集权式政府，大致包括中世纪的那不勒斯王国和近代的两西西里王国地区。
+
+## Villa des Hadrian
+
+[哈德良别墅](https://zh.wikipedia.org/wiki/%E5%93%88%E5%BE%B7%E8%89%AF%E5%88%AB%E5%A2%85)或哈德良离宫是2世纪时罗马皇帝[哈德良](https://zh.wikipedia.org/wiki/%E5%93%88%E5%BE%B7%E8%89%AF)在蒂沃利建造的度假山庄。
+
+## Akademie von Athen
+
+[雅典学院](https://zh.wikipedia.org/wiki/%E6%9F%8F%E6%8B%89%E5%9B%BE%E5%AD%A6%E9%99%A2)又称柏拉图学院，是古希腊哲学家柏拉图在约前387年创立于于雅典城北方的学校，公元529年，罗马帝国皇帝[查士丁尼一世](https://zh.wikipedia.org/wiki/%E6%9F%A5%E5%A3%AB%E4%B8%81%E5%B0%BC%E4%B8%80%E4%B8%96)下令关闭。不是1859年建造的[雅典科学院](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E7%A7%91%E5%AD%A6%E9%99%A2)。
+
+## Stadt Kanopos
+
+[克诺珀斯](https://zh.wikipedia.org/wiki/%E5%85%8B%E8%AF%BA%E7%8F%80%E6%96%AF)是古埃及城市，位于尼罗河三角洲西岸。
+
+## Tempe-Tal in Thessalien
+
+[坦佩山谷](https://zh.wikipedia.org/wiki/%E5%9D%A6%E4%BD%A9%E8%B0%B7)是希腊[色萨利](https://zh.wikipedia.org/wiki/%E8%89%B2%E8%90%A8%E5%88%A9)地区北部一个峡谷的古名，它位于奥林帕斯山以南。
+
+## Tivoli
+
+[蒂沃利](https://zh.wikipedia.org/wiki/%E8%92%82%E6%B2%83%E5%88%A9)离罗马30公里，哈德良别墅位于蒂沃利。
+
+## Palestrina
+
+[帕莱斯特里纳](https://zh.wikipedia.org/wiki/%E5%B8%95%E8%8E%B1%E6%96%AF%E7%89%B9%E9%87%8C%E7%BA%B3_%28%E7%BD%97%E9%A9%AC%E9%A6%96%E9%83%BD%E5%B9%BF%E5%9F%9F%E5%B8%82%29)位于罗马以东35公里。
+
+## Palazzo Barberini
+
+[巴贝里尼宫](https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%B4%9D%E9%87%8C%E5%B0%BC%E5%AE%AB)是位于罗马的一座宫殿，面对[巴贝里尼广场](https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%B4%9D%E9%87%8C%E5%B0%BC%E5%B9%BF%E5%9C%BA)，是[国立古代艺术美术馆](https://zh.wikipedia.org/wiki/%E5%9C%8B%E7%AB%8B%E5%8F%A4%E4%BB%A3%E8%97%9D%E8%A1%93%E7%BE%8E%E8%A1%93%E9%A4%A8)的一部分。
+
+## Lübeck
+
+[吕贝克](https://zh.wikipedia.org/wiki/%E5%90%95%E8%B4%9D%E5%85%8B)全称汉萨城吕贝克，历史上曾是[汉萨同盟](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%90%A8%E5%90%8C%E7%9B%9F "汉萨同盟")的“首都”。
