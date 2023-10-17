@@ -775,6 +775,38 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [《善恶的彼岸》](https://book.douban.com/subject/26663535/)是尼采晚期的重要著作，作者力图界定“善”与“恶”这两个相对的词，以图区分道德与非道德。从而确立道德与需要之间的关系，为人类行为构建一个可操作的基础。
 
+## Manieristischer
+
+[风格主义](https://zh.wikipedia.org/wiki/%E9%A2%A8%E6%A0%BC%E4%B8%BB%E7%BE%A9)又称矫饰主义，是一种16世纪晚期欧洲出现的艺术风格。风格主义最初描述文艺复兴三杰米开朗基罗、达芬奇和拉斐尔的风格，认为他们超越了希腊古罗马时期的前人在艺术领域的研究。后来风格主义则慢慢带有贬义，指僵化模仿三大家，或是刻意炫耀技能的一种风格。
+
+## Diana von Ephesus
+
+即以弗所的阿耳忒弥斯(Artemis von Ephesos)，戴安娜是阿耳忒弥斯的罗马名称。
+
+## Pomonen
+
+[波摩纳](https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%91%A9%E7%BA%B3)是古罗马宗教与神话中执掌森林的女性神祇之一。
+
+## Satyrn
+
+[萨堤尔](https://zh.wikipedia.org/wiki/%E8%96%A9%E5%A0%A4%E7%88%BE)又译萨提洛斯，即羊男，一般被视为是希腊神话里的[潘](https://zh.wikipedia.org/wiki/%E6%BD%98_(%E5%B8%8C%E8%85%8A%E7%A5%9E%E8%AF%9D))与[狄俄倪索斯](https://zh.wikipedia.org/wiki/%E7%8B%84%E4%BF%84%E5%80%AA%E7%B4%A2%E6%96%AF)的复合精灵。萨堤尔拥有人类的身体，同时亦有部分山羊的特征。
+
+## Sulamith und Maria
+
+[《苏拉米斯与玛丽亚》](https://victorianweb.org/painting/german/pforr/2.html)是弗朗茨·普福尔1811年完成的油画。
+
+## Heilige Familie
+
+[神圣家庭](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%AE%B6)是指由耶稣、其母亲马利亚与其养父若瑟组成的家庭。
+
+## Nazarener
+
+[拿撒勒](https://zh.wikipedia.org/zh-hans/%E6%8B%BF%E6%92%92%E5%8B%92)是耶稣出生的地方，这里讥讽这些人自命不凡。
+
+## Schlächterhunde
+
+字面意思是“屠夫狗”。这是对肉类工业中品质不好的狗的名称，经常被用来暗示这些狗是邪恶和残忍的。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -1937,6 +1969,147 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [彼得·德·门德尔松(1908-1982)](https://en.wikipedia.org/wiki/Peter_von_Mendelssohn)是一位德国作家和历史学家。纳粹上台后被迫离开德国。与托马斯·曼等人物一起成为流亡团体的重要成员。
 
+## Liszt
+
+[李斯特·费伦茨(1811-1886)](https://zh.wikipedia.org/wiki/%E6%9D%8E%E6%96%AF%E7%89%B9%C2%B7%E8%B4%B9%E4%BC%A6%E8%8C%A8)，匈牙利作曲家、音乐评论家、钢琴演奏家，浪漫主义音乐的主要代表人物之一。
+
+## Rudolf Borchardt
+
+[鲁道夫·博尔夏特(1877-1945)](https://en.wikipedia.org/wiki/Rudolf_Borchardt)是一位德国散文家、诗人和文化历史学家。独自一个将但丁的《神曲》翻译成德语。
+
+## Wilhelm Waiblinger
+
+[威廉·魏布林格(1804-1830)](https://en.wikipedia.org/wiki/Wilhelm_Waiblinger)是一位德国浪漫主义诗人，与荷尔德林关系密切。
+
+## Joseph Anton Koch
+
+[约瑟夫·安东·科赫(1768-1839)](https://en.wikipedia.org/wiki/Joseph_Anton_Koch)是一位奥地利新古典主义画家，后来又成为德国浪漫主义运动的画家。
+
+## Schick
+
+[克里斯蒂安·戈特利布·席克(1776-1812)](https://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E5%88%A9%E5%B8%83%C2%B7%E5%B8%AD%E5%85%8B)是一位德国新古典主义画家，其历史画、肖像画以及风景画具有浪漫主义特征。
+
+## Nerly
+
+[弗里德里希·冯·内利(1807-1878)](https://en.wikipedia.org/wiki/Friedrich_von_Nerly)是一位德国浪漫主义风格画家。他的儿子[弗里德里希·保罗·内利](https://en.wikipedia.org/wiki/Friedrich_Paul_Nerly)也是一位画家。
+
+## Rumohr
+
+[卡尔·弗里德里希·冯·鲁莫尔(1785-1843)](https://en.wikipedia.org/wiki/Carl_Friedrich_von_Rumohr)是一位德国艺术史学家、作家、制图员和画家、农业历史学家、烹饪艺术鉴赏家和作家、艺术收藏家和艺术家赞助人。
+
+## Schnorr von Carolsfeld
+
+[朱利叶斯·施诺尔·冯·卡洛斯菲尔德(1794-1872)](https://en.wikipedia.org/wiki/Julius_Schnorr_von_Carolsfeld)是一位德国画家，主要以圣经为题材。
+
+## Rohden
+
+[约翰·马丁·冯·罗登(1778-1868)](https://en.wikipedia.org/wiki/Johann_Martin_von_Rohden)是一位德国画家，职业生涯的大部分时间都活跃在罗马。
+
+## Fohr
+
+[卡尔·菲利普·福尔(1795-1818)](https://en.wikipedia.org/wiki/Karl_Philipp_Fohr)，德国画家，是另一位德国画家[丹尼尔·福尔](https://en.wikipedia.org/wiki/Daniel_Fohr)的弟弟。在罗马，福尔与风景画家约瑟夫·安东·科赫共用一个工作室。
+
+## Catel
+
+[弗朗茨·路德维希·卡特尔(1778-1856)](https://en.wikipedia.org/wiki/Franz_Ludwig_Catel)是一位德国画家。
+
+## Reinhold
+
+[约翰·海因里希·卡尔·赖因霍尔德(1788-1825)](https://en.wikipedia.org/wiki/Heinrich_Reinhold)是一位德国画家和雕刻家。
+
+## Rolf Dieter Brinkmann
+
+[罗尔夫·迪特尔·布林克曼(1940-1975)](https://en.wikipedia.org/wiki/Rolf_Dieter_Brinkmann)是一位德国作家，创作诗歌、短篇小说、小说、散文、信件和日记。
+
+## Robert Jungk
+
+[罗伯特·容克(1913-1994)](https://zh.wikipedia.org/wiki/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E5%AE%B9%E5%85%8B)，奥地利作家、记者，主要创作与核武器相关的文学作品。
+
+## Hans Mayer
+
+[汉斯·迈尔(1907-2001)](https://en.wikipedia.org/wiki/Hans_Mayer)，笔名马丁·塞勒，是一位德国文学学者。同时也是一位法学家和社会研究员，也是国际公认的批评家、作家和音乐学家。
+
+## Dürer
+
+[丢勒(1471-1528)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%B8%83%E9%9B%B7%E5%B8%8C%E7%89%B9%C2%B7%E4%B8%A2%E5%8B%92)是德国文艺复兴时期著名的油画家、版画家、雕塑家及艺术理论家。
+
+## Pforr
+
+[弗朗茨·普福尔(1788-1812)](https://en.wikipedia.org/wiki/Franz_Pforr)是德国拿撒勒运动的画家。
+
+## Overbeck
+
+[约翰·弗里德里希·奥弗贝克(1789-1869)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E5%BC%97%E9%87%8C%E5%BE%B7%E5%88%A9%E5%B8%8C%C2%B7%E5%A5%A5%E9%9F%A6%E5%B0%94%E8%B4%9D%E5%85%8B)是德国画家，浪漫主义的“拿撒勒运动”成员。
+
+## Cornelius
+
+[彼得·冯·柯内留斯(1784-1867)](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E9%A6%AE%C2%B7%E6%9F%AF%E5%85%A7%E7%95%99%E6%96%AF)是德国著名画家。
+
+## Rückert
+
+[弗里德里希·吕克特(1788-1866)](https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%90%95%E5%85%8B%E7%89%B9)是德国诗人、翻译家和东方语言学教授。
+
+## Ludwig I. von Bayern
+
+[路德维希一世(1786-1868)](https://zh.wikipedia.org/wiki/%E8%B7%AF%E5%BE%B7%E7%BB%B4%E5%B8%8C%E4%B8%80%E4%B8%96_(%E5%B7%B4%E4%BC%90%E5%88%A9%E4%BA%9A))，巴伐利亚国王，1825年至1848年在位。路德维希一世是古希腊和意大利文艺复兴时期的崇拜者，是许多新古典主义建筑的收藏家和赞助家。
+
+## Jean Auguste Dominique Ingres
+
+[让·奥古斯特·多米尼克·安格尔(1780-1867)](https://zh.wikipedia.org/wiki/%E8%AE%A9%C2%B7%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E5%A4%9A%E7%B1%B3%E5%B0%BC%E5%85%8B%C2%B7%E5%AE%89%E6%A0%BC%E5%B0%94)是法国画家，新古典主义画派的最后一位代表人物。安格尔的画风线条工整，轮廓确切，色彩明晰，构图严谨，对后来许多画家如德加、雷诺阿、甚至毕加索都有影响。
+
+## Sisley
+
+[阿尔弗雷德·西斯莱(1839-1899)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E8%A5%BF%E6%96%AF%E8%8E%B1)，法国印象派创始人之一，
+
+## Monet
+
+[奥斯卡-克劳德·莫奈(1840-1926)](https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8B%9E%E5%BE%B7%C2%B7%E8%8E%AB%E5%A5%88)，法国画家，印象派代表人物及创始人之一。
+
+## Böcklin
+
+[阿诺德·勃克林(1827-1901)](https://zh.wikipedia.org/wiki/%E9%98%BF%E8%AF%BA%E5%BE%B7%C2%B7%E5%8B%83%E5%85%8B%E6%9E%97)是一名瑞士象征主义画家。
+
+## Runge
+
+[菲利普·奥托·龙格(1777-1810)](https://zh.wikipedia.org/wiki/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E5%A5%A5%E6%89%98%C2%B7%E9%BE%99%E6%A0%BC)，德国浪漫主义画家、绘图员。
+
+## Caspar David Friedrich
+
+[卡斯帕·大卫·弗里德里希(1774-1840)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%96%AF%E5%B8%95%C2%B7%E5%A4%A7%E8%A1%9B%C2%B7%E5%BC%97%E9%9B%B7%E5%BE%B7%E9%87%8C%E5%B8%8C)，19世纪德国浪漫主义风景画家。
+
+## Blechen
+
+[卡尔·爱德华·费迪南德·布勒兴(1798-1840)](https://en.wikipedia.org/wiki/Carl_Blechen)是一位德国风景画家，柏林艺术学院教授。
+
+## Beckmann
+
+[马克斯·贝克曼(1884-1950)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E8%B4%9D%E5%85%8B%E6%9B%BC)，德国画家、雕塑家、作家。
+
+
+## Adam Elsheimer
+
+[亚当·埃尔斯海默(1578-1610)](https://en.wikipedia.org/wiki/Adam_Elsheimer)是一位在罗马工作的德国艺术家，去世时年仅三十二岁，但在17世纪初巴洛克绘画领域非常有影响力。
+
+## William Cobbett
+
+[威廉·科贝特(1763-1835)](https://en.wikipedia.org/wiki/William_Cobbett)是一位英国激进小册子作者、记者、政治家和农民，出生于萨里郡法纳姆。
+
+## Via Appia Nuova
+
+[阿皮亚诺瓦大街](https://it.wikipedia.org/wiki/Via_Appia_Nuova)是罗马的一条街道；连接在市政府边界和七号国道阿庇亚大道。
+
+## Hans Werner Henze
+
+[汉斯·维尔纳·亨策(1926-2012)](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%96%AF%C2%B7%E7%BB%B4%E5%B0%94%E7%BA%B3%C2%B7%E4%BA%A8%E7%AD%96)，德国作曲家，马克思主义者。亨策在60年代加入意大利共产党。
+
+## Ernst Jünger
+
+[恩斯特·荣格(1895-1998)](https://zh.wikipedia.org/wiki/%E6%81%A9%E6%96%AF%E7%89%B9%C2%B7%E8%8D%A3%E6%A0%BC)，[德国思想家](https://book.douban.com/author/4612718/)、小说家、昆虫学家，军官，以其一战回忆录[《钢铁风暴》](https://book.douban.com/subject/35228046/)而广为人知。
+
+## Magritte
+
+[勒内·弗朗索瓦·吉兰·马格里特(1898-1967)](https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%85%A7%C2%B7%E9%A6%AC%E6%A0%BC%E5%88%A9%E7%89%B9)是比利时超现实主义画家。
+
 # 地名
 
 ## Syrakus
@@ -2913,3 +3086,67 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Lübeck
 
 [吕贝克](https://zh.wikipedia.org/wiki/%E5%90%95%E8%B4%9D%E5%85%8B)全称汉萨城吕贝克，历史上曾是[汉萨同盟](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%90%A8%E5%90%8C%E7%9B%9F "汉萨同盟")的“首都”。
+
+## Villa d'Este
+
+[埃斯特别墅](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%96%AF%E7%89%B9%E5%88%AB%E5%A2%85)也称千泉宫，是位于意大利蒂沃利的一处16世纪的别墅。埃斯特别墅以其梯田式山坡上的意大利文艺复兴花园闻名，尤其是其中众多的喷泉。埃斯特别墅现在是意大利国家博物馆，被列为联合国教科文组织世界遗产。
+
+## Römische Campagna
+
+[罗马田野](https://en.wikipedia.org/wiki/Roman_Campagna)是罗马周围的低洼地区，面积约2,100平方公里。
+
+## Olevano
+
+[奥莱瓦诺](https://zh.wikipedia.org/wiki/%E5%A5%A5%E8%8E%B1%E7%93%A6%E8%AF%BA%E7%BD%97%E9%A9%AC%E8%AF%BA)位于罗马以东45公里，从19世纪初期开始，一直持续到现在，来自几乎所有欧洲国家以及美国的一千多名艺术家访问了奥莱瓦诺，描绘了这里的风景和城镇。
+
+## Serpentara
+
+[塞彭塔拉](https://it.wikipedia.org/wiki/Serpentara)已经成为罗马市的一个区。
+
+## Bellegra
+
+[贝莱格拉](https://zh.wikipedia.org/wiki/%E8%B4%9D%E8%8E%B1%E6%A0%BC%E6%8B%89)是罗马的一个市镇。
+
+## Casa Baldi
+
+[卡萨巴尔迪](https://architectuul.com/architecture/baldi-house/media/57a3449f-c44c-48f6-a502-3d896d7b5e1b)。
+
+## Sibyllentempel
+
+[西比拉神庙](https://www.visittivoli.eu/archeologia/tempio-della-sibilla&lang=EN)是一座古罗马建筑，建于公元前二世纪左右，呈典型的长方形形状，与[维斯塔神庙](https://zh.wikipedia.org/wiki/%E7%81%B6%E7%A5%9E%E5%BB%9F_(%E8%B6%A3%E4%BC%8F%E9%87%8C))相邻，位于蒂沃利最高点。
+
+## Albano
+
+即[阿尔巴诺拉齐亚莱](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%B7%B4%E8%AF%BA%E6%8B%89%E9%BD%90%E4%BA%9A%E8%8E%B1)，是意大利中部地区[阿尔班山(Alban)](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E7%8F%AD%E5%B1%B1)上的一个市镇。
+
+## Vittoria Caldoni
+
+[维多利亚·坎迪达·罗莎·卡尔多尼(1805-1872/1890)](https://en.wikipedia.org/wiki/Vittoria_Caldoni)是十九世纪初居住在罗马的德国艺术家中最受欢迎的模特。
+
+## S. Isidoro
+
+[圣伊西多罗修道院](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%BE%9D%E8%A5%BF%E5%A4%9A%E7%A6%84%E5%A0%82_(%E7%BD%97%E9%A9%AC))是一座方济各会修道院和公学，位于罗马卢多维西区的[𬞟丘](https://zh.wikipedia.org/wiki/%E8%98%8B%E4%B8%98 "𬞟丘")。
+
+## Via Condotti
+
+[孔多蒂街](https://zh.wikipedia.org/wiki/%E5%AD%94%E5%A4%9A%E8%92%82%E8%A1%97)是意大利罗马市的一条街道，靠近[西班牙阶梯](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%B6%E6%A2%AF)。
+
+## Caffè Greco
+
+[古希腊咖啡馆](https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%B8%8C%E8%87%98%E5%92%96%E5%95%A1%E9%A4%A8)是罗马历史最久的一家咖啡馆，自1760年开设在孔多蒂街84号，吸引了无数名人。
+
+## Subiaco
+
+[苏比亚科](https://zh.wikipedia.org/wiki/%E8%8B%8F%E6%AF%94%E4%BA%9A%E7%A7%91)位于意大利中部，距蒂沃利40公里，位于阿尼内河沿岸，是一个旅游和宗教胜地。
+
+## Anio
+
+[阿涅内河](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%B6%85%E5%86%85%E6%B2%B3)发源于拉齐奥地区的特雷维山脉，向西流经苏比亚科、维科瓦罗和蒂沃利，最终注入台伯河。
+
+## Campo Vaccino
+
+[维奇诺原野](https://it.wikipedia.org/wiki/Campo_Vaccino)是16-18世纪罗马古罗马广场郊区的名称。英国艺术家[约瑟夫·马洛德·威廉·特纳](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E9%A9%AC%E6%B4%9B%E5%BE%B7%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E9%80%8F%E7%BA%B3)根据此地于1839年完成的一幅风景画[现代罗马-维奇诺原野](https://en.wikipedia.org/wiki/Modern_Rome_%E2%80%93_Campo_Vaccino)。
+
+## Castelli Romani
+
+[罗马城堡](https://en.wikipedia.org/wiki/Roman_Castles)是罗马市的一组建筑，位于罗马市东南的阿尔班山脚下，与旧拉丁姆相对应的地区。
