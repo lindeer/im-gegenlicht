@@ -807,6 +807,66 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 字面意思是“屠夫狗”。这是对肉类工业中品质不好的狗的名称，经常被用来暗示这些狗是邪恶和残忍的。
 
+## Tedeum
+
+[《赞美颂》](https://zh.wikipedia.org/wiki/%E8%AE%9A%E7%BE%8E%E9%A0%8C)是4世纪时写就的一首拉丁文基督教赞美诗，是基督教最常用的赞美诗之一。
+
+## Aurelianischen Mauer
+
+[奥勒利安城墙](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8B%92%E8%89%AF%E5%9F%8E%E5%A2%99)是皇帝[奥勒利安](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8B%92%E8%89%AF)修建于271年的一道城墙。
+
+## Trajanssäule
+
+[图拉真凯旋柱](https://zh.wikipedia.org/wiki/%E5%9B%BE%E6%8B%89%E7%9C%9F%E6%9F%B1)位于[奎里纳莱山](https://zh.wikipedia.org/wiki/%E5%A5%8E%E9%87%8C%E7%BA%B3%E8%8E%B1%E5%B1%B1)边的[图拉真广场](https://zh.wikipedia.org/wiki/%E5%9B%BE%E6%8B%89%E7%9C%9F%E5%B9%BF%E5%9C%BA "图拉真广场")，由皇帝[图拉真](https://zh.wikipedia.org/wiki/%E5%9C%96%E6%8B%89%E7%9C%9F)兴建于113年。
+
+## Titusbogen
+
+[提图斯凯旋门](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%9B%BE%E6%96%AF%E5%87%AF%E6%97%8B%E9%97%A8)是位于古罗马广场东南圣道上的一座大理石单拱凯旋门，[提图斯](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%9B%BE%E6%96%AF)皇帝去世后不久由[图密善](https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%AF%86%E5%96%84)皇帝建于公元81年。
+
+## Säule des Marc Aurel
+
+[马可·奥勒留圆柱](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%8F%AF%E5%A5%A7%E9%87%8C%E7%95%A5%E5%9C%93%E6%9F%B1)是位于罗马市圆柱广场的多立克柱式圆柱，为纪念皇帝[马可·奥勒留](https://zh.wikipedia.org/wiki/%E9%A6%AC%E7%88%BE%E5%BA%AB%E6%96%AF%C2%B7%E5%A5%A7%E5%88%97%E9%87%8C%E7%83%8F%E6%96%AF)而建造。
+
+## Reiterstandbild des Marc Aurel
+
+[马可·奥勒留骑马像](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%8F%AF%C2%B7%E5%A5%A5%E5%8B%92%E7%95%99%E9%AA%91%E9%A9%AC%E5%83%8F)是一件古罗马青铜人物雕像，原作立于卡比托利欧山，于1982年拆下进行保护，原址立一复制品。
+
+## Minerva
+
+[弥涅耳瓦](https://zh.wikipedia.org/wiki/%E5%BC%A5%E6%B6%85%E8%80%B3%E7%93%A6)是罗马神话中的智慧女神、战神和艺术家与手工艺人的保护神。公元前2世纪以后，罗马人将她对应希腊神话中的雅典娜。弥涅耳瓦、[朱庇特](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%BA%87%E7%89%B9)和[朱诺](https://zh.wikipedia.org/wiki/%E8%8C%B1%E8%AB%BE_(%E7%BE%85%E9%A6%AC%E7%A5%9E%E8%A9%B1))被称为卡比托利欧三巨神。
+
+## Fiat
+
+[菲亚特](https://zh.wikipedia.org/wiki/%E8%8F%B2%E4%BA%9A%E7%89%B9%E6%B1%BD%E8%BD%A6)是意大利著名汽车品牌，也是汽车制造商。
+
+## Italsider
+
+[伊塔尔斯德](https://en.wikipedia.org/wiki/Ilva_(company))是一家意大利钢铁公司，曾是欧洲最大的钢铁公司之一，20世纪80年代停止生产。
+
+## Gouverneur
+
+一般是[政区首长](https://zh.wikipedia.org/wiki/%E6%94%BF%E5%8C%BA%E9%A6%96%E9%95%BF)的通称，也有译作总督。
+
+## Vizekönig
+
+[总督](https://zh.wikipedia.org/wiki/%E7%B8%BD%E7%9D%A3_(%E6%AE%96%E6%B0%91%E5%9C%B0%E5%AE%98%E8%81%B7))是西方国家的君主在殖民地或行省代理人的官职或称号。直译作“副王”。
+
+## Präfektur
+
+[管区](https://de.wikipedia.org/wiki/Pr%C3%A4fektur)是“城市”或“地区”的行政区域，这里指的是[罗马行省](https://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E8%A1%8C%E7%9C%81)，是罗马帝国时期在罗马之外设立的行政区划。
+
+## Vikariat
+
+[代主教区](https://de.wikipedia.org/wiki/Vikariat_(katholisch))指的是[代主教(Vikar)](https://de.wikipedia.org/wiki/Vikar#R%C3%B6misch-katholische_Kirche)管理的区域。
+
+## Diözese
+
+[主教箮区](https://zh.wikipedia.org/wiki/%E6%95%99%E5%8D%80)，也叫教区，是天主教的一种管理区域或机构。
+
+## Pontifex Maximus
+
+[古罗马大祭司](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%A5%AD%E5%8F%B8_(%E5%8F%A4%E7%BD%97%E9%A9%AC))，或称最高祭司，是古罗马祭司团的最高阶祭司，是古罗马宗教中最为重要的职位。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2110,6 +2170,74 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [勒内·弗朗索瓦·吉兰·马格里特(1898-1967)](https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%85%A7%C2%B7%E9%A6%AC%E6%A0%BC%E5%88%A9%E7%89%B9)是比利时超现实主义画家。
 
+## C.G. Jung
+
+[卡尔·古斯塔夫·荣格(1875-1961)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E8%8D%A3%E6%A0%BC)，瑞士心理学家、精神科医师，分析心理学的创始人。心理学鼻祖之一。
+
+## Montaigne
+
+[米歇尔·德·蒙田(1533-1592)](https://zh.wikipedia.org/wiki/%E7%B1%B3%E6%AD%87%E7%88%BE%C2%B7%E5%BE%B7%C2%B7%E8%92%99%E7%94%B0)，法国著名哲学家，著有[《蒙田随笔集》](https://book.douban.com/subject/35339944/)。
+
+## Madame de Staël
+
+[安娜·露易丝·热尔梅娜·德·斯塔尔-荷尔斯泰因(1766-1817)](https://zh.wikipedia.org/wiki/%E7%83%AD%E5%B0%94%E6%A2%85%E5%A8%9C%C2%B7%E5%BE%B7%C2%B7%E6%96%AF%E5%A1%94%E5%B0%94),以斯塔尔夫人著名。法国小说家、随笔作者。
+
+## Bernini
+
+[吉安·洛伦佐·贝尔尼尼(1598-1680)](https://zh.wikipedia.org/wiki/%E5%90%89%E5%AE%89%C2%B7%E6%B4%9B%E4%BC%A6%E4%BD%90%C2%B7%E8%B4%9D%E5%B0%BC%E5%B0%BC)，意大利雕塑家，建筑师，画家。杰出的巴洛克早期艺术家。
+
+## Carlo Giulio Argan
+
+[朱利奥·卡洛·阿尔甘(1909-1992)](https://en.wikipedia.org/wiki/Giulio_Carlo_Argan)是意大利艺术史家，批评家和政治家。1976到1979年间任罗马市市长，并且是意大利共产党代表人物。著有[《艺术史向导》](https://book.douban.com/subject/30243167/)。
+
+## Federzoni
+
+[路易吉·费代尔佐尼(1878-1967)](https://en.wikipedia.org/wiki/Luigi_Federzoni)是一位意大利民族主义者，后成为法西斯政治家。
+
+## Grandi
+
+[迪诺·格兰迪(1895-1988)](https://zh.wikipedia.org/wiki/%E8%BF%AA%E8%AF%BA%C2%B7%E6%A0%BC%E5%85%B0%E8%BF%AA)，意大利法西斯主义政治家、外交家、贵族。他在二战末期发起[格兰迪决议](https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%85%B0%E8%BF%AA%E5%86%B3%E8%AE%AE)罢免墨索里尼首相职务。
+
+## Ciano
+
+[加莱阿佐·齐亚诺(1903-1944)](https://zh.wikipedia.org/wiki/%E5%8A%A0%E8%8E%B1%E9%98%BF%E4%BD%90%C2%B7%E9%BD%90%E4%BA%9A%E8%AF%BA)，意大利政治家、贵族。齐亚诺是意大利首相，也是墨索里尼的女婿。
+
+## Caligula
+
+[盖乌斯·尤利乌斯·凯撒·奥古斯都·日耳曼尼库斯(12-41)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%88%A9%E5%8F%A4%E6%8B%89)，罗马帝国第三任皇帝，卡里古拉是他自童年起的外号，意为“小军靴”。
+
+## Renzo de Felice
+
+[伦佐·德·费利切(1929-1996)](https://en.wikipedia.org/wiki/Renzo_De_Felice)是意大利历史学家，墨索里尼研究专家。
+
+## Francesco Guicciardini
+
+[弗朗切斯科·圭恰迪尼(1483-1540)](https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%88%87%E6%96%AF%E7%A7%91%C2%B7%E5%9C%AD%E6%81%B0%E8%BF%AA%E5%B0%BC)是意大利历史学家、政治家。著有[《政治与经世备忘录》](https://book.douban.com/subject/35430531/)、[《意大利史》](https://book.douban.com/subject/25913512/)。
+
+## Günter Eich
+
+[金特·艾希(1907-1972)](https://en.wikipedia.org/wiki/G%C3%BCnter_Eich)是德国抒情诗人、剧作家和作家。
+
+## Nikolaus V
+
+[尼古拉五世(1397-1455)](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%90%84%E8%80%81%E4%BA%94%E4%B8%96)原名托马索·帕伦图切利，1447年3月6日当选罗马主教。
+
+## Sixtus V
+
+[西克斯图斯五世(1520-1590)](https://zh.wikipedia.org/wiki/%E6%80%9D%E9%81%93%E4%BA%94%E4%B8%96)原名费利切·佩雷蒂，1585年4月24日当选罗马主教。
+
+## Thomas Hobbes
+
+[托马斯·霍布斯(1588-1679)](https://zh.wikipedia.org/wiki/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E9%9C%8D%E5%B8%83%E6%96%AF)，是英国的政治哲学家，现代自由主义政治哲学体系的奠基者。
+
+## Giuliano della Rovere
+
+[朱利亚诺·德拉·罗韦雷(1443-1513)](https://en.wikipedia.org/wiki/Pope_Julius_II)即后来的教皇尤里乌斯二世，出生于热那亚共和国萨沃纳附近。罗韦雷出身于德拉·罗韦雷家族，是一个贵族但贫困的家庭。1490年代末，与红衣主教[德·美第奇](https://zh.wikipedia.org/wiki/%E8%89%AF%E5%8D%81%E4%B8%96)及其表弟[朱利奥·德·美第奇](https://zh.wikipedia.org/wiki/%E5%85%8B%E5%8B%89%E4%B8%83%E4%B8%96)熟悉，两人后来分别成为教皇利奥十世和克莱门特七世。
+
+## Julius II
+
+[尤里乌斯二世(1443-1513)](https://zh.wikipedia.org/wiki/%E5%84%92%E7%95%A5%E4%BA%8C%E4%B8%96)，1503年11月1日当选罗马主教。以武勇好战闻名于世，是为教廷历史上唯一亲上战场打仗的教皇，被誉为“战士教皇”。
+
 # 地名
 
 ## Syrakus
@@ -3150,3 +3278,111 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Castelli Romani
 
 [罗马城堡](https://en.wikipedia.org/wiki/Roman_Castles)是罗马市的一组建筑，位于罗马市东南的阿尔班山脚下，与旧拉丁姆相对应的地区。
+
+## Settebagni
+
+[塞特巴尼区](https://it.wikipedia.org/wiki/Settebagni)的一个城区。
+
+## Via Veneto
+
+[威尼托大街](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%89%98%E8%A1%97)是意大利罗马市的一条购物街，也是该市最昂贵的街道之一。得名于[维托里奥·威尼托战役](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%E5%A8%81%E5%B0%BC%E6%89%98%E6%88%98%E5%BD%B9)。
+
+## Porta Ardeatina
+
+[阿底提拿门](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%BA%95%E6%8F%90%E6%8B%BF%E9%97%A8)是奥勒利安城墙的城门之一。
+
+## Caracalla-Thermen
+
+[卡拉卡拉浴场](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E5%8D%A1%E6%8B%89%E6%B5%B4%E5%9C%BA)是一个位于罗马的古罗马公共浴场，建于公元212年到216年[卡拉卡拉](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E5%8D%A1%E6%8B%89)统治罗马期间。
+
+## Palatin
+
+[帕拉提诺山](https://zh.wikipedia.org/wiki/%E5%B8%95%E6%8B%89%E4%B8%81%E5%B1%B1)也叫帕拉丁山，是罗马七座山丘中位处中央的一座，罗马最古老的地区之一。
+
+## Coelius
+
+[西里欧山](https://zh.wikipedia.org/wiki/%E8%A5%BF%E9%87%8C%E6%AC%A7%E5%B1%B1)是罗马七座山丘之一。
+
+## Colosseum
+
+[罗马斗兽场](https://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E6%96%97%E5%85%BD%E5%9C%BA)是古罗马时期最大的圆形角斗场，建于公元72年-82年间。
+
+## sieben Hügel
+
+[罗马七座山丘](https://zh.wikipedia.org/wiki/%E7%BE%85%E9%A6%AC%E4%B8%83%E5%BA%A7%E5%B1%B1%E4%B8%98)位于罗马心脏地带台伯河东侧。为罗马建城之初重要的宗教与政治中心，所以罗马被称为“七丘之城”。
+
+## Via Margutta
+
+[玛尔古塔大街](https://zh.wikipedia.org/wiki/%E7%8E%9B%E5%B0%94%E5%8F%A4%E5%A1%94%E8%A1%97)是罗马市中心一条狭窄的街道，靠近人民广场、[巴布伊诺大街](https://zh.wikipedia.org/wiki/%E7%8B%92%E7%8B%92%E8%A1%97)，这一带的街区也被称为“外国人区”。
+
+## Piazza del Popolo
+
+[人民广场](https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA)得名于广场东北角圣玛利亚教堂后面的白杨树。在铁路时代以前，此处是旅行者抵达罗马时首先看到的景色。
+
+## Via del Corso
+
+[科尔索大道](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%B0%94%E7%B4%A2%E5%A4%A7%E9%81%93)是纵贯意大利罗马古城中心区的一条主要街道。
+
+## Via del Babuino
+
+[巴布伊诺大街](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B8%83%E4%BC%8A%E8%AB%BE%E8%A1%97)也叫狒狒街，是罗马历史中心的一条街道，位于[战神广场](https://zh.wikipedia.org/wiki/%E6%88%98%E7%A5%9E%E5%B9%BF%E5%9C%BA_(%E7%BD%97%E9%A9%AC%E5%88%86%E5%8C%BA)"),两端连接人民广场与[西班牙广场](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B9%BF%E5%9C%BA)。
+
+## Kapitol
+
+[卡比托利欧山](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%AF%94%E6%89%98%E5%88%A9%E6%AC%A7%E5%B1%B1)是意大利罗马七座山丘之一，也是最高的一座，为罗马建城之初的重要宗教与政治中心，介于[古罗马广场](https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%BE%85%E9%A6%AC%E5%BB%A3%E5%A0%B4)与[战神广场](https://zh.wikipedia.org/wiki/%E6%88%B0%E7%A5%9E%E5%BB%A3%E5%A0%B4_(%E7%BE%85%E9%A6%AC))之间。
+
+## Senatorenpalast
+
+[元老宫](https://zh.wikipedia.org/wiki/%E5%85%83%E8%80%81%E5%AE%AB)位于罗马的[卡比托利欧广场](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%AF%94%E6%89%98%E5%88%A9%E6%AC%A7%E5%B9%BF%E5%9C%BA)、[保守宫](https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AE%88%E5%AE%AB)与[新宫](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%AE%AB)之间。 目前是罗马市政府的正式驻地。
+
+## Via della Croce
+
+[十字大街](https://romecitynow.com/via-della-croce)是罗马最拥挤的街道之一，每天都有大量的游客来到这里参观景点，起点是西班牙广场。
+
+## Tempel des Saturn
+
+[农神庙](https://zh.wikipedia.org/wiki/%E5%86%9C%E7%A5%9E%E5%BA%99)是罗马农业之神[萨图尔努斯](https://zh.wikipedia.org/wiki/%E8%90%A8%E5%9B%BE%E5%B0%94%E5%8A%AA%E6%96%AF)的神庙，位于古罗马广场的西端，兴建于公元前501年到498年之间。
+
+## Santa Maria sopra Minerva
+
+[神庙遗址圣母堂](https://zh.wikipedia.org/wiki/%E7%A5%9E%E5%BA%99%E9%81%97%E5%9D%80%E5%9C%A3%E6%AF%8D%E5%A0%82)是罗马一座重要的天主教道明会圣堂，具有[次级圣殿](https://zh.wikipedia.org/wiki/%E5%AE%97%E5%BA%A7%E5%9C%A3%E6%AE%BF)的地位。
+
+## Goldenem Haus
+
+[金宫](https://zh.wikipedia.org/wiki/%E9%87%91%E5%AE%AB)兴建于65年－68年，是皇帝尼禄在罗马大火之后建造的大型景观柱廊别墅。
+
+## Villa Borghese
+
+[博尔盖塞别墅](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%88%BE%E8%93%8B%E5%A1%9E%E5%88%A5%E5%A2%85)是一座大型英式庭园，位于罗马东北边缘的[𬞟丘](https://zh.wikipedia.org/wiki/%E8%98%8B%E4%B8%98)，可从[西班牙阶梯](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%B6%E6%A2%AF)或[人民广场](https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%B9%BF%E5%9C%BA_(%E7%BD%97%E9%A9%AC))前往。
+
+## Piazza Venezia
+
+[威尼斯广场](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BB%A3%E5%A0%B4)因附近的[威尼斯宫](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E5%AE%AB)而得名，位于卡比托利欧山的山脚，维托里奥·埃马努埃莱二世纪念堂对面，靠近古罗马广场。
+
+## Monumento Vittorio Emanuele
+
+[维托里奥·埃马努埃莱二世纪念堂](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%85%8B%E5%A4%9A%E8%89%BE%E6%9B%BC%E7%BA%BD%E4%BA%8C%E4%B8%96%E7%BA%AA%E5%BF%B5%E5%A0%82)也叫维托里亚诺，以纪念统一意大利的第一位国王[维托里奥·埃马努埃莱二世](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%C2%B7%E5%9F%83%E9%A9%AC%E5%8A%AA%E5%9F%83%E8%8E%B1%E4%BA%8C%E4%B8%96)。
+
+## Brescia
+
+[布雷西亚](https://zh.wikipedia.org/wiki/%E5%B8%83%E9%9B%B7%E8%A5%BF%E4%BA%9A)建于3200年前，自前罗马时代以来就一直是重要的区域中心。
+
+## Sacré Cœur
+
+[圣心圣殿](https://zh.wikipedia.org/wiki/%E8%81%96%E5%BF%83%E8%81%96%E6%AE%BF_(%E5%B7%B4%E9%BB%8E))简称圣心堂，1875年动工、1923年正式完工。是兼具罗马及拜占庭风格折衷主义建筑。[纽约](https://en.wikipedia.org/wiki/Basilica_of_the_Sacred_Heart_of_Jesus,_Syracuse)也有一座圣心堂。
+
+## Potomac
+
+[波托马克河](https://zh.wikipedia.org/wiki/%E6%B3%A2%E6%89%98%E9%A9%AC%E5%85%8B%E6%B2%B3)是美国东部的主要河流之一，流经华盛顿。
+
+## Capitol Hill
+
+[国会山](https://zh.wikipedia.org/wiki/%E5%9B%BD%E4%BC%9A%E5%B1%B1)是美国政府最高的权力象征——美国国会大厦所在地。
+
+## Pennsylvania Avenue
+
+[宾夕法尼亚大道](https://zh.wikipedia.org/wiki/%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%A4%A7%E9%81%93)是华盛顿哥伦比亚特区的一条街道，联结白宫和美国国会大厦，是所谓的“美国大街”。
+
+## Forum Fridericianum
+
+[腓特烈广场](https://de.wikipedia.org/wiki/Forum_Fridericianum)是[菩提树下大街](https://zh.wikipedia.org/wiki/%E8%8F%A9%E6%8F%90%E6%A8%B9%E4%B8%8B%E5%A4%A7%E8%A1%97)的起点，1740年由普鲁士国王腓特烈二世规划，在第二次世界大战中被毁，后重建。其中心是今天的[倍倍尔广场](https://zh.wikipedia.org/wiki/%E5%80%8D%E5%80%8D%E5%B0%94%E5%B9%BF%E5%9C%BA)。
