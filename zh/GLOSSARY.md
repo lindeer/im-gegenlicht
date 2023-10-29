@@ -867,6 +867,10 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [古罗马大祭司](https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%A5%AD%E5%8F%B8_(%E5%8F%A4%E7%BD%97%E9%A9%AC))，或称最高祭司，是古罗马祭司团的最高阶祭司，是古罗马宗教中最为重要的职位。
 
+## La valse
+
+[《圆舞曲》](https://en.wikipedia.org/wiki/La_valse)是莫里斯·拉威尔于1919年2月至1920年间创作的一部作品；是对华尔兹的致敬。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2238,6 +2242,70 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [尤里乌斯二世(1443-1513)](https://zh.wikipedia.org/wiki/%E5%84%92%E7%95%A5%E4%BA%8C%E4%B8%96)，1503年11月1日当选罗马主教。以武勇好战闻名于世，是为教廷历史上唯一亲上战场打仗的教皇，被誉为“战士教皇”。
 
+## Herzog von Braschi-Onesti
+
+[路易吉·布拉斯奇·奥内斯蒂(1745-1816)](https://en.wikipedia.org/wiki/Luigi_Braschi_Onesti)是教皇庇护六世的侄子，被教皇授予公爵爵位。是布拉斯奇宫的建造者。
+
+## Harald Keller
+
+[哈拉尔德·凯勒(1903-1989)](https://de.wikipedia.org/wiki/Harald_Keller_(Kunsthistoriker))是一位德国艺术史家。
+
+## Caravaggio
+
+[米开朗基罗·梅里西·达·卡拉瓦乔(1571-1610)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E7%93%A6%E4%B9%94)，具有传奇经历的意大利画家。
+
+## de Chirico
+
+[乔治·德·基里科(1888-1978)](https://zh.wikipedia.org/wiki/%E4%B9%94%E6%B2%BB%C2%B7%E5%BE%B7%C2%B7%E5%9F%BA%E9%87%8C%E7%A7%91)是一名超现实画派大师，是形而上派（scuola metafisica）艺术运动的始创人。
+
+## Alberto Moravia
+
+[阿尔贝托·莫拉维亚(1907-1990)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E8%B4%9D%E6%89%98%C2%B7%E8%8E%AB%E6%8B%89%E7%BB%B4%E4%BA%9A)是20世纪意大利著名小说家。著有[《罗马故事》](https://book.douban.com/subject/26721518/)，[《注意》](https://book.douban.com/subject/4164077/)等。
+
+## Carlo Maderna
+
+[卡洛·马代尔诺(1556-1629)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%B4%9B%C2%B7%E9%A9%AC%E4%BB%A3%E5%B0%94%E8%AF%BA)是一名巴洛克风格的意大利-瑞士建筑师 ，曾参与过修建圣彼得大教堂、圣苏珊娜教堂前正立面的工作。
+
+## Mario Praz
+
+[马里奥·普拉兹(1896-1982)](https://en.wikipedia.org/wiki/Mario_Praz)是一位出生于意大利的艺术和文学批评家，也是一位英国文学学者。
+
+## Proud’hon
+
+[皮埃尔-约瑟夫·蒲鲁东(1809-1865)](https://zh.wikipedia.org/zh-cn/%E7%9A%AE%E5%9F%83%E7%88%BE-%E7%B4%84%E7%91%9F%E5%A4%AB%C2%B7%E6%99%AE%E9%AD%AF%E6%9D%B1)，法国社会主义者、政治家、哲学家、经济学家、互助主义哲学奠基人。
+
+## Girodet-Trioson
+
+[安·路易·吉罗代·特里奥松(1767-1824)](https://zh.wikipedia.org/zh-cn/%E5%AE%89%C2%B7%E8%B7%AF%E6%98%93%C2%B7%E5%90%89%E7%BD%97%E4%BB%A3%C2%B7%E7%89%B9%E9%87%8C%E5%A5%A5%E6%9D%BE)是法国古典主义和浪漫主义画派之间承前启后的著名画家。
+
+## Winterhalter
+
+[弗朗兹·克萨韦尔·温特哈尔特(1805-1873)](https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%85%B9%C2%B7%E5%85%8B%E8%90%A8%E9%9F%A6%E5%B0%94%C2%B7%E6%B8%A9%E7%89%B9%E5%93%88%E5%B0%94%E7%89%B9)，德国画家，曾为众多19世纪中期的欧洲皇室成员绘像。
+
+## Stieler
+
+[约瑟夫·卡尔·施蒂勒(1781-1858)](https://en.wikipedia.org/wiki/Joseph_Karl_Stieler)是一位德国画家。担任过巴伐利亚国王的宫廷画家。他最著名的肖像画是贝多芬的。
+
+## Ricarda Huch
+
+[丽卡达·胡赫(1864-1947)](https://en.wikipedia.org/wiki/Ricarda_Huch)是一位德国知识分子。她是许多欧洲历史著作的作者，还写过小说、诗歌和戏剧。
+
+## Oscar Wilde
+
+[奥斯卡·芬戈尔·奥弗莱厄蒂·威尔斯·王尔德(1854-1900)](https://zh.wikipedia.org/wiki/%E5%A5%A5%E6%96%AF%E5%8D%A1%C2%B7%E7%8E%8B%E5%B0%94%E5%BE%B7)是出身爱尔兰都柏林的诗人和剧作家。笔下的[《莎乐美》](https://book.douban.com/subject/34845977/)是唯美主义艺术的代表作。
+
+## Salome
+
+[莎乐美(14-62/71)](https://zh.wikipedia.org/wiki/%E8%8E%8E%E4%B9%90%E7%BE%8E)，也被称为莎乐美三世，是一位犹太公主，[希律二世](https://zh.wikipedia.org/wiki/%E5%B8%8C%E5%BE%8B%E4%BA%8C%E4%B8%96)的女儿。莎乐美千百年来一直是基督教世界文艺作品的重要主题。
+
+## Richard Strauss
+
+[理查德·格奥尔格·施特劳斯(1864-1949)](https://zh.wikipedia.org/zh-cn/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%BD%E7%89%B9%E5%8A%B3%E6%96%AF)，德国作曲家、指挥家。施特劳斯深受以李斯特、瓦格纳为首的“新日耳曼学派”之影响，是德奥音乐传统的最后继承者，也是晚期浪漫主义的代表作曲家，常与[马勒](https://zh.wikipedia.org/zh-cn/%E5%8F%A4%E6%96%AF%E5%A1%94%E5%A4%AB%C2%B7%E9%A6%AC%E5%8B%92)并称。
+
+## Ravel
+
+[约瑟夫·莫里斯·拉威尔(1875-1937)](https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E6%8B%89%E5%A8%81%E7%88%BE)是法国[巴斯克人](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%96%AF%E5%85%8B%E4%BA%BA)作曲家和钢琴家。
+
 # 地名
 
 ## Syrakus
@@ -3386,3 +3454,75 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Forum Fridericianum
 
 [腓特烈广场](https://de.wikipedia.org/wiki/Forum_Fridericianum)是[菩提树下大街](https://zh.wikipedia.org/wiki/%E8%8F%A9%E6%8F%90%E6%A8%B9%E4%B8%8B%E5%A4%A7%E8%A1%97)的起点，1740年由普鲁士国王腓特烈二世规划，在第二次世界大战中被毁，后重建。其中心是今天的[倍倍尔广场](https://zh.wikipedia.org/wiki/%E5%80%8D%E5%80%8D%E5%B0%94%E5%B9%BF%E5%9C%BA)。
+
+## Via de’ Coronari
+
+[念珠商街](https://zh.wikipedia.org/wiki/%E5%BF%B5%E7%8F%A0%E5%95%86%E8%A1%97)是罗马旧城区中的一条街道。两侧主要是建于15世纪和16世纪的建筑，是罗马最美丽的道路之一，保持了意大利文艺复兴的特色。
+
+## Piazza Navona
+
+[纳沃纳广场](https://zh.wikipedia.org/wiki/%E7%BA%B3%E6%B2%83%E7%BA%B3%E5%B9%BF%E5%9C%BA)原是公元1世纪古罗马图密善竞技场，15世纪末辟为市场，以巴洛克艺术著称。
+
+## Palazzo Braschi
+
+[布拉斯奇宫](https://zh.wikipedia.org/wiki/%E5%B8%83%E6%8B%89%E6%96%AF%E5%A5%87%E5%AE%AB)是罗马一座大型新古典主义建筑，介于纳沃纳广场、[鲜花广场](https://zh.wikipedia.org/wiki/%E9%B2%9C%E8%8A%B1%E5%B9%BF%E5%9C%BA)、维托里奥·埃马努埃莱二世大街和帕斯奎诺广场之间。
+
+## Terraferma
+
+[大陆腹地](https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%99%86%E5%9B%BD%E5%AE%B6)专指意大利东北部亚得里亚海沿岸以外的威尼斯共和国的腹地领土。
+
+## Quirinai
+
+[奎里纳莱山](https://zh.wikipedia.org/wiki/%E5%A5%8E%E9%87%8C%E7%BA%B3%E8%8E%B1%E5%B1%B1)是罗马七座山丘之一，是意大利国家元首官邸[奎里纳莱宫](https://zh.wikipedia.org/wiki/%E5%A5%8E%E9%87%8C%E7%BA%B3%E8%8E%B1%E5%AE%AB)的所在地。
+
+## Piazza Colonna
+
+[圆柱广场](https://zh.wikipedia.org/wiki/%E5%9C%86%E6%9F%B1%E5%B9%BF%E5%9C%BA)是意大利罗马古城中心的一个广场，得名于自公元193年就立在此处的大理石[马可奥勒留圆柱](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%8F%AF%E5%A5%A7%E9%87%8C%E7%95%A5%E5%9C%93%E6%9F%B1)。
+
+## Via Tiburtina
+
+[提布提纳道](https://zh.wikipedia.org/wiki/%E6%8F%90%E5%B8%83%E6%8F%90%E7%B4%8D%E9%81%93)是古罗马道路之一，从罗马出发向东北延伸至[蒂沃利](https://zh.wikipedia.org/wiki/%E8%92%82%E6%B2%83%E5%88%A9)和[佩斯卡拉](https://zh.wikipedia.org/wiki/%E4%BD%A9%E6%96%AF%E5%8D%A1%E6%8B%89)。修建于公元前286年。
+
+## S. Susanna
+
+[圣苏珊娜教堂](https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E9%87%8C%E5%85%88%E6%B5%B4%E5%9C%BA%E5%9C%A3%E5%A5%B3%E8%8B%8F%E6%92%92%E7%BA%B3%E5%A0%82)全名戴克里先浴场圣女苏珊娜堂，是一座罗马天主教本堂区圣堂，位于罗马的奎里纳莱山，历史可追溯到约公元280年。现在的圣苏珊娜教堂建于1585年到1603年。
+
+## Pincio
+
+[𬞟丘](https://zh.wikipedia.org/wiki/%E8%98%8B%E4%B8%98)是意大利罗马市区的一座山丘，位于奎里纳莱山北部，可以俯瞰人民广场。
+
+## Monte Mario
+
+[马里奥山](https://en.wikipedia.org/wiki/Monte_Mario)是耸立在罗马西北部地区、台伯河右岸的山丘 ，穿过凯旋门。
+
+## Rialtobrücke
+
+[里阿尔托桥](https://zh.wikipedia.org/wiki/%E9%87%8C%E9%98%BF%E7%88%BE%E6%89%98%E6%A9%8B)是意大利威尼斯四座横跨大运河的桥梁之一，也是其中最古老的一座。
+
+## Via dei Soldati
+
+[卫兵巷](https://www.rerumromanarum.com/2017/12/vicolo-dei-soldati.html)是一条位于Ponte区的街道，这条街上有红衣主教[吉罗拉莫·里亚里奥(Girolamo Riario)](https://en.wikipedia.org/wiki/Girolamo_Riario)的警卫室，因此得名。
+
+## Piazza di Spagna
+
+[西班牙广场](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E5%BB%A3%E5%A0%B4_(%E7%BE%85%E9%A6%AC))是位于意大利罗马的广场。广场连接[西班牙阶梯](https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%9A%8E%E6%A2%AF)，通向山上天主圣三一教堂。
+
+## Trinità dei Monti
+
+[山上天主圣三一教堂](https://zh.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8A%E5%A4%A9%E4%B8%BB%E8%81%96%E4%B8%89%E5%A0%82)是意大利罗马的一座著名教堂，带有双塔结构。
+
+## Villa Doria Pamphili
+
+[多里亚·潘菲利别墅](https://zh.wikipedia.org/zh-hans/%E5%A4%9A%E9%87%8C%E4%BA%9A%C2%B7%E6%BD%98%E8%8F%B2%E5%88%A9%E5%88%AB%E5%A2%85)是罗马一座17世纪别墅，拥有今天罗马最大的风景园林，也是罗马市民休闲之地，位于[贾尼科洛山](https://zh.wikipedia.org/wiki/%E8%B4%BE%E5%B0%BC%E7%A7%91%E6%B4%9B%E5%B1%B1)。
+
+## Ferrara
+
+[费拉拉](https://zh.wikipedia.org/wiki/%E8%B4%B9%E6%8B%89%E6%8B%89)位于博洛尼亚东北44公里处，拥有宽阔的街道和众多文艺复兴时期的宫殿，当时是埃斯特家族的宫廷，被联合国教科文组织指定为世界遗产。
+
+## Villa Madama
+
+[玛达玛庄园](https://zh.wikipedia.org/wiki/%E7%8E%9B%E8%BE%BE%E7%8E%9B%E5%BA%84%E5%9B%AD)是文艺复兴时期修建的一座显赫的郊野庄园，位于罗马以西的马里奥半山腰。
+
+## Bottrop
+
+[博特罗普](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%89%B9%E7%BD%97%E6%99%AE)位于鲁尔工业区，名称意思就是山谷中的村庄。
