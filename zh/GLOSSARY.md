@@ -871,6 +871,94 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [《圆舞曲》](https://en.wikipedia.org/wiki/La_valse)是莫里斯·拉威尔于1919年2月至1920年间创作的一部作品；是对华尔兹的致敬。
 
+## Stuhl Petri
+
+[圣座](https://zh.wikipedia.org/wiki/%E8%81%96%E5%BA%A7)指教宗的教务职权，是最高等级的[主教教座](https://zh.wikipedia.org/wiki/%E4%B8%BB%E6%95%99%E6%95%99%E5%BA%A7)。
+
+## Priesterkönig
+
+[祭司国王](https://de.wikipedia.org/wiki/Priesterk%C3%B6nig)作为国王，同时具有祭司的职能。圣经中的神话人物[麦基洗德](https://zh.wikipedia.org/wiki/%E9%BA%A5%E5%9F%BA%E6%B4%97%E5%BE%B7)就被称为祭司国王，中世纪广泛流传基洗德是基督的[预表](https://zh.wikipedia.org/wiki/%E9%A2%84%E8%A1%A8)，经常出现在基督教艺术中。12至17世纪欧洲盛行[祭司王约翰](https://zh.wikipedia.org/wiki/%E7%A5%AD%E5%8F%B8%E7%8E%8B%E7%B4%84%E7%BF%B0)的传说。
+
+## Gottkaiser
+
+[神王](https://de.wikipedia.org/wiki/Gottk%C3%B6nig)（神圣国王）是拥有超人能力或属性的国王。通常被认为是神的化身或拥有神圣血统。
+
+## Doge
+
+[总督](https://en.wikipedia.org/wiki/Doge_(title))是中世纪和文艺复兴时期几个意大利城邦（特别是威尼斯和热那亚）的民选领主和国家元首。这些国家被称为“皇冠共和国”。
+
+## Condottieri
+
+[雇佣兵队长](https://zh.wikipedia.org/wiki/%E9%9B%87%E4%BD%A3%E5%85%B5%E9%98%9F%E9%95%BF)是中世纪及近代时期意大利雇佣军的指挥官，曾为众多欧洲君主和教皇效力。切萨雷·波吉亚就是雇佣兵队长。
+
+## Arlecchino
+
+[阿赖克奇诺](https://en.wikipedia.org/wiki/Harlequin)也叫哈尔勒克温，是即兴喜剧中最著名的仆人角色。
+
+## Brighella
+
+[布里盖拉](https://en.wikipedia.org/wiki/Brighella)是意大利戏剧风格即兴喜剧中的一个戴着面具的喜剧人物。
+
+## Colombina
+
+[哥伦比娜](https://en.wikipedia.org/wiki/Columbina)是即兴喜剧中的常用角色。一个扮演狡猾奴隶的滑稽仆人的妻子。
+
+## Lateranverträge
+
+[《拉特兰条约》](https://zh.wikipedia.org/wiki/%E6%8B%89%E7%89%B9%E6%9C%97%E6%9D%A1%E7%BA%A6)是1929年2月11日意大利王国法西斯政府与教宗为解决“罗马问题”而签订的条约。此条约也被现今的意大利共和国接受。自此，教皇国正式解体，由新建立的梵蒂冈城国取代。
+
+## Rotariertreffen
+
+[国际扶轮](https://zh.wikipedia.org/wiki/%E5%9C%8B%E9%9A%9B%E6%89%B6%E8%BC%AA)是一个非政治和非宗教的服务性国际组织。
+
+## Fluchtpunkt
+
+[消失点](https://zh.wikipedia.org/wiki/%E6%B6%88%E5%A4%B1%E7%82%B9)，又称灭点，在两个平行的线条中，两个线条会消失在远方的一点。
+
+## Rendezvous der Freunde
+
+[《朋友的约会》](https://de.wikipedia.org/wiki/Das_Rendezvous_der_Freunde)是马克斯·恩斯特1922年创作的一幅前超现实主义绘画，描绘了他和巴黎的朋友在奇异的山景前的一刻。
+
+## Madonnenbildnisse
+
+[《圣母玛利亚》](https://zh.wikipedia.org/wiki/%E8%81%96%E6%AF%8D%E7%91%AA%E5%88%A9%E4%BA%9E_(%E7%B9%AA%E7%95%AB))是一系列描绘耶稣基督的母亲玛利亚的绘画作品的统称，西方基督教美术界的称呼可直译为“我们的贵夫人”。
+
+## Galateen
+
+[伽拉忒亚](https://zh.wikipedia.org/wiki/%E4%BC%BD%E6%8B%89%E5%BF%92%E4%BA%9A)是希腊神话中海中神女之一。住在西西里岛的独眼巨人波吕斐摩斯为她着迷。
+
+## Schule von Athen
+
+[《雅典学院》](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%85%B8%E5%AD%B8%E9%99%A2_(%E7%95%AB%E4%BD%9C))是文艺复兴艺术家拉斐尔受梵蒂冈委托，于1509年至1510年间创作的一幅湿壁画，是拉斐尔的代表作之一，象征著文艺复兴全盛期的精神。
+
+## Erschaffung Adams
+
+[《亚当的诞生》](https://zh.wikipedia.org/wiki/%E5%89%B5%E9%80%A0%E4%BA%9E%E7%95%B6)是米开朗基罗创作的西斯汀礼拜堂穹顶画《创世纪》的一部分，创作于1511至1512年间。
+
+## Ignudi
+
+[伊努迪](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling#Ignudi)是米开朗基罗在对彼得大教堂穹顶上绘制的创世场景中每个角落画的20个裸体运动男性。可以代表天使。
+
+## Gottvater
+
+[圣父](https://zh.wikipedia.org/wiki/%E8%81%96%E7%88%B6)、圣子、圣灵是基督教中造物主的三位一体。
+
+## Putte
+
+[小天使](https://en.wikipedia.org/wiki/Putto)是巴洛克雕塑和绘画中的儿童形象，通常衣着轻便或赤身裸体，有时带翅膀。
+
+## Bartholomäu
+
+[巴多罗买](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A4%9A%E7%BD%97%E4%B9%B0)是是[耶稣十二门徒](https://zh.wikipedia.org/wiki/%E8%80%B6%E7%A8%A3%E5%8D%81%E4%BA%8C%E9%97%A8%E5%BE%92)之一。《最后的审判》右下方云端便是巴多罗买。
+
+## Abacchio
+
+应为Abbacchio，[阿巴奇奥](https://en.wikipedia.org/wiki/Abbacchio)是意大利的一种[羊肉食品](https://anamericaninrome.com/2021/04/abbacchio-lamb-in-rome/)。
+
+## Nackte Maya
+
+[《裸体的玛雅》](https://en.wikipedia.org/wiki/La_maja_desnuda)是西班牙艺术家弗朗西斯科·德·戈雅于1797年至1800年左右创作的一幅布面油画，现藏于马德里普拉多博物馆。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2306,6 +2394,98 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [约瑟夫·莫里斯·拉威尔(1875-1937)](https://zh.wikipedia.org/wiki/%E8%8E%AB%E9%87%8C%E6%96%AF%C2%B7%E6%8B%89%E5%A8%81%E7%88%BE)是法国[巴斯克人](https://zh.wikipedia.org/wiki/%E5%B7%B4%E6%96%AF%E5%85%8B%E4%BA%BA)作曲家和钢琴家。
 
+## Clerici
+
+[法布里齐奥·克莱里奇(1913-1993)](https://en.wikipedia.org/wiki/Fabrizio_Clerici)是一位意大利画家.
+
+## Balthus
+
+[巴尔蒂斯(1908-2001)](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%B0%94%E8%92%82%E6%96%AF)，原名巴尔塔扎·克洛索夫斯基·德罗拉，波兰裔法国具象派画家。巴尔蒂斯是一位具有古典主义情结的画家，钟情于文艺复兴时期的艺术。
+
+## Piranesis
+
+[乔瓦尼·巴蒂斯塔·皮拉内西(1720-1778)](https://zh.wikipedia.org/wiki/%E4%B9%94%E7%93%A6%E5%B0%BC%C2%B7%E5%B7%B4%E8%92%82%E6%96%AF%E5%A1%94%C2%B7%E7%9A%AE%E6%8B%89%E5%86%85%E8%A5%BF)是意大利的画家、建筑师、雕刻家。
+
+## Cosimo Medici
+
+[科西莫·迪·乔凡尼·德·美第奇(1389-1464)](https://zh.wikipedia.org/wiki/%E7%A7%91%E8%A5%BF%E8%8E%AB%C2%B7%E5%BE%B7%C2%B7%E7%BE%8E%E7%AC%AC%E5%A5%87)是意大利文艺复兴时期著名的佛罗伦萨僭主和大商人。他也被称为“老科西莫”或尊称为“平民的保护者”、“国父”。
+
+## Savonarola
+
+[吉罗拉莫·萨沃纳罗拉(1452-1498)](https://zh.wikipedia.org/wiki/%E5%90%89%E7%BE%85%E6%8B%89%E8%8E%AB%C2%B7%E8%96%A9%E4%BD%9B%E7%B4%8D%E7%BE%85%E6%8B%89)是一位意大利道明会修士，从1494年到1498年担任佛罗伦斯僭主，后因施政严苛而被佛罗伦斯的市民推翻，以火刑处死。
+
+## Machiavelli
+
+[尼古洛·马基雅维利(1469-1527)](https://zh.wikipedia.org/wiki/%E5%B0%BC%E5%8F%A4%E6%B4%9B%C2%B7%E9%A6%AC%E5%9F%BA%E9%9B%85%E7%B6%AD%E5%88%A9)是意大利的政治学家、哲学家、历史学家、政治家、外交官。马基雅维利是意大利文艺复兴时期的重要人物，被称为“近代政治学之父”，也是著名的军事家。
+
+## Canessa
+
+[加斯托内·卡内萨(1920-1975)](https://it.wikipedia.org/wiki/Gastone_Canessa)是一位意大利画家、作家和艺术学院的创始人。
+
+## Malraux
+
+[乔治·安德烈·马尔罗(1901-1976)](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E9%A6%AC%E7%88%BE%E7%BE%85)，法国著名作家、公共知识分子。戴高乐总统时期出任法国第一任文化部长。
+
+## Max Ernst
+
+[马克斯·恩斯特(1891-1976)](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E6%81%A9%E6%96%AF%E7%89%B9)是德国画家、雕塑家、图像艺术家及诗人。恩斯特是达达运动和超现实主义运动的主要领军人物。
+
+## Heliodore
+
+[埃利奥多-约瑟夫·皮桑(1822-1890)](https://fr.wikipedia.org/wiki/H%C3%A9liodore_Pisan)，法国木刻家、石版画家、画家和水彩画家。
+
+## Jan Matejko
+
+[扬·马泰伊科(1838-1893)](https://zh.wikipedia.org/wiki/%E6%89%AC%C2%B7%E9%A9%AC%E6%B3%B0%E4%BC%8A%E7%A7%91)是一位波兰画家，以其描绘波兰史上著名政治与军事事件的画作而著称，是波兰最著名画家之一。
+
+## Sobieski
+
+[扬三世·索别斯基(1629-1696)](https://zh.wikipedia.org/wiki/%E6%89%AC%E4%B8%89%E4%B8%96%C2%B7%E7%B4%A2%E5%88%AB%E6%96%AF%E5%9F%BA)，1674年开始同时成为波兰国王及立陶宛大公。1683年在[维也纳之战](https://zh.wikipedia.org/wiki/%E7%B6%AD%E4%B9%9F%E7%B4%8D%E4%B9%8B%E6%88%B0)战胜意图侵略欧洲的奥斯曼土耳其帝国而广受波兰人民的敬爱。
+
+## Roboam
+
+[罗波安(前971-前913)](https://zh.wikipedia.org/wiki/%E7%BE%85%E6%B3%A2%E5%AE%89)，天主教译为勒哈贝罕，是北方以色列王国和南方犹大王国分裂前的最后一位君主，父亲是以智慧称著的[所罗门](https://zh.wikipedia.org/wiki/%E6%89%80%E7%BE%85%E9%96%80)、祖父是[大卫王](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A1%9B%E7%8E%8B)。
+
+## Abias
+
+[阿比亚斯](https://en.wikipedia.org/wiki/Abias)是科普特教会的圣人。
+
+## Alfred Brendel
+
+[阿尔弗雷德·布伦德尔(1931-)](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%C2%B7%E5%B8%83%E4%BC%A6%E5%BE%B7%E5%B0%94)是奥地利著名钢琴家。
+
+## Karl der Große
+
+[查理大帝(742-814)](https://zh.wikipedia.org/wiki/%E6%9F%A5%E7%90%86%E6%9B%BC)是欧洲中世纪早期的法兰克加洛林王朝国王，曾短暂统一欧洲。
+
+## Daniele da Volterra
+
+[达尼埃莱·达·沃尔泰拉(1509-1566)](https://en.wikipedia.org/wiki/Daniele_da_Volterra)也叫达妮埃莱·里恰雷利，是一位风格主义意大利画家和雕塑家。他的主要工作都是在米开朗基罗在世期间完成的，后应教皇之命给这些裸体人物添画了遮羞布条，因此得了个“穿短裤的人”的绰号。
+
+## Paul IV
+
+[保罗四世(1476-1559)](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%A5%BF%E5%9B%9B%E4%B8%96)原名若望·伯多禄·卡拉法，1555年5月23日当选罗马教皇。
+
+## Carstens
+
+[阿斯姆斯·雅各布·卡斯滕斯(1754-1798)](https://en.wikipedia.org/wiki/Asmus_Jacob_Carstens)是一位新古典主义丹麦裔德国画家。
+
+## Henriette Hertz
+
+[亨利埃特·赫兹(1846-1913)](https://en.wikipedia.org/wiki/Henriette_Hertz)是一位德国出生的慈善家和艺术收藏家。她捐赠了祖卡里宫 (Palazzo Zuccari) 作为赫兹亚纳图书馆 (Bibliotheca Hertziana)。
+
+## Gottfried Semper
+
+[戈特弗里德·森佩尔(1803-1879)](https://zh.wikipedia.org/wiki/%E6%88%88%E7%89%B9%E5%BC%97%E9%87%8C%E5%BE%B7%C2%B7%E6%A3%AE%E4%BD%A9%E5%B0%94)，德国建筑师、艺术评论家。
+
+## Gramscis
+
+[安东尼奥·弗朗切斯科·葛兰西(1891-1937)](https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E8%91%9B%E5%85%B0%E8%A5%BF)是意大利共产主义思想家，意大利共产党的创始人和领导人之一。他创立的“文化霸权”理论对后世影响深远。
+
+## August Goethe
+
+[朱利叶斯·奥古斯特·瓦尔特·冯·歌德(1789-1830)](https://en.wikipedia.org/wiki/August_von_Goethe)是歌德和[克里斯蒂娜·武尔皮乌斯](https://en.wikipedia.org/wiki/Christiane_Vulpius)的五个孩子中唯一活到成年的孩子。
+
 # 地名
 
 ## Syrakus
@@ -3526,3 +3706,91 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Bottrop
 
 [博特罗普](https://zh.wikipedia.org/wiki/%E5%8D%9A%E7%89%B9%E7%BD%97%E6%99%AE)位于鲁尔工业区，名称意思就是山谷中的村庄。
+
+## Farnesina
+
+[法尔内西纳](https://it.wikipedia.org/wiki/Farnesina_(zona_di_Roma))是首都罗马的一个区。
+
+## Piazza del Quirinale
+
+[奎里纳莱宫](https://zh.wikipedia.org/wiki/%E5%A5%8E%E9%87%8C%E7%BA%B3%E8%8E%B1%E5%AE%AB)，现为意大利总统府，坐落于罗马七丘之一奎里纳莱山。原本为教皇的宫殿，1871年罗马并入意大利王国，被改为意大利国王王宫。1946年以后改为意大利共和国的总统府。
+
+## Trajansforum
+
+[图拉真广场](https://zh.wikipedia.org/wiki/%E5%9B%BE%E6%8B%89%E7%9C%9F%E5%B9%BF%E5%9C%BA)是罗马市中心的古迹，位于[威尼斯广场](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E5%BB%A3%E5%A0%B4)旁边。图拉真广场是罗马最后一个帝国议事广场，由[大马士革的阿波罗多洛斯](https://zh.wikipedia.org/wiki/%E5%A4%A7%E9%A9%AC%E5%A3%AB%E9%9D%A9%E7%9A%84%E9%98%BF%E6%B3%A2%E7%BD%97%E5%A4%9A%E6%B4%9B%E6%96%AF)兴建。
+
+## Marcellus-Theater
+
+[马塞勒斯剧场](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%88%87%E7%BD%97%E5%89%A7%E5%9C%BA)是罗马的一座露天剧院，建于罗马共和国的最后几年。剧场以皇帝奥古斯都的侄子[马库斯·马塞勒斯](https://zh.wikipedia.org/wiki/%E5%B1%8B%E5%A4%A7%E7%BB%B4%E5%A8%85%E7%9A%84%E9%A9%AC%E5%A1%9E%E5%8D%A2%E6%96%AF)命名，马切罗在剧场完成前五年死去。
+
+## Aventine
+
+[阿文提诺山](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%96%87%E6%8F%90%E8%AF%BA%E5%B1%B1)是古代罗马七座山丘之一。
+
+## Ostia
+
+古代奥斯提亚即现在的[奥斯提亚安提卡](https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E6%8F%90%E4%BA%9E%E5%AE%89%E6%8F%90%E5%8D%A1)。是位于意大利罗马的一座古罗马时期的港湾都市遗迹。
+
+## S.Sabina
+
+[圣撒比娜圣殿](https://zh.wikipedia.org/wiki/%E8%81%96%E6%92%92%E6%AF%94%E7%B4%8D%E8%81%96%E6%AE%BF)是位于意大利罗马的次级宗座圣殿，为天主教道明会的母堂。圣撒比纳圣殿长60米，宽30米，是一座早期[巴西利卡](https://zh.wikipedia.org/wiki/%E5%B7%B4%E8%A5%BF%E5%88%A9%E5%8D%A1)教堂，拥有古典的长方形平面及圆柱。教堂位于台伯河河边，背靠阿文提诺山，邻近马耳他骑士团的总部。
+
+## S.Alessio
+
+[圣阿莱西奥教堂](https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%B3%A2%E5%B0%BC%E6%B3%95%E7%88%B5%E5%8F%8A%E5%9C%A3%E4%BA%9A%E8%82%8B%E5%A1%9E%E5%9C%A3%E6%AE%BF)是一座罗马天主教乙级宗座圣殿、领衔教堂，位于阿文提诺山。
+
+## S.Prisca
+
+[圣普里斯卡教堂](https://en.wikipedia.org/wiki/Santa_Prisca,_Rome)是罗马的一个名义上的教堂，位于阿文提诺山，供枢机主教使用。
+
+## Villa Malta
+
+[马耳他修道院别墅](https://it.wikipedia.org/wiki/Villa_del_Priorato_di_Malta)是位于罗马阿文提诺山上的一座花园建筑群。它是[马耳他骑士团罗马大修道院](https://it.wikipedia.org/wiki/Gran_priorato_di_Roma_del_sovrano_militare_ordine_di_Malta)（今天的马耳他主权军事骑士团）的历史所在地，同时也是骑士团和罗马大修道院院长的机构所在地。 这里是马耳他骑士团驻意大利大使馆的所在地，自1869年以来一直享有治外法权。
+
+## Circus Maximus
+
+[马克西穆斯竞技场](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E8%A5%BF%E7%A9%86%E6%96%AF%E7%AB%B6%E6%8A%80%E5%A0%B4)是一个古罗马竞技场，位于意大利罗马市，坐落于阿文提诺山与帕拉提诺山之间。
+
+## Peterplatz
+
+[圣彼得广场](https://zh.wikipedia.org/wiki/%E8%81%96%E4%BC%AF%E5%A4%9A%E7%A5%BF%E5%BB%A3%E5%A0%B4)位于梵蒂冈圣彼得大教堂前，由贝尔尼尼设计，是罗马最著名的广场。整个广场有两重的巴洛克式柱廊围绕。
+
+## Borgo
+
+[博尔戈](https://zh.wikipedia.org/wiki/%E5%8D%9A%E5%B0%94%E6%88%88)是罗马的一个区，西邻梵蒂冈的圣伯多禄广场，东到台伯河，北面毗邻普拉蒂区，南面毗邻特拉斯提弗列。
+
+## Via della Conciliazione
+
+[协和大道](https://zh.wikipedia.org/wiki/%E5%8D%8F%E5%92%8C%E5%A4%A7%E9%81%93)长约500米，西连圣彼得广场，东到台伯河西岸的圣天使城堡。
+
+## Engelsburg
+
+[圣天使城堡](https://zh.wikipedia.org/wiki/%E8%81%96%E5%A4%A9%E4%BD%BF%E5%9F%8E%E5%A0%A1)是罗马位于台伯河畔的一座城堡。教皇见到天使长米迦勒显像，因而得名。
+
+## Peterskirche
+
+[圣彼得大教堂](https://zh.wikipedia.org/wiki/%E8%81%96%E4%BC%AF%E5%A4%9A%E7%A5%BF%E5%A4%A7%E6%AE%BF)是位于梵蒂冈的天主教宗座圣殿，建于1506年至1626年，为天主教会重要的象征之一。
+
+## Palazzo Caprini
+
+[卡普里尼宫](https://en.wikipedia.org/wiki/Palazzo_Caprini)是意大利罗马的一座文艺复兴时期的宫殿，位于博尔戈地区。
+
+## Vatikanischen Museen
+
+[梵蒂冈博物馆](https://zh.wikipedia.org/wiki/%E6%A2%B5%E8%92%82%E5%86%88%E5%8D%9A%E7%89%A9%E9%A6%86)位于梵蒂冈城内，由罗马梵蒂冈大道（Viale Vaticano）可达。梵蒂冈博物馆是世界上最伟大的博物馆之一，教皇尤里乌斯二世创建于16世纪。
+
+## Wavel
+
+应为Wawel，[瓦维尔山](https://zh.wikipedia.org/wiki/%E7%93%A6%E7%BB%B4%E5%B0%94%E5%B1%B1)是波兰城市克拉科夫中位于维斯瓦河左岸的一座石灰岩小山，山上坐落着[瓦维尔城堡](https://zh.wikipedia.org/wiki/%E7%93%A6%E7%B6%AD%E7%88%BE%E5%9F%8E%E5%A0%A1)和[瓦维尔主教座堂](https://zh.wikipedia.org/wiki/%E7%93%A6%E7%BB%B4%E5%B0%94%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82)。
+
+## Sixtinischen Kapelle
+
+[西斯汀小堂](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%96%AF%E6%B1%80%E5%B0%8F%E5%A0%82)一座位于梵蒂冈宗座宫殿内的天主教小堂，紧邻圣彼得大殿。现在是教宗选举所在地。以米开朗基罗所绘《创世记》穹顶画和壁画《最后的审判》而闻名。
+
+## Camposanto dei Tedeschi
+
+[条顿公墓](https://en.wikipedia.org/wiki/Teutonic_Cemetery)是罗马的一个墓地，毗邻圣彼得大教堂。是很多德语朝圣者的朝圣地。
+
+## Cestius-Pyramide
+
+[塞斯提乌斯金字塔](https://zh.wikipedia.org/wiki/%E8%B5%9B%E6%96%AF%E6%8F%90%E4%B9%8C%E6%96%AF%E9%87%91%E5%AD%97%E5%A1%94)是罗马一座古代金字塔，靠近[圣保禄门](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%BF%9D%E7%A6%84%E9%97%A8)和[新教公墓](https://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E9%9D%9E%E5%A4%A9%E4%B8%BB%E6%95%99%E5%BE%92%E5%85%AC%E5%A2%93)。
