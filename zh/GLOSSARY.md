@@ -959,6 +959,26 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [《裸体的玛雅》](https://en.wikipedia.org/wiki/La_maja_desnuda)是西班牙艺术家弗朗西斯科·德·戈雅于1797年至1800年左右创作的一幅布面油画，现藏于马德里普拉多博物馆。
 
+## Schlacht von Lepanto
+
+[勒班陀战役](https://zh.wikipedia.org/wiki/%E5%8B%92%E7%8F%AD%E9%99%80%E6%88%B0%E5%BD%B9)发生于1571年10月7日，是以西班牙帝国、威尼斯共和国为主力的[神圣同盟](https://zh.wikipedia.org/wiki/%E7%A5%9E%E8%81%96%E5%90%8C%E7%9B%9F_(1571%E5%B9%B4))舰队与奥斯曼帝国海军在希腊爱奥尼亚海帕特拉斯湾展开的一场海战。神圣同盟舰队在海战中取得决定性胜利。
+
+## Massimo
+
+[马西莫家族](https://en.wikipedia.org/wiki/Massimo_family)是罗马的大贵族家族之一，对罗马政治、教会和艺术遗产都产生了重大影响。男性血统可能源自昆图斯·法比乌斯·马克西穆斯。
+
+## Tribun
+
+[平民保民官](https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%B0%91%E4%BF%9D%E6%B0%91%E5%AE%98)是古罗马首个向平民开放的职位，是罗马共和国历史上对元老院和政务官的最重要的制约力量。
+
+## Juturna
+
+[朱图尔纳](https://zh.wikipedia.org/wiki/%E6%9C%B1%E5%9B%BE%E5%B0%94%E7%BA%B3)是古罗马女性神祇之一。
+
+## Corriere
+
+[晚邮报](https://zh.wikipedia.org/wiki/%E6%99%9A%E9%82%AE%E6%8A%A5)是在米兰出版的意大利日报，是意大利最著名的全国性日报，也是最早成立的日报之一。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2486,6 +2506,62 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [朱利叶斯·奥古斯特·瓦尔特·冯·歌德(1789-1830)](https://en.wikipedia.org/wiki/August_von_Goethe)是歌德和[克里斯蒂娜·武尔皮乌斯](https://en.wikipedia.org/wiki/Christiane_Vulpius)的五个孩子中唯一活到成年的孩子。
 
+## Lucifero d’Aprigliano
+
+[罗伯托·卢奇费罗·达普里利亚诺(1903-1993)](https://en.wikipedia.org/wiki/Roberto_Lucifero_d%27Aprigliano)是一位意大利游击队员、律师、政治家和记者。
+
+## Sigmund Freud
+
+[西格蒙德·弗洛伊德(1856-1939)](https://zh.wikipedia.org/wiki/%E8%A5%BF%E6%A0%BC%E8%92%99%E5%BE%B7%C2%B7%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7)奥地利心理学家、精神分析学家、哲学家，精神分析学的创始人，二十世纪最有影响力的思想家之一。
+
+## Haydn
+
+[弗朗茨·约瑟夫·海顿(1732-1809)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E6%B5%B7%E9%A1%BF)，奥地利作曲家，是继巴赫之后又一位伟大的器乐作曲家，古典主义音乐的杰出代表。
+
+## Cavour
+
+[加富尔伯爵卡米洛·奔索(1810-1861)](https://zh.wikipedia.org/zh-hans/%E5%8A%A0%E5%AF%8C%E7%88%BE%E4%BC%AF%E7%88%B5%E5%8D%A1%E7%B1%B3%E6%B4%9B%C2%B7%E5%A5%94%E7%B4%A2)是意大利政治家，意大利统一运动的领导人物 也是后来成立的意大利王国的第一任首相。
+
+## Napoleon III
+
+[拿破仑三世(1808-1873)](https://zh.wikipedia.org/wiki/%E6%8B%BF%E7%A0%B4%E4%BB%91%E4%B8%89%E4%B8%96)，即夏尔·路易·拿破仑·波拿巴，法兰西第二共和国唯一一位总统及法兰西第二帝国唯一一位皇帝，也是拿破仑一世的侄子和继承人，同是拿破仑一世的皇后约瑟芬的外孙。
+
+## Kardinals Ruffo
+
+[法布里齐奥·迪奥尼吉·鲁福(1744-1827)](https://en.wikipedia.org/wiki/Fabrizio_Ruffo)是一位意大利红衣主教和政治家，组织领导了流行的[反雅各宾圣斐济运动](https://en.wikipedia.org/wiki/Sanfedismo)。
+
+## Quintus Fabius Maximus
+
+[昆图斯·法比乌斯·马克西姆斯(前3世纪—前203)](https://zh.wikipedia.org/wiki/%E8%B4%B9%E8%BE%B9%C2%B7%E9%A9%AC%E5%85%8B%E8%A5%BF%E5%A7%86%E6%96%AF)，人称“拖延者”，是古罗马政治家、军事家。费边曾五次当选为执政官，两次出任独裁官，并担任过监察官。费边以在[第二次布匿战争](https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%B8%83%E5%8C%BF%E6%88%98%E4%BA%89)中采用拖延战术对抗迦太基名将汉尼拔，挽救罗马于危难之中而著称于史册。
+
+## Cola di Rienzo
+
+[柯拉·迪·里恩佐(1313-1354)](https://zh.wikipedia.org/wiki/%E6%9F%AF%E6%8B%89%C2%B7%E8%BF%AA%C2%B7%E9%87%8C%E6%81%A9%E4%BD%90)，原名尼古拉·加布里尼，意大利政治领导人，自称为“罗马人民的平民保民官”。毕生倡导废除教皇的世俗权力并实现意大利统一。
+
+## Galba
+
+[塞尔维乌斯·苏尔皮基乌斯·加尔巴(前3-69)](https://zh.wikipedia.org/zh-cn/%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%B9%8C%E6%96%AF%C2%B7%E8%8B%8F%E5%B0%94%E7%9A%AE%E5%9F%BA%E4%B9%8C%E6%96%AF%C2%B7%E5%8A%A0%E5%B0%94%E5%B7%B4)，是尼禄自杀之后的罗马帝国的皇帝，仅七个月就遭到杀害。
+
+## Fellini
+
+[费代里科·费里尼(1920-1993)](https://zh.wikipedia.org/zh-cn/%E8%B4%B9%E5%BE%B7%E9%87%8C%E6%9F%AF%C2%B7%E8%B4%B9%E9%87%8C%E5%B0%BC)，意大利艺术电影导演，同时也是演员及作家，曾先后5次摘取奥斯卡金像奖。
+
+## Josef Albers
+
+[约瑟夫·阿尔贝斯(1888-1976)](https://zh.wikipedia.org/zh-cn/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E4%BA%9A%E4%BC%AF%E6%96%AF)是生于德国的美国艺术家、教育家。
+
+## Joseph Beuys
+
+[约瑟夫·博伊于斯(1921-1986)](https://zh.wikipedia.org/zh-cn/%E7%BA%A6%E7%91%9F%E5%A4%AB%C2%B7%E5%8D%9A%E4%BC%8A%E6%96%AF)是著名的德国行为艺术家，其作品包括各种雕塑、行为艺术，信奉人人都可以是艺术家的观点
+
+## Rossini
+
+[乔奇诺·安东尼奥·罗西尼(1792－1868)](https://zh.wikipedia.org/zh-cn/%E7%84%A6%E9%98%BF%E5%9F%BA%E8%AF%BA%C2%B7%E7%BD%97%E8%A5%BF%E5%B0%BC)，意大利作曲家，他生前创作了39部歌剧以及宗教音乐和室内音乐。
+
+## Vittorio Emanuele
+
+[维托里奥·埃曼努埃莱·迪·萨伏伊(1937-)](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%C2%B7%E5%9F%83%E6%9B%BC%E5%8A%AA%E5%9F%83%E8%8E%B1%C2%B7%E8%BF%AA%C2%B7%E8%90%A8%E4%BC%8F%E4%BC%8A)，是意大利末代国王[翁贝托二世](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%C2%B7%E5%9F%83%E6%9B%BC%E5%8A%AA%E5%9F%83%E8%8E%B1%C2%B7%E8%BF%AA%C2%B7%E8%90%A8%E4%BC%8F%E4%BC%8A)之子，因意大利政府过去禁止前王室男性后人入境，大部分时间居于日内瓦。2002年政府取消禁令，才得以回国。
+
 # 地名
 
 ## Syrakus
@@ -3794,3 +3870,47 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Cestius-Pyramide
 
 [塞斯提乌斯金字塔](https://zh.wikipedia.org/wiki/%E8%B5%9B%E6%96%AF%E6%8F%90%E4%B9%8C%E6%96%AF%E9%87%91%E5%AD%97%E5%A1%94)是罗马一座古代金字塔，靠近[圣保禄门](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%BF%9D%E7%A6%84%E9%97%A8)和[新教公墓](https://zh.wikipedia.org/wiki/%E7%BD%97%E9%A9%AC%E9%9D%9E%E5%A4%A9%E4%B8%BB%E6%95%99%E5%BE%92%E5%85%AC%E5%A2%93)。
+
+## Ostia
+
+即[奥斯提亚安提卡](https://zh.wikipedia.org/wiki/%E5%A5%A7%E6%96%AF%E6%8F%90%E4%BA%9E%E5%AE%89%E6%8F%90%E5%8D%A1)，或古奥斯提亚。古罗马时期一座港湾都市遗迹。
+
+## Campidoglio
+
+[卡比托利欧广场](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%AF%94%E6%89%98%E5%88%A9%E6%AC%A7%E5%B9%BF%E5%9C%BA)位于罗马市卡比托利欧山上的一个广场。
+
+## Ara Coeli
+
+[天坛圣母教堂](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%9D%9B%E5%9C%A3%E6%AF%8D%E5%A0%82)位于意大利罗马的卡比托利欧山山顶，是罗马天主教的一座宗座圣殿，也是司铎级枢机领衔圣堂。
+
+## Piazza San Marcello
+
+[圣马尔切洛广场](https://www.google.com.hk/maps/place/P.za+S.+Marcello,+00187+Roma+RM,+%E6%84%8F%E5%A4%A7%E5%88%A9/@41.8986018,12.4814085,21z/data=!4m15!1m8!3m7!1s0x132f6052822cb85f:0xc9af35e0fc16607e!2zUC56YSBTLiBNYXJjZWxsbywgMDAxODcgUm9tYSBSTSwg5oSP5aSn5Yip!3b1!8m2!3d41.898645!4d12.4813916!16s%2Fg%2F11lsz_v1j1!3m5!1s0x132f6052822cb85f:0xc9af35e0fc16607e!8m2!3d41.898645!4d12.4813916!16s%2Fg%2F11lsz_v1j1?entry=ttu)是[圣马尔切洛教堂](https://zh.wikipedia.org/wiki/%E5%9C%A3%E7%8E%9B%E7%AD%96%E7%A6%84%E5%A0%82)前的一个广场。
+
+## Basilika Julia
+
+[朱利亚巴西利卡](https://zh.wikipedia.org/wiki/%E6%9C%B1%E9%87%8C%E4%BA%9A%E5%B7%B4%E8%A5%BF%E5%88%A9%E5%8D%A1)是一座装饰华丽的巨大公共建筑，在罗马帝国早期用于会议和其他公务。公元前46年恺撒为这座建筑揭幕。
+
+## Via dei Fori Imperiali
+
+[帝国广场大道](https://zh.wikipedia.org/wiki/%E5%B8%9D%E5%9B%BD%E5%B9%BF%E5%9C%BA%E5%A4%A7%E9%81%93)原名凯旋大道（Via Triumphale），是罗马市中心的一条道路，成一条直线，从威尼斯广场向东南到罗马斗兽场所在的斗兽场广场。
+
+## S. Giovanni
+
+[拉特兰圣乔瓦尼教堂](https://zh.wikipedia.org/wiki/%E6%8B%89%E7%89%B9%E6%9C%97%E5%9C%A3%E8%8B%A5%E6%9C%9B%E5%A4%A7%E6%AE%BF)是天主教罗马教区的主教座堂，即教宗的正式驻地，享有全世界天主教会母堂的称号。
+
+## Campo de' Fiori
+
+[鲜花广场](https://zh.wikipedia.org/wiki/%E9%B2%9C%E8%8A%B1%E5%B9%BF%E5%9C%BA)毗邻纳沃纳广场，是商业和街道文化的中心。
+
+## Via Giulia
+
+[朱利亚大街](https://zh.wikipedia.org/zh-cn/%E6%9C%B1%E5%88%A9%E4%BA%9A%E8%A1%97)是意大利罗马历史中心的一条街道，是文艺复兴时期罗马最重要的城市规划项目之一。现今是罗马的精品购物街之一，以古董店闻名。
+
+## Goethes Corso
+
+[歌德学院](https://en.wikipedia.org/wiki/Casa_di_Goethe)是罗马的一座博物馆，位于科尔索大街18号，专门纪念约翰·沃尔夫冈·冯·歌德、他的《意大利之旅》以及1786至1788年在罗马的生活。
+
+## Tiergarten
+
+[大蒂尔加滕公园](https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E8%92%82%E5%B0%94%E5%8A%A0%E6%BB%95%E5%85%AC%E5%9B%AD)是位于德国柏林蒂尔加滕区的一座城市公园。中世纪末至近代一直是巴洛克风格的贵族狩猎场。
