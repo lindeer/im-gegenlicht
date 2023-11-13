@@ -979,6 +979,22 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [晚邮报](https://zh.wikipedia.org/wiki/%E6%99%9A%E9%82%AE%E6%8A%A5)是在米兰出版的意大利日报，是意大利最著名的全国性日报，也是最早成立的日报之一。
 
+## Porträt von Oswald Krell
+
+[奥斯瓦尔德·克雷尔肖像](https://www.wga.hu/html_m/d/durer/1/02/12krel.html)是1495年至1503年间纽伦堡拉文斯堡家族商人奥斯瓦尔德·克雷尔曾向艺术家索要的一幅真实的再现肖像。
+
+## besetztes Haus
+
+[占屋](https://zh.wikipedia.org/wiki/%E4%BD%94%E5%B1%8B)指占用闲置或废弃的空间或建物（通常为住宅用地）。
+
+## Barolo
+
+[巴罗洛葡萄酒](https://en.wikipedia.org/wiki/Barolo)产自意大利北部皮埃蒙特地区，由内比奥罗葡萄酿制而成，是意大利最伟大的葡萄酒之一。
+
+## Patriarch
+
+[宗主教](https://zh.wikipedia.org/wiki/%E5%AE%97%E4%B8%BB%E6%95%99)是实施主教制度的基督教宗派的一种神职人员职称，东正教的宗主教一般翻译为牧首。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2562,6 +2578,58 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [维托里奥·埃曼努埃莱·迪·萨伏伊(1937-)](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%C2%B7%E5%9F%83%E6%9B%BC%E5%8A%AA%E5%9F%83%E8%8E%B1%C2%B7%E8%BF%AA%C2%B7%E8%90%A8%E4%BC%8F%E4%BC%8A)，是意大利末代国王[翁贝托二世](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%89%98%E9%87%8C%E5%A5%A5%C2%B7%E5%9F%83%E6%9B%BC%E5%8A%AA%E5%9F%83%E8%8E%B1%C2%B7%E8%BF%AA%C2%B7%E8%90%A8%E4%BC%8F%E4%BC%8A)之子，因意大利政府过去禁止前王室男性后人入境，大部分时间居于日内瓦。2002年政府取消禁令，才得以回国。
 
+## Goldoni
+
+[卡罗·奥斯瓦尔多·哥尔多尼(1707-1793)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%B4%9B%C2%B7%E5%93%A5%E5%B0%94%E5%A4%9A%E5%B0%BC)是出生于威尼斯共和国的意大利剧作家。
+
+## Chagall
+
+[马克·夏加尔(1887-1985)](https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%C2%B7%E5%A4%8F%E5%8D%A1%E7%88%BE)是白俄罗斯犹太裔的俄法著名艺术家，游离于印象派、立体派、抽象表现主义等多流派间，作品形式包括绘画、素描、彩色玻璃、舞台布景、陶瓷等。
+
+## Malewitsch
+
+[卡济米尔·谢韦里诺维奇·马列维奇(1879-1935)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%B5%8E%E7%B1%B3%E5%B0%94%C2%B7%E8%B0%A2%E9%9F%A6%E9%87%8C%E8%AF%BA%E7%BB%B4%E5%A5%87%C2%B7%E9%A9%AC%E5%88%97%E7%BB%B4%E5%A5%87)，或译马列维基，是俄罗斯至上主义创始人、构成主义、几何抽象派画家。
+
+## Kierkegaard
+
+[索伦·奥贝·克尔凯郭尔(1813-1855)](https://zh.wikipedia.org/wiki/%E7%B4%A2%E5%80%AB%C2%B7%E5%A5%A7%E8%B2%9D%C2%B7%E5%85%8B%E7%88%BE%E5%87%B1%E9%83%AD%E7%88%BE)是丹麦神学家、哲学家、诗人、社会批评家及宗教作家，一般被视为存在主义的创立者。
+
+## Munch
+
+[爱德华·蒙克(1863-1944)](https://zh.wikipedia.org/wiki/%E7%88%B1%E5%BE%B7%E5%8D%8E%C2%B7%E8%92%99%E5%85%8B)，挪威画家。其最著名作品《呐喊》是当代艺术的标志性图像。
+
+## Knut Hamsun
+
+[克努特·汉姆生(1859-1952)](https://zh.wikipedia.org/zh-cn/%E5%85%8B%E5%8A%AA%E7%89%B9%C2%B7%E6%B1%89%E5%A7%86%E7%94%9F)，挪威作家，1920年诺贝尔文学奖获得者。
+
+## Strindberg
+
+[奥古斯特·斯特林堡(1849-1912)](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E6%96%AF%E7%89%B9%E6%9E%97%E5%A0%A1)是一位瑞典作家、剧作家和画家，被称为现代戏剧创始人。
+
+## Ibsen
+
+[亨里克·约翰·易卜生(1828-1906)](https://zh.wikipedia.org/wiki/%E4%BA%A8%E9%87%8C%E5%85%8B%C2%B7%E6%98%93%E5%8D%9C%E7%94%9F)，是挪威著名剧作家，被认为是现代现实主义戏剧的创始人。
+
+## Carlo Schmid
+
+[卡洛·施密德(1896-1979)](https://en.wikipedia.org/wiki/Carlo_Schmid_(German_politician))是一位德国学者和德国社会民主党政治家。
+
+## Lope de Vega
+
+[费利克斯·洛佩·德·维加-卡尔皮奥(1562-1635)](https://zh.wikipedia.org/wiki/%E6%B4%9B%E4%BD%A9%C2%B7%E5%BE%B7%C2%B7%E7%BB%B4%E5%8A%A0)，西班牙剧作家、诗人，西班牙黄金时代最重要的作家之一，号称“天才中的凤凰”。
+
+## De Gasperi
+
+[阿尔契德·加斯佩里(1881-1954)](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%88%BE%E5%A5%91%E5%BE%B7%C2%B7%E5%8A%A0%E6%96%AF%E8%B2%9D%E5%88%A9)是意大利政治家，1945年至1953年担任意大利总理，意大利天主教民主党的创始人。
+
+## Brandt
+
+[维利·勃兰特(1913-1992)](https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%88%A9%C2%B7%E5%8B%83%E5%85%B0%E7%89%B9)，德国政治家，曾任德意志联邦共和国总理。
+
+## Bahr
+
+[埃贡·巴尔(1922-2015)](https://zh.wikipedia.org/wiki/%E5%9F%83%E8%B4%A1%C2%B7%E5%B7%B4%E5%B0%94)是勃兰特任总理期间东方政策的创始人。
+
 # 地名
 
 ## Syrakus
@@ -3914,3 +3982,35 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Tiergarten
 
 [大蒂尔加滕公园](https://zh.wikipedia.org/zh-hans/%E5%A4%A7%E8%92%82%E5%B0%94%E5%8A%A0%E6%BB%95%E5%85%AC%E5%9B%AD)是位于德国柏林蒂尔加滕区的一座城市公园。中世纪末至近代一直是巴洛克风格的贵族狩猎场。
+
+## Alten Pinakothek
+
+[古旧绘画陈列馆](https://zh.wikipedia.org/wiki/%E8%80%81%E7%BB%98%E7%94%BB%E9%99%88%E5%88%97%E9%A6%86)是德国慕尼黑的一座美术馆，慕尼黑艺术区的一部分。是世界上最古老的美术馆之一，也是收藏早期“绘画大师”作品的最著名美术馆之一。
+
+## Lindauer
+
+[林道](https://zh.wikipedia.org/wiki/%E6%9E%97%E9%81%93_(%E5%9F%8E%E5%B8%82))又译作林岛，是一座德国巴伐利亚州的城市。林道的名字源于Linden Au，即“生长菩提树的河边洼地”，林道的市徽就是一棵枝繁叶茂的绿色菩提树。
+
+## Trastevere
+
+[特拉斯提弗列](https://zh.wikipedia.org/wiki/%E7%89%B9%E6%8B%89%E6%96%AF%E6%8F%90%E5%BC%97%E5%88%97)是罗马的第13区，位于台伯河西岸，梵蒂冈以南，得名于拉丁文“trans Tiberim”，意为“台伯河外”。
+
+## Piazza Sidney Sonnino
+
+[西德尼桑尼诺广场](https://www.google.com.hk/maps/place/Piazza+Sidney+Sonnino,+00153+Roma+RM,+%E6%84%8F%E5%A4%A7%E5%88%A9/data=!4m2!3m1!1s0x132f6037df998e05:0x44baf50c4fb27d47?sa=X&ved=2ahUKEwiQ3aWPk8GCAxVzEEQIHVcOAQ8Q8gF6BAgVEAA)是位于传统城市与现代城市的十字路口。
+
+## S. Maria in Trastevere
+
+[台伯河西圣母圣殿](https://zh.wikipedia.org/wiki/%E5%8F%B0%E4%BC%AF%E6%B2%B3%E8%A5%BF%E5%9C%A3%E6%AF%8D%E5%9C%A3%E6%AE%BF)是一座位于意大利罗马的天主教次级宗座圣殿，兴建于四世纪，是罗马最古老的教堂之一。
+
+## Witebsk
+
+[维捷布斯克](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%8D%B7%E5%B8%83%E6%96%AF%E5%85%8B)现作Vitebsk，是位于白俄罗斯东北方边境、维捷布斯克州首府。
+
+## Thermenmuseum
+
+卡拉卡拉浴场博物馆
+
+## Via Mario de' Fiori
+
+[马里奥德菲奥里街](https://www.google.com.hk/maps/place/Via+Mario+de'+Fiori,+00187+Roma+RM,+%E6%84%8F%E5%A4%A7%E5%88%A9/@41.9056565,12.4815558,18z/data=!4m6!3m5!1s0x132f6054fbdb5bd3:0xfbdd63e22c0d964d!8m2!3d41.9052093!4d12.4814861!16s%2Fg%2F119wvnh_0?entry=ttu)毗邻西班牙阶梯。
