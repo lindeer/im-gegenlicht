@@ -995,6 +995,18 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [宗主教](https://zh.wikipedia.org/wiki/%E5%AE%97%E4%B8%BB%E6%95%99)是实施主教制度的基督教宗派的一种神职人员职称，东正教的宗主教一般翻译为牧首。
 
+## Anno Domini
+
+[基督纪年](https://zh.wikipedia.org/wiki/%E5%9F%BA%E7%9D%A3%E7%BA%AA%E5%B9%B4)是源自于基督教的纪年方法，以耶稣诞生年作为纪年的开始。和公元纪年略有不同。
+
+## Führerpalast
+
+[元首宫](https://de.wikipedia.org/wiki/F%C3%BChrerpalast)是阿道夫·希特勒及其继任者的办公室和住所，由建筑师阿尔伯特·施佩尔设计。这是将柏林转变为“日耳曼世界首都”计划的一部分。模型照片、图纸和平面图都保存了下来。
+
+## Seidenen Schuh
+
+可能是剧作[《Le Soulier de satin》](https://fr.wikipedia.org/wiki/Le_Soulier_de_satin)，讲述了一个以罪孽与救赎为主题的爱情故事。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2630,6 +2642,70 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [埃贡·巴尔(1922-2015)](https://zh.wikipedia.org/wiki/%E5%9F%83%E8%B4%A1%C2%B7%E5%B7%B4%E5%B0%94)是勃兰特任总理期间东方政策的创始人。
 
+## Hippolyte Taine
+
+[伊波利特·阿道夫·泰纳(1828-1893)](https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%B3%A2%E5%88%A9%E7%89%B9%C2%B7%E9%98%BF%E9%81%93%E5%A4%AB%C2%B7%E6%B3%B0%E7%BA%B3)，法国评论家与史学家，实证史学的代表人物。
+
+## Grillparzer
+
+[弗朗茨·格里帕泽(1791-1872)](https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E8%8C%A8%C2%B7%E6%A0%BC%E9%87%8C%E5%B8%95%E6%B3%BD)，奥地利剧作家，诗人。
+
+## Septimius Severus
+
+[塞普蒂米乌斯·塞维鲁(145-211)](https://zh.wikipedia.org/wiki/%E5%A1%9E%E6%99%AE%E8%92%82%E7%B1%B3%E7%83%8F%E6%96%AF%C2%B7%E5%A1%9E%E7%B6%AD%E9%AD%AF)，193年成为罗马第二十一任皇帝。
+
+## Heinrich Füssli
+
+[约翰·亨利希·菲斯利(1741-1825)](https://zh.wikipedia.org/wiki/%E7%BA%A6%E7%BF%B0%C2%B7%E4%BA%A8%E5%88%A9%E5%B8%8C%C2%B7%E8%8F%B2%E6%96%AF%E5%88%A9)是一位德国-瑞士裔的英国画家、制图员及艺术家。
+
+## Guglielmo Ferrero
+
+[古列尔莫·费雷罗(1871-1942)](https://en.wikipedia.org/wiki/Guglielmo_Ferrero)是一位意大利历史学家、记者和小说家，著有《罗马的伟大与衰落》。费雷罗的著作致力于古典自由主义，他反对任何形式的独裁和无限制的政府。
+
+## M. Rostovtzeff
+
+[米哈伊尔·伊万诺维奇·罗斯托夫采夫(1870-1952)](https://zh.wikipedia.org/wiki/%E7%B1%B3%E5%93%88%E4%BC%8A%E5%B0%94%C2%B7%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E9%87%87%E5%A4%AB)是20世纪俄裔美籍历史学家，美国历史学会会长，俄罗斯科学院院士。古罗马和古希腊历史的研究非常知名。
+
+## A. Piganiol
+
+[安德烈·皮加尼奥尔(1883-1968)](https://en.wikipedia.org/wiki/Andr%C3%A9_Piganiol)是一位法国历史学家和考古学家。
+
+## Severus Antoninus
+
+塞维鲁·安东尼努斯即[卡拉卡拉](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%8B%89%E5%8D%A1%E6%8B%89)，塞普蒂米乌斯·塞维鲁的大儿子。
+
+## Harun-al-Raschid
+
+[哈伦·拉希德(763-809)](https://zh.wikipedia.org/wiki/%E5%93%88%E4%BC%A6%C2%B7%E6%8B%89%E5%B8%8C%E5%BE%B7)，伊斯兰教第二十三代哈里发，阿拔斯王朝的第五代哈里发，任期间为王朝最强盛时代。
+
+## Paul Claudel
+
+[保罗-路易-夏尔-马里·克洛岱尔(1868-1955)](https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%BE%85%C2%B7%E5%85%8B%E6%B4%9B%E5%B2%B1%E7%88%BE)，汉名高乐待（福州时期）、高禄德（天津时期），法国诗人、剧作家、散文家、外交官，1895－1909年在清朝担任领事。
+
+## Rubens
+
+[彼得·保罗·鲁本斯(1577-1640)](https://zh.wikipedia.org/wiki/%E5%BD%BC%E5%BE%97%C2%B7%E4%BF%9D%E7%BD%97%C2%B7%E9%B2%81%E6%9C%AC%E6%96%AF)，荷兰画家，巴洛克画派早期的代表人物。鲁本斯的画有浓厚的巴洛克风格，强调运动、颜色和感官。
+
+## Chardin
+
+[让·巴蒂斯特·西梅翁·夏尔丹(1699-1779)](https://zh.wikipedia.org/wiki/%E8%AE%A9%C2%B7%E5%B7%B4%E8%92%82%E6%96%AF%E7%89%B9%C2%B7%E8%A5%BF%E6%A2%85%E7%BF%81%C2%B7%E5%A4%8F%E5%B0%94%E4%B8%B9)是18世纪的法国画家，是著名的静物画大师。
+
+## Géricault
+
+[让-路易·安德烈·泰奥多尔·热里科(1791-1824)](https://zh.wikipedia.org/wiki/%E6%B3%B0%E5%A5%A7%E5%A4%9A%E7%88%BE%C2%B7%E5%82%91%E5%88%A9%E6%9F%AF)是法国浪漫主义画派的先驱，对浪漫主义画派和现实主义画派的发展有重要影响。
+
+## Renoir
+
+[皮埃尔-奥古斯特·雷诺阿(1841-1919)](https://zh.wikipedia.org/wiki/%E7%9A%AE%E5%9F%83%E5%B0%94-%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9%C2%B7%E9%9B%B7%E8%AF%BA%E9%98%BF)是一位著名的法国画家，也是印象派发展史上的领导人物之一。
+
+## Italo Svevo
+
+[伊塔洛·斯韦沃(1861-1928)](https://zh.wikipedia.org/wiki/%E4%BC%8A%E5%A1%94%E6%B4%9B%C2%B7%E6%96%AF%E9%9F%8B%E6%B2%83)，本名埃托雷·施米茨，意大利犹太商人兼小说家，被誉为20世纪最出色小说家之一。
+
+## Rastelli
+
+[恩里科·拉斯泰利(1896-1931)](https://en.wikipedia.org/wiki/Enrico_Rastelli)是一位意大利杂耍演员、杂技演员和表演者。
+
 # 地名
 
 ## Syrakus
@@ -4014,3 +4090,84 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Via Mario de' Fiori
 
 [马里奥德菲奥里街](https://www.google.com.hk/maps/place/Via+Mario+de'+Fiori,+00187+Roma+RM,+%E6%84%8F%E5%A4%A7%E5%88%A9/@41.9056565,12.4815558,18z/data=!4m6!3m5!1s0x132f6054fbdb5bd3:0xfbdd63e22c0d964d!8m2!3d41.9052093!4d12.4814861!16s%2Fg%2F119wvnh_0?entry=ttu)毗邻西班牙阶梯。
+
+## Grabmal des Augustus
+
+[奥古斯都陵墓](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8F%A4%E6%96%AF%E9%83%BD%E9%99%B5%E5%A2%93)位于现在的奥古斯都大帝广场，战神广场北侧，修建于公元前28年。
+
+## Via della Scrofa
+
+[斯科洛法街](https://www.google.com.hk/maps/place/Via+della+Scrofa,+00186+Roma+RM,+Italy/@41.9017043,12.4749956,15z/data=!4m6!3m5!1s0x132f6050fed8e9c9:0x2aa514f1cf35b6ab!8m2!3d41.9017043!4d12.4749956!16s%2Fg%2F1yfdrn1dk?entry=ttu)位于万神殿以北。
+
+## Ardea
+
+[阿尔代亚](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B0%94%E4%BB%A3%E4%BA%9A)是罗马附近的一个市镇，历史悠久，是西欧最古老的城镇之一，建于公元前8世纪。
+
+## Fosse Ardeatine
+
+[福斯·阿尔代廷大屠杀纪念碑](https://en.wikipedia.org/wiki/Ardeatine_massacre)是第二次世界大战期间德国占领军于1944年3月24日在罗马实施的大规模屠杀，335名平民和政治犯死亡，作为对[拉塞拉大街袭击事件](https://en.wikipedia.org/wiki/Via_Rasella_attack)的报复。
+
+## Grabmal der Cecilia Metella
+
+[塞西莉亚·梅泰拉墓](https://en.wikipedia.org/wiki/Tomb_of_Caecilia_Metella)是一座位于罗马郊外阿皮亚街三英里处的陵墓。建于公元前1世纪，为纪念塞西莉亚·梅泰拉，她是公元前69年罗马执政官[昆图斯·凯西利乌斯·梅特鲁斯·克里提库斯](https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Creticus)的女儿，也是[马库斯·利锡尼乌斯·克拉苏](https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus_(quaestor_54_BC))的妻子。
+
+## Via Appia Antica
+
+西罗马帝国灭亡后，阿庇亚大道不再使用。后来教皇庇护六世下令修复。1784年，一条新阿庇亚道与原有道路平行修建，一直延伸至阿尔班山地区。 新路段称为Via Appia Nuova（“新阿庇道”），而旧路段即为[阿庇亚旧道](https://en.wikipedia.org/wiki/Appian_Way#Via_Appia_antica)。
+
+## Grabmal des Romulus
+
+[罗慕路斯墓](https://mapcarta.com/de/28375758)是位于罗马第七区的一座博物馆。
+
+## Via degli Staderari
+
+[斯塔德拉里街](https://www.google.com.hk/maps?sca_esv=582537645&sxsrf=AM9HkKkRDTe8A0kPr1PzJZt9j8jJcPvR8g:1700117706576&uact=5&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1ZpYSBkZWdsaSBTdGFkZXJhcmkyBRAAGIAEMggQABjLARiABDIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB5I8ZQBUABYAHAAeAGQAQCYAZACoAGQAqoBAzItMbgBA8gBAPgBAvgBAeIDBBgAIEGIBgE&um=1&ie=UTF-8&fb=1&sa=X&ll=41.8984843,12.4746239&z=15&ftid=0x132f604fdab5de1b:0x2b27878fa3c13daf&q=Via+degli+Staderari,+00186+Roma+RM,+Italy)位于万神殿以南。[斯塔德拉里街的喷泉](https://www.turismoroma.it/en/places/degli-staderari-fountain)由埃及花岗岩石盆制成，坐落在一个卡拉拉大理石底座上。它的重量和尺寸相当大，来自尼禄皇帝于公元62年建造的浴场。1985年，在马达玛宫和卡尔佩尼亚宫之间挖掘“德拉帕尔马”庭院时发现该石盆。
+
+## Sant'Agnese
+
+[圣阿格尼丝殉道教堂](https://zh.wikipedia.org/wiki/%E5%9C%A3%E4%BE%9D%E6%90%A6%E6%96%AF%E6%AE%89%E9%81%93%E5%A0%82)是一座罗马天主教宗座圣殿，始建于1652年。
+
+## Piazza della Rotonda
+
+[罗通达广场](https://zh.wikipedia.org/wiki/%E7%BD%97%E9%80%9A%E8%BE%BE%E5%B9%BF%E5%9C%BA)位于万神庙以北，中间是喷泉和方尖碑。
+
+## Clermont-Ferrand
+
+[克莱蒙费朗](https://zh.wikipedia.org/wiki/%E5%85%8B%E8%8E%B1%E8%92%99%E8%B4%B9%E6%9C%97)，法国中南部城市，历史悠久，早在公元前一世纪就已成为[阿维尔尼人](https://zh.wikipedia.org/wiki/%E9%98%BF%E7%BB%B4%E5%B0%94%E5%B0%BC)的活动中心。
+
+
+## Milliarium aureum
+
+[金色里程碑](https://zh.wikipedia.org/wiki/%E9%87%91%E8%89%B2%E9%87%8C%E7%A8%8B%E7%A2%91)是古罗马时期的公路原点，也是所有罗马道路的起点。金色里程表修建于公元前20年，现在仅保留基座的部分。
+
+## Mosel
+
+[摩泽尔河](https://zh.wikipedia.org/wiki/%E6%91%A9%E6%BE%A4%E7%88%BE%E6%B2%B3)是莱茵河在德国境内第二大支流。也是仅次于莱茵河的德国第二大航运河流。摩泽尔河畔为著名葡萄酒产区。
+
+## lykischen
+
+[吕基亚](https://zh.wikipedia.org/wiki/%E5%90%95%E5%9F%BA%E4%BA%9A)是土耳其安纳托利亚历史上的一个地区。罗马帝国时期，这里是亚洲的一个行省。
+
+## Ekbatana
+
+[埃克巴坦那](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%85%8B%E5%B7%B4%E5%9D%A6%E9%82%A3)位于现今伊朗境内的哈马丹，是一座古老城市。是米底亚王国首都，后来成为波斯首都。
+
+## Dioskuren-Tempel
+
+[卡斯托尔和波吕克斯神庙](https://zh.wikipedia.org/wiki/%E5%8D%A1%E6%96%AF%E6%89%98%E5%B0%94%E5%92%8C%E6%B3%A2%E5%90%95%E5%85%8B%E6%96%AF%E7%A5%9E%E5%BA%99)是罗马市古罗马广场的一座古代建筑，是为了庆祝里吉洛斯湖战役（前495年）的胜利而建。
+
+## Via Sacra
+
+[圣道](https://zh.wikipedia.org/wiki/%E5%9C%A3%E9%81%93)是古罗马的主街道，从卡比托利欧山山顶，经过古罗马广场的一些重要宗教遗迹，到达罗马斗兽场。
+
+## Palazzo Venezia
+
+[威尼斯宫](https://zh.wikipedia.org/wiki/%E5%A8%81%E5%B0%BC%E6%96%AF%E5%AE%AB)是位于罗马卡比托利欧山北侧，曾经是威尼斯共和国使馆。
+
+## Piazza S. Andrea della Valle
+
+[圣安德烈亚圣殿](https://zh.wikipedia.org/wiki/%E5%9C%A3%E5%AE%89%E5%BE%B7%E8%82%8B%E5%9C%A3%E6%AE%BF)是罗马的一座宗座圣殿，也是戴蒂尼会的总会。
+
+## Via Cassia
+
+[卡西亚大道](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E4%BA%9E%E9%81%93)是一条重要的罗马道路，修建于约公元前187年。
