@@ -227,6 +227,18 @@
 
 [那伊阿得斯](https://zh.wikipedia.org/wiki/%E9%82%A3%E4%BC%8A%E9%98%BF%E5%BE%97%E6%96%AF)是希腊神话中体现自然现象与自然力的女性精灵。
 
+## Don Calògero Sedàra
+
+唐卡洛杰罗·塞达拉是《豹》中的人物，多纳富伽塔的镇长。
+
+## Einaudi
+
+[埃诺迪](https://it.wikipedia.org/wiki/Giulio_Einaudi_Editore)全称Giulio Einaudi Editore，简称为Einaudi，是一家意大利出版社，成立于1933年。
+
+## Mondadori
+
+[蒙达多里出版集团](https://it.wikipedia.org/wiki/Arnoldo_Mondadori_Editore)是[阿诺尔多·蒙达多里](https://it.wikipedia.org/wiki/Arnoldo_Mondadori)创始的书籍和报纸出版品牌。
+
 ## Salina
 
 ## Elymer
@@ -807,10 +819,6 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 字面意思是“屠夫狗”。这是对肉类工业中品质不好的狗的名称，经常被用来暗示这些狗是邪恶和残忍的。
 
-## Tedeum
-
-[《赞美颂》](https://zh.wikipedia.org/wiki/%E8%AE%9A%E7%BE%8E%E9%A0%8C)是4世纪时写就的一首拉丁文基督教赞美诗，是基督教最常用的赞美诗之一。
-
 ## Aurelianischen Mauer
 
 [奥勒利安城墙](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8B%92%E8%89%AF%E5%9F%8E%E5%A2%99)是皇帝[奥勒利安](https://zh.wikipedia.org/wiki/%E5%A5%A5%E5%8B%92%E8%89%AF)修建于271年的一道城墙。
@@ -846,10 +854,6 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Gouverneur
 
 一般是[政区首长](https://zh.wikipedia.org/wiki/%E6%94%BF%E5%8C%BA%E9%A6%96%E9%95%BF)的通称，也有译作总督。
-
-## Vizekönig
-
-[总督](https://zh.wikipedia.org/wiki/%E7%B8%BD%E7%9D%A3_(%E6%AE%96%E6%B0%91%E5%9C%B0%E5%AE%98%E8%81%B7))是西方国家的君主在殖民地或行省代理人的官职或称号。直译作“副王”。
 
 ## Präfektur
 
@@ -1338,6 +1342,26 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 朱塞佩·托马西·卡罗就是兰佩杜萨的全名。
 
+## Elena Craveri
+
+[埃琳娜·克拉维里(1915-1994)](https://it.wikipedia.org/wiki/Elena_Croce)是一位意大利翻译家、作家和环保主义者。1937年，与雷蒙多·克拉维里(Raimondo Craveri)结婚。
+
+## Benedetto Croce
+
+[贝内德托·克罗齐(1866-1952)](https://zh.wikipedia.org/wiki/%E8%B4%9D%E5%86%85%E5%BE%B7%E6%89%98%C2%B7%E5%85%8B%E7%BD%97%E9%BD%90)是意大利著名文艺批评家、历史学家、哲学家、政治家。对葛兰西有深远影响。
+
+## Elio Vittorini
+
+[埃利奥·维托里尼(1908-1966)](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%88%A9%E5%A5%A7%C2%B7%E7%B6%AD%E6%89%98%E9%87%8C%E5%B0%BC)是意大利作家和小说家，曾与卡尔维诺共同编辑左翼杂志。
+
+## Giorgio Bassani
+
+[乔治奥·巴萨尼(1916-2000)](https://en.wikipedia.org/wiki/Giorgio_Bassani)是一位意大利小说家、诗人、散文家、编辑和国际知识分子。
+
+## Feltrinelli
+
+[詹贾科莫·费尔特里内利(1926-1972)](https://en.wikipedia.org/wiki/Giangiacomo_Feltrinelli)是一位具有很大影响力的意大利出版商、商人和政治活动家，活跃于第二次世界大战和意大利领先时期。他创建了一个庞大的文献图书馆，主要涉及国际劳工和社会主义运动的历史。
+
 ## Chateaubriand
 
 [弗朗索瓦·勒内·德·夏多布里昂(1768-1848)]是法国十八至十九世纪的作家，政治家，外交家，法兰西学术院院士。
@@ -1352,7 +1376,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 ## Cagliostro
 
-卡廖斯特罗
+[亚历山德罗·卡廖斯特罗(1743-1795)](https://zh.wikipedia.org/wiki/%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E7%BD%97%C2%B7%E5%8D%A1%E5%BB%96%E6%96%AF%E7%89%B9%E7%BD%97)是一位来自意大利西西里王国巴勒莫的冒险家，他自称为炼金术师，擅长各种神秘艺术，包括心理治疗、炼金术和占卜。
 
 ## Indro Montanelli
 
