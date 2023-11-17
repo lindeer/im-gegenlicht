@@ -1011,6 +1011,14 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 可能是剧作[《Le Soulier de satin》](https://fr.wikipedia.org/wiki/Le_Soulier_de_satin)，讲述了一个以罪孽与救赎为主题的爱情故事。
 
+## Janus
+
+[雅努斯](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8A%AA%E6%96%AF)是罗马神话中开端、大门、选择、过渡、时间、对偶、道路、门框和结尾的神。通常被描述成有前后两张面孔，展望着过去和未来。
+
+## Monsignore Chitarella
+
+[奇塔雷拉](https://it.wikipedia.org/wiki/Codice_di_Chitarrella)[蒙席](https://zh.wikipedia.org/zh-cn/%E8%92%99%E5%B8%AD)是指奇塔雷拉发明的玩牌游戏。发明者奇塔雷拉身份不明。蒙席是天主教的一种荣誉称号。
+
 # 人名
 
 ## Karl Philipp Moritz
@@ -2730,6 +2738,34 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [恩里科·拉斯泰利(1896-1931)](https://en.wikipedia.org/wiki/Enrico_Rastelli)是一位意大利杂耍演员、杂技演员和表演者。
 
+## Giovanni Vitelleschi
+
+[乔瓦尼·玛丽亚·维泰莱斯奇(1396-1440)](https://en.wikipedia.org/wiki/Giovanni_Vitelleschi)是意大利红衣主教和传奇的雇佣兵队长。
+
+## Benvenuto Cellini
+
+[本韦努托·切利尼(1500-1571)](https://zh.wikipedia.org/zh-cn/%E6%9C%AC%E9%9F%A6%E5%8A%AA%E6%89%98%C2%B7%E5%88%87%E5%88%A9%E5%B0%BC)是一位意大利文艺复兴时期的金匠、画家、雕塑家、战士和音乐家，还写过一本著名的[《切利尼自传》](https://book.douban.com/subject/25859389/)。
+
+## Giordano Bruno
+
+[焦尔达诺·布鲁诺(1548-1600)](https://zh.wikipedia.org/wiki/%E7%84%A6%E7%88%BE%E9%81%94%E8%AB%BE%C2%B7%E5%B8%83%E9%AD%AF%E8%AB%BE)是文艺复兴时期的意大利哲学家、数学家、诗人、宇宙学家和宗教人物。
+
+## Heilige Theresa
+
+[利雪的德兰(1873-1897)](https://zh.wikipedia.org/zh-cn/%E5%88%A9%E9%9B%AA%E7%9A%84%E5%BE%B7%E8%98%AD)，本名玛利-方济各·德肋撒·马汀，是一名法国赤足加尔默罗会修女。
+
+## de Brosses
+
+[夏尔·德·布罗塞斯(1709-1777)](https://en.wikipedia.org/wiki/Charles_de_Brosses)，是18世纪的法国学者，是家乡议会的主席。
+
+## Thorwaldsen
+
+[阿尔伯特·贝特尔·托瓦尔森(1770-1844)](https://zh.wikipedia.org/wiki/%E8%B4%9D%E7%89%B9%E5%B0%94%C2%B7%E6%89%98%E7%93%A6%E5%B0%94%E6%A3%AE)，丹麦新古典主义雕塑家。
+
+## Carl August
+
+[卡尔·奥古斯特(1757-1828)](https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E5%A5%A5%E5%8F%A4%E6%96%AF%E7%89%B9_(%E8%90%A8%E5%85%8B%E6%A3%AE-%E9%AD%8F%E7%8E%9B-%E8%89%BE%E6%A3%AE%E7%BA%B3%E8%B5%AB))，德意志邦国萨克森-魏玛-艾森纳赫的统治者。
+
 # 地名
 
 ## Syrakus
@@ -4195,3 +4231,83 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 ## Via Cassia
 
 [卡西亚大道](https://zh.wikipedia.org/wiki/%E5%8D%A1%E8%A5%BF%E4%BA%9E%E9%81%93)是一条重要的罗马道路，修建于约公元前187年。
+
+## Via delle Botteghe Oscure
+
+[奥斯库雷商铺街](https://it.wikipedia.org/wiki/Via_delle_Botteghe_Oscure)是罗马市中心的一条街道，分隔圣天使区和皮尼亚区。
+
+## Palazzo Spada
+
+[斯帕达宫](https://zh.wikipedia.org/wiki/%E6%96%AF%E5%B8%95%E8%BE%BE%E5%AE%AB)是罗马市中心的一座宫殿，非常接近法尔内塞宫。宫殿内拥有大量的艺术收藏品，开辟为斯帕达画廊（Galleria Spada）。
+
+## Cancelleria
+
+[文书院宫](https://zh.wikipedia.org/wiki/%E6%96%87%E4%B9%A6%E9%99%A2%E5%AE%AB)是罗马的一座宫殿，位于维托里奥·埃马努埃莱二世大街与鲜花广场之间。是世界文化遗产。
+
+## Schildkrötenbrunnen
+
+[海龟喷泉](https://zh.wikipedia.org/wiki/%E4%B9%8C%E9%BE%9F%E5%96%B7%E6%B3%89)是一个位于罗马马泰广场的艺复兴晚期喷泉，位于罗马马泰广场，建于1580-1588年。青铜乌龟可能是贝尔尼尼的作品。
+
+## Piazza Ungheria
+
+[翁盖利亚广场](https://mapcarta.com/33102340)罗马波梅齐亚的一个广场。附近是托尔瓦亚尼卡和阿尔代亚。
+
+## S. Maria della Vittoria
+
+[胜利之后圣母教堂](https://zh.wikipedia.org/wiki/%E8%83%9C%E5%88%A9%E4%B9%8B%E5%90%8E%E5%9C%A3%E6%AF%8D%E5%A0%82_(%E7%BD%97%E9%A9%AC))是一座罗马天主教宗座圣殿，也是间司铎级枢机领衔圣堂，位于意大利罗马的九月二十日街。教堂始建于1605年，是属于加尔默罗会。
+
+## Spello
+
+[斯佩洛](https://zh.wikipedia.org/wiki/%E6%96%AF%E4%BD%A9%E6%B4%9B)是意大利的一个古老乡镇，是意大利最美丽的村庄之一。
+
+## Vigevano
+
+[维杰瓦诺](https://zh.wikipedia.org/wiki/%E7%BB%B4%E6%9D%B0%E7%93%A6%E8%AF%BA)是一座历史悠久的艺术小镇，也因制鞋而闻名，也以镇中心文艺复兴时期的公爵广场而闻名。
+
+## San Lorenzo
+
+[圣洛伦索](https://en.wikipedia.org/wiki/San_Lorenzo_(Rome))是罗马的一个市区。
+
+## Ponte Mammolo
+
+[马莫罗桥](https://en.wikipedia.org/wiki/Ponte_Mammolo_(Rome_Metro))是位于罗马东北部的一个街区，紧邻阿涅内河流域自然保护区，街道两旁林立着商店、商家、休闲酒吧和舒适的披萨店。
+
+## Piazza Mattei
+
+[马泰广场](https://www.turismoroma.it/en/places/mattei-square)位于文艺复兴时期罗马的中心地带，位于罗马的犹太区，周围环绕着贵族宫殿，中心是罗马最美丽的喷泉之一：海龟喷泉。
+
+## S. Carlino
+
+[四喷泉圣卡罗教堂](https://zh.wikipedia.org/wiki/%E5%9B%9B%E6%B3%89%E5%9C%A3%E5%98%89%E7%A6%84%E5%A0%82)是一座罗马的天主教教堂，由建筑师弗朗切斯科·博罗米尼设计，修建于1638-1641年，以复杂的几何形体装饰。
+
+## Palazzo Farnese
+
+[法尔内塞宫](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%B0%94%E5%86%85%E5%A1%9E%E5%AE%AB)是罗马一座杰出的文艺复兴建筑，同时也是法国驻意大利大使馆，坐落在[法尔内塞广场](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%B0%94%E5%86%85%E5%A1%9E%E5%B9%BF%E5%9C%BA)。
+
+## S. Maria Maggiore
+
+[圣母大殿](https://zh.wikipedia.org/wiki/%E5%9C%A3%E6%AF%8D%E5%A4%A7%E6%AE%BF)是天主教会的四座特级宗座圣殿之一。
+
+## Ponte Molle
+
+[米尔维奥桥](https://en.wikipedia.org/wiki/Ponte_Milvio)，是一座建于1345年的古老大桥，是台伯河上的重要桥梁。
+
+## S. Maria del Popolo
+
+[人民圣母圣殿](https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%9C%A3%E6%AF%8D%E5%9C%A3%E6%AE%BF)位于人民广场的北边，是一座著名的奥斯定会圣堂，最初建于1099年。
+
+## Via Salaria
+
+[撒拉里大道](https://zh.wikipedia.org/zh-cn/%E6%92%92%E6%8B%89%E9%87%8C%E9%81%93)是古罗马一条道路。终点是亚德里亚海沿岸的阿斯科利港，全长242公里。
+
+## Sabiner Berge
+
+[萨宾山脉](https://de.wikipedia.org/wiki/Sabiner_Berge)是阿布鲁佐亚平宁山脉的西麓，位于台伯河和图拉诺河之间。这里是19 世纪的旅游胜地之一，特别对浪漫主义艺术家而言。
+
+## Fara Sabina
+
+[法拉-因萨比纳](https://zh.wikipedia.org/wiki/%E6%B3%95%E6%8B%89-%E5%9B%A0%E8%90%A8%E6%AF%94%E7%BA%B3)位于罗马东北约40公里处。
+
+## Soracte
+
+[索拉特山](https://en.wikipedia.org/wiki/Monte_Soratte)位于罗马以北45公里处，是台伯河谷唯一著名的山脊。
