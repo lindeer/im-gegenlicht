@@ -1058,7 +1058,7 @@ Magdalena指的是[抹大拉的马利亚](https://zh.wikipedia.org/wiki/%E6%8A%B
 
 [奥古斯特·冯·普拉滕(1796-1835)](https://de.wikipedia.org/wiki/August_von_Platen-Hallerm%C3%BCnde)是罕见的语言天才。
 
-## Horaz
+## Horatio
 
 [昆图斯·贺拉提乌斯·弗拉库斯(前65-前8)](https://zh.wikipedia.org/wiki/%E8%B4%BA%E6%8B%89%E6%96%AF)是古罗马奥古斯都时期的著名诗人、批评家、翻译家，古罗马文学“黄金时代”的代表人物。
 
