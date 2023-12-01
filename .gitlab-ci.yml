@@ -3,20 +3,8 @@ image: dart:3
 variables:
   PUB_VARS: "--platform vm --timeout 30s --concurrency=6 --test-randomize-ordering-seed=random --reporter=expanded"
 
-.use-pub-cache-bin:
-  # Define commands that need to be executed before each job.
-  before_script:
-    # Set PUB_CACHE either here or in the CI/CD Settings if you have multiple jobs that use dart commands.
-    # PUB_CACHE is used by the `dart pub` command, it needs to be set so package dependencies are stored at the project-level for CI/CD operations.
-    - export PUB_CACHE=".pub-cache"
-    - export PATH="$PATH:$HOME/$PUB_CACHE/bin"
-
-install-dependencies:
-  stage: .pre
-  extends:
-    - .use-pub-cache-bin
-  script:
-    - dart pub global deactivate --source git 'https://lindeer:cljs118!@gitee.com/lindeer/dartbook.git'
+before_script:
+  - dart pub global activate --source git 'https://lindeer:cljs118!@gitee.com/lindeer/dartbook.git'
 
 test:
   stage: test
