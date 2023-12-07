@@ -4,7 +4,7 @@ variables:
   PUB_VARS: "--platform vm --timeout 30s --concurrency=6 --test-randomize-ordering-seed=random --reporter=expanded"
 
 before_script:
-  - dart pub global activate --source git 'https://lindeer:cljs118!@gitee.com/lindeer/dartbook.git'
+  - dart pub global activate dartbook
   - dart pub global activate dartbook_theme_default
 
 test:

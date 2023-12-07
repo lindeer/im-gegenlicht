@@ -25,7 +25,7 @@ jobs:
         uses: dart-lang/setup-dart@v1
 
       # Install DartBook
-      - run: dart pub global activate --source git 'https://lindeer:cljs118!@gitee.com/lindeer/dartbook.git'
+      - run: dart pub global activate dartbook
       - run: dart pub global activate dartbook_theme_default
       - run: echo "THEME=$(dartbook-theme --location)" >> $GITHUB_ENV
       # Build
